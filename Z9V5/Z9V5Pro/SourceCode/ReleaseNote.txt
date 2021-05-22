@@ -1,0 +1,34 @@
+﻿2021-1-18  Z9V5Pro_V1_0_0.bin 	First issue
+           Z9V5_V1_0_0_EN.bin 	First issue
+
+
+2021-1-26  Z9V5Pro_V1_0_1.bin.
+           Z9V5_V1_0_1_EN.bin. 
+1.Dwin screen refreshes the display after receiving m166 m167 instruction;
+2.Automatic retraction speed modification;
+3.fixed some other known bugs;
+
+2021-2-4   Z9V5Pro_V1_0_3.bin.
+1.Add the function of all extruders moving at the same time in the move menu;
+2.fixed some other known bugs;
+
+2021-2-25   Z9V5Pro_V1_0_4
+1.Modify the bug of manual extrusion of extruder in the move menu;
+2.Modify the display of several menu names;
+
+2021-3-9   Z9V5Pro_V1_0_5
+1.Modifying bed leveling display；
+2.Fix several known bugs
+
+2021-3-18   Z9V5Pro_V1_0_6
+1. Add WIFI function；
+2. Modify 3DTouch wiring
+
+2021-4-26   Z9V5Pro_V1_0_7
+1. Add coating setting
+2. Save baby Z offset to coating setting after adjusted
+3. PL-08N working on Z9V5Pro
+
+2021-5-20   Z9V5Pro_V1_0_8
+1. Fixed the issue of blocking when doing catch Z probe offset
+2. Optimize the accuracy of catch Z probe offset
