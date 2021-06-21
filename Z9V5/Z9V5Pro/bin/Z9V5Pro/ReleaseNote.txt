@@ -39,4 +39,26 @@ PS: if you find the nozzle is too Heigth/Low when printing the first layer, Redu
 
 2021-5-15   Z9V5Pro_V1_0_8_beta
 [CHG]1. Save WiFi On Off
-[CHG]2. Rempve unactived menu option of config when printing from SD card
+[CHG]2. Remove unactived menu option of config when printing from SD card
+
+2021-6-19   Z9V5Pro_V1_1_0
+[CHG]1. Optimize the menu arrangement and display effect.
+
+
+[CHG]2. Fix the confirmation logic of WiFi module.
+
+[CHG]
+3. Optimize automatic leveling function:
+
+3.1. Add probe offset setting (usually, if the catch offset effect is not good and the height of the nozzle is not suitable when printing the first layer after auto leveling, you need to adjust babystepz. You can add babystep value to probezofaffset and do auto leveling again)
+
+
+3.2 Add Probing heigh table display for automatic leveling.
+
+
+For more description of the auto leveling function, please refer to the directory "bed auto leveling"
+[CHG]4. Change the text of the menu item "bed coasting" to "home Z offset"
+
+
+[BUG]5. Fixed several known bugs
+
