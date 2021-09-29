@@ -1,0 +1,1 @@
+copy the gcode file to SD card, and "print" it wait for about 15 minutes

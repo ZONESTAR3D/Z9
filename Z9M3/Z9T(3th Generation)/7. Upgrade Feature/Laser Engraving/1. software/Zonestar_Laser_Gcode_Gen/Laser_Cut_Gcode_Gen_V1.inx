@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Comment -->
+<!--  -->
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+	<name>ZONESTAR Laser Cut GCode Generator V1</name>
+	<id>com.ZONESTAR.Laser_Cut_Gcode_Gen_V1</id>
+	<dependency type="executable" location="extensions">Laser_Cut_Gcode_Gen_V1.py</dependency>
+	<dependency type="executable" location="extensions">inkex.py</dependency>
+	
+	<param name="Title" type="description">ZONESTAR Laser Cut GCode generator Ver:1.0</param>
+
+	<param name="add-power-on-laser-message" type="boolean" _gui-text="Wait for turn on laser Engine">true</param>
+	<param name="laser-control" type="string"  gui-text="Laser Control Command">M106</param>
+	<param name="laser-Phase" type="boolean" _gui-text="Laser Phase:">false</param>
+	<param name="laser-power" type="int" min="0" max="255" _gui-text="Laser Power S# (0-255):">255</param>
+	<param name="power-on-delay" type="int" min="0" max="1000" _gui-text="Laser Power On Delay (ms):">20</param>
+	<param name="power-off-delay" type="int" min="0" max="1000" _gui-text="Laser Power Off Delay (ms):">100</param>
+	<param name="z-offset" type="int" min="0" max="100" gui-text="Z axis height when start engraving (mm):">10</param>
+	<param name="travel-speed" type="int" min="0" max="6000" _gui-text="Travel Speed (mm/min or in/min):">1200</param>
+	<param name="laser-speed" type="int" min="0" max="1200" _gui-text="Laser Speed (mm/min or in/min):">480</param>
+	<param name="passes" type="int" min="1" max="100" _gui-text="Passes:">1</param>
+	<param name="pass-depth" type="float" min="0" max="10" _gui-text="Pass Depth (mm or in):">1</param>
+	<param name="directory" type="string" _gui-text="Directory:"></param>
+	<param name="filename" type="string" _gui-text="Filename:">output.gcode</param>
+	<param name="add-numeric-suffix-to-filename" type="boolean" _gui-text="Add numeric suffix to filename">true</param>
+
+  <param name="unit" type="enum" _gui-text="All Units (mm or in):">
+    <item value="G21 (All units in mm)">mm</item>
+    <item value="G20 (All units in inches)">in</item>
+  </param>
+
+	<effect>
+		<effects-menu>
+			<submenu _name="ZONESTAR Laser Gcode Generator"/>
+		</effects-menu>
+		<object-type>path</object-type>
+  	</effect>
+
+	<script>
+		<command reldir="extensions" interpreter="python">Laser_Cut_Gcode_Gen_V1.py</command>
+	</script>
+
+</inkscape-extension>

@@ -1,0 +1,10 @@
+We recommand repetier-Host slice and control software, plz download from:
+https://www.repetier.com/download-software/
+
+
+More Slice software and guide, plz refer to the below URL:
+https://www.repetier.com/documentation/repetier-host/slicing/
+http://www.reprap.org/wiki/Resources 
+
+Slice Guide Link:
+https://www.dropbox.com/sh/mib06e5v75cfkff/AACm93C6ebgy0h4MOw8x2Wzxa?dl=0

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Comment -->
+<!--  -->
+<inkscape-extension xmlns="http://www.inkscape.org/namespace/inkscape/extension">
+	<name>ZONESTAR Laser Engraving GCode Generator V3</name>
+	<id>com.ZONESTAR.Laser_Engraving_Gcode_Gen_V3</id>
+	
+	<!-- Dipendenze, basta solo lo script python principale -->
+	<dependency type="executable" location="extensions">Laser_Engraving_Gcode_Gen_V3.py</dependency>
+	<dependency type="executable" location="extensions">inkex.py</dependency>
+	    	
+	<!-- Parametri di input per lo script python che vengono visualizzati nel widget creato da inkscape-->
+	<!-- vengono generati in ordine di come vengono scritti  -->
+	
+	<!-- Titolo e descrizione -->
+	<param name="Title" type="description">ZONESTAR Laser Engraving GCode generator Ver:3.0</param>
+		
+	<param name="bg_color" type="enum" gui-text="Replace transparency with">
+		<_item value="#ffffff">White</_item>
+		<_item value="#000000">Black</_item>
+	</param>
+	
+	<param name="resolution" type="enum" gui-text="Resolution">
+		<_item value="1">1 pixel/mm</_item>
+		<_item value="2">2 pixel/mm</_item>
+		<_item value="5">5 pixel/mm</_item>
+		<_item value="10">10 pixel/mm</_item>
+		<_item value="20">20 pixel/mm</_item>
+		<_item value="40">40 pixel/mm</_item>
+	</param>
+		
+	<param name="BW_threshold" type="int" min="1" max="254" gui-text="B/W threshold">128</param>
+	<param name="flip_y" type="boolean" gui-text="Flip Y">false</param>
+	
+	<param name="travel-speed" type="int" min="300" max="6000" gui-text="Travel speed(mm/min)">1200</param>
+	<param name="laser-speed" type="int" min="30" max="1200" gui-text="Engraving speed(mm/min)">480</param>
+	<param name="add-turn-on-laser-message" type="boolean" gui-text="Wait for turn on laser Engine">true</param>
+	<param name="laser-control" type="string"  gui-text="Laser Control Command">M106</param>
+	<param name="laser-Phase" type="boolean" _gui-text="Laser TTL Phase">false</param>
+	<param name="laser-power" type="int" min="0" max="255" _gui-text="Laser Power S# (0-255):">255</param>
+	<param name="poweron-delay" type="int" min="0" max="1000" _gui-text="Laser Power On Delay (ms):">20</param>
+	<param name="poweroff-delay" type="int" min="0" max="1000" _gui-text="Laser Power Off Delay (ms):">100</param>
+	<param name="z-offset" type="int" min="5" max="100" gui-text="Z axis height when start engraving (mm):">10</param>		
+	<param name="directory" type="string"  gui-text="Export directory">E:\</param>
+	<param name="filename" type="string"  gui-text="File Name">output</param>
+	<param name="add-numeric-suffix-to-filename" type="boolean" gui-text="Add numeric suffix to filename">true</param>
+	
+	<param name="preview_only" type="boolean" gui-text="Preview only">false</param>
+	<param name="p_only" type="description">If "Preview only" is true the gcode file will not be generated.</param>
+
+
+	<!-- Per togliere la casella Antepima diretta bisogna sostituire <effect> con <effect needs-live-preview="false">  -->
+	<!-- <effect> -->
+	<!-- 	<effect needs-live-preview="false"> -->
+	<effect needs-live-preview="false"> 
+        <object-type>all</object-type>
+		<!-- Dove comparirà lo script all'interno del menù estensioni -->
+		<!--  " Estensioni => ZONESTAR => prova_estensione " -->
+        <effects-menu>
+            <submenu name="ZONESTAR Laser Gcode Generator"/>
+        </effects-menu>
+    </effect>
+    
+	<!-- Script python da eseguire -->
+	<script>
+    	<command reldir="extensions" interpreter="python">Laser_Engraving_Gcode_Gen_V3.py</command>
+    </script>
+</inkscape-extension>
+
+
