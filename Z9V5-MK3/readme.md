@@ -5,14 +5,11 @@
 3. Installation video tutorial  
 4. Wiring Diagram  
 5. Operature guide for Mixing Color Printer    
-
-# Operation Guide
-**Included:**  
-1. USB driver  
-2. How to load and Unload filament guide  
-3. Print from PC guide  
-4. Advanced features guide  
-5. Bed Auto Leveling Feature guide  
+6. USB driver  
+7. How to load and Unload filament guide  
+8. Print from PC guide  
+9. Advanced features guide  
+10. Bed Auto Leveling Feature guide  
 
 # Slicing
 **This directory included the slicing guide, for the newest slicing guide, please download from [slicing guide ](https://github.com/ZONESTAR3D/Slicing-Guide)**
