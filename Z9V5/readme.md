@@ -1,3 +1,12 @@
+# <font color = red>!!NOTE!!</font>
+We suggest you follow the steps below to read the guide before using the 3d printer:
+1. Learn how to print a single color 3D object. Please read the pages (from 17~20) in the "installation and quickly user guide".   
+2. Once you can print the single color 3D object well, you can try to study how to slicing, please find the user guide and video tutorial from here (***It is recommended to start from Cura***): [Slicing-Guide](https://github.com/ZONESTAR3D/Slicing-Guide)  
+3.  Next, you can learn how to realize mixed color and multi-color printing. Please read the following documents:  
+>***Learn about the functions of LCD menu:*** LCD-DWIN MENU Description.pdf  
+>***Learn how to load filament:*** How to load filament.pdf  
+>***learn how to operate the mixing-color extruder of the printer:*** Operature guide for Mixing Color Extruder  
+
 # Installation and User Guide 
 **Included:**  
 1. Installation and Quick user guide  
