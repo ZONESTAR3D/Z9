@@ -1,11 +1,11 @@
-# <font color=red>!!NOTE!!</font>
-We suggest you follow the steps below to read the guide before using the 3d printer:
-1. Learn how to print a single color 3D object. Please read the pages (from 17~20) in the "installation and quickly user guide".   
-2. Once you can print the single color 3D object well, you can try to study how to slicing, please find the user guide and video tutorial from here (***It is recommended to start from Cura***): [Slicing-Guide](https://github.com/ZONESTAR3D/Slicing-Guide)  
-3.  Next, you can learn how to realize mixed color and multi-color printing. Please read the following documents:  
-***To know about the functions of LCD menu:*** LCD-DWIN MENU Description.pdf  
-***To know how to load filament:*** How to load filament.pdf  
-***To know how to operate the mixing-color extruder of the printer:*** Operature guide for Mixing Color Extruder.pdf  
+<font color=red>
+# NOTE
+***Before using the 3d printer, please:***  
+1. Carefully to read the pages (from 17~20) in the "installation and quick user guide".  
+2. Carefully to read the file "How to load filament.pdf".  
+3. Carefully to read "Operature guide for Mixing Color printer.pdf"
+***ATTETION!Incorrect filament loading may lead to blockage of the hot end***  
+</font>
 
 # Installation and User Guide 
 **Included:**  
@@ -21,7 +21,7 @@ We suggest you follow the steps below to read the guide before using the 3d prin
 10. Bed Auto Leveling Feature guide  
 
 # Slicing
-**This directory included the slicing guide, for the newest slicing guide, please download from [slicing guide ](https://github.com/ZONESTAR3D/Slicing-Guide)**
+**This directory included the slicing guide, for the newest slicing guide, please refer to [slicing guide ](https://github.com/ZONESTAR3D/Slicing-Guide)**
 
 # Test gcode
 **This directory included some gcode files for testing**  
