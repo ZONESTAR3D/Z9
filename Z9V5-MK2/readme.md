@@ -3,7 +3,7 @@
 1. Carefully to read the pages (from 17~20) in the "installation and quick user guide".  
 2. Carefully to read the file "How to load filament.pdf".  
 3. Carefully to read "Operature guide for Mixing Color printer.pdf"  
-***ATTETION: Incorrect filament loading may lead to blockage of the hot end***  
+***ATTETION: Incorrect filament loading may clog the hot end, if the hotend is clogged, please refer to the document "5.\FAQ\How to clean the cloged mixing Color hotend.pdf" to fix***  
 
 # Installation and User Guide 
 **Included:**  
