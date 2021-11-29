@@ -1,11 +1,12 @@
-# ATTETION PLEASE
+# NOTICE
 ***Before using the 3d printer, please:***  
 1. Carefully to read the pages (from 17~20) in the "installation and quick user guide".  
 2. Carefully to read the file "How to load filament.pdf".  
 3. Carefully to read "Operature guide for Mixing Color printer.pdf"  
-***WARNING: Incorrect filament loading may cause to clog the hotend, if the hotend is clogged, please refer to the document "FAQ\How to clean the cloged mixing color hotend.pdf" to fix***  
+***ATTETION: Incorrect filament loading may cause to clog the hotend, if the hotend is clogged, please refer to the document "FAQ\How to clean the cloged mixing color hotend.pdf" to fix***  
 
-# Installation and User Guide 
+# Documents
+## 1.Installation and User Guide 
 **Included:**  
 1. Installation and quick user guide  
 2. LCD screen menu description  
@@ -18,24 +19,24 @@
 9. Advanced features guide  
 10. Bed auto leveling feature guide  
 
-# Slicing
+## 2.Slicing
 **Included slicing guide, for the newest slicing guide, please click here [slicing guide ](https://github.com/ZONESTAR3D/Slicing-Guide)**
 
-# Test gcode
+## 3.Test gcode
 **Included some testing gcode files**  
 
-# FAQ
+## 4.FAQ
 **Included troubleshooting and FAQ files**
 
-# Firmware
+## 5.Firmware
 **[Firmware bin file](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5)**   
 **[Firmware source code](https://github.com/ZONESTAR3D/source-code-for-3d-printer)**   
 
-# Others
+## 6.Others
 **Print parts stl files, user Guide for improve features etc.**
 
-# Video toturial  
-## Installation and operation      
+## 7.Video toturial  
+### Installation and operation      
 [***Installaltion guide***](https://youtu.be/i57R1NDj2d4)    
 [***How to load filament (one color)***](https://youtu.be/W1_XiT4g9kg)  
 [***How to load filament (Mutli-colors)***](https://youtu.be/Rsd8GYrEVCQ)  
@@ -43,20 +44,23 @@
 [***Gradient Mixing Color Printing***](https://youtu.be/agj3J1HBDt8)  
 [***Random Mixing Color Printing***](https://youtu.be/qvT_BX4C2Rk)  
 
-## Advanced features
+### Advanced features
 [***Auto Retract Feature***](https://youtu.be/4HVIGxZfM80)  
 [***Filament Runout***](https://youtu.be/viTvzIskwY8)  
 [***Print done auto shutdown***](https://youtu.be/hXzHtXrX1X0)  
 
-## Slicing guide (by Cura)  
+### Slicing guide (by Cura)  
 [***Install and setup Cura***](https://youtu.be/h2GynyUo7wQ)  
 [***slicing 1 color 3d object***](https://youtu.be/UDgjGRFrELc)  
 [***slicing 4 colors 3d object***](https://youtu.be/hP6Socp-Cz0)    
 [***slicing 8 colors 3d object***](https://youtu.be/qQ6UnTysqK0)      
-## Printing demo video
+
+### Printing demo video
 [***Z9V5 Printing Demo***](https://youtu.be/1P68SxGHM80)  
 [***Z9V5 Mixing-color Printing Demo***](https://youtu.be/iBo0EMtFLk8)   
 [***Z9V5 Multi-color Printing Demo 1***](https://youtu.be/bSh27IySkbw)   
 [***Z9V5 Multi-color Printing Demo 2***](https://youtu.be/iPFsYml2DOk)   
-## Others
+
+### Others
 [***Electronics parts auto testing***](https://youtu.be/SJLbP9QYwBE)  
+  
