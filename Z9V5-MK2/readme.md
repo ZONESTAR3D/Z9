@@ -33,7 +33,7 @@
 
 ## 6.Firmware
 - [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5)  
-- [** Firmware source code** ](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
+- [**Firmware source code**](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
 
 ## 7.Others
 **Print parts stl files, user Guide for improve features etc.**
