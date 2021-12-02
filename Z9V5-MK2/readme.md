@@ -1,9 +1,12 @@
 # NOTICE
-***Before using the 3d printer, please:***  
+##Before using the 3d printer, please:  
 1. Carefully to read the pages (from 17~20) in the "installation and quick user guide".  
 2. Carefully to read the file "How to load filament.pdf".  
 3. Carefully to read "Operature guide for Mixing Color printer.pdf"  
 ***ATTETION: Incorrect filament loading may cause to clog the hotend, if the hotend is clogged, please refer to the document "FAQ\How to clean the cloged mixing color hotend.pdf" to fix***  
+
+## Download Z9V5-MK2 files
+[**Download all the Z9V5-MK2 files in one go**](https://downgit.github.io/#/home?url=https:/github.com/ZONESTAR3D/Z9/tree/main/Z9V5-MK2)   
 
 # Documents
 ## 1.Installation and User Guide 
@@ -70,15 +73,23 @@
 
 # Z9V5 upgrade kit / parts
 ## Laser engine
+By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point.  
 - [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser%20Engraving)  
 - [**Sell link**](https://www.aliexpress.com/item/4001309902136.html)  
 ## WiFi
+By upgrading this item, you can remote control your 3d printer.    
 - [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi)  
 - [**Sell link**](https://www.aliexpress.com/item/1005002378551489.html)  
 ## Direct drive extruder
+By upgrading this project, you can print flexible materials (such as TPU filament). Of course, it also has other advantages and disadvantages of the "direct drive" extruders, such as having less strings issue, better flow, more supporting materials, etc., Also because of the heavier weight of the extruder, the printing speed must be lower.  
 - [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct%20Drive%20Extrruder)   
 - [**Sell link**](https://www.aliexpress.com/item/1005002847644867.html)   
 ## Hotends
+Each type of hot end has its advantages and disadvantages, you can choose different hotends according to different requirement:    
+- **High-speed and high-temperature Hotend (single color)**: It can support higher  printing speed and higher temperature consumables (up to 300 degrees when using stainless steel nozzles), and can be used to print PVC and PC.  
+- **3-IN-3-OUT Hotend**: It can support printing different typs of filaments in one 3d prints, such as PLA+PVA.  
+- **3-IN-2-OUT Hotend**: It can be regarded as a combination of 2-IN-1-OUT and a single-color hot end, which can simultaneously achieve the needs of color mixing and printing of different materials.    
+We will launch more hot ends in the future, so stay tuned. If you have any suggestions, please don't hesitate to let us know at any time.   
 - [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)   
 - [**4-IN-1-OUT Non-Mixing hotend**](https://www.aliexpress.com/item/1005002951777699.html)   
 - [**High Speed Printing hotend**](https://www.aliexpress.com/item/1005002829919346.html)  
