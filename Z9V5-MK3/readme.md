@@ -6,7 +6,7 @@
 ***ATTETION: Incorrect filament loading may cause to clog the hotend, if the hotend is clogged, please refer to the document "FAQ\How to clean the cloged mixing color hotend.pdf" to fix***  
 
 ## Download Z9V5-MK3 files
-[**Download all the Z9V5-MK3 files in one go**](https://downgit.github.io/#/home?url=https:/github.com/ZONESTAR3D/Z9/tree/main/Z9V5-MK3)   
+[**Download all the Z9V5-MK3 files in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5-MK3)   
 
 # Documents
 ## 1.Installation and User Guide 
