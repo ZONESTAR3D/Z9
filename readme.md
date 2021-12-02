@@ -55,5 +55,5 @@
 ## Z9V5-MK3 
 **The different between Z9V5-MK3 and Z9V5-MK2 is that:**  
 1. **Z9V5-MK3** improved bed leveling sensor to ZLSensor, to replace the PL-08N bed leveling sensor. ZLSensor can probing the glass directly.  
-2. **Z9V5-MK3** improved the extruder motor drivers to TMC2225(from A4988). So the firmware of **Z9V5-MK3**'s firmware is different with **Z9V5(-MK1)** and **Z9V5-MK2**.
+2. **Z9V5-MK3** improved the extruder motor drivers to TMC2225(from A4988). So **Z9V5-MK3**'s firmware is different with **Z9V5(-MK1)** and **Z9V5-MK2**.
 
