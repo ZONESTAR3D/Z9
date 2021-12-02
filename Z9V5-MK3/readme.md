@@ -1,5 +1,5 @@
 # NOTICE
-##Before using the 3d printer, please:  
+## Before using the 3d printer, please:  
 1. Carefully to read the pages (from 17~20) in the "installation and quick user guide".  
 2. Carefully to read the file "How to load filament.pdf".  
 3. Carefully to read "Operature guide for Mixing Color printer.pdf"  
