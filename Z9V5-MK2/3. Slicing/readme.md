@@ -1,1 +1,1 @@
-please refer to: https://github.com/ZONESTAR3D/Slicing-Guide
+[**Download Slicing Guide**](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/cura)
