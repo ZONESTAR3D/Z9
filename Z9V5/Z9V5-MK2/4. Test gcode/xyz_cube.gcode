@@ -5,13 +5,13 @@ G1 Z15 F400
 M107 ; Turn off fan
 G90 ; Absolute positioning
 M82 ; Extruder in absolute mode
-M190 S30
+M190 S50
 T0
 ; Activate all used extruder
-M104 T0 S190
+M104 T0 S200
 G92 E0 ; Reset extruder position
 ; Wait for all used extruders to reach temperature
-M109 T0 S190
+M109 T0 S200
 ;Layer count: 100
 ;LAYER:0
 M107
