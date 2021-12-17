@@ -198,6 +198,10 @@ M140 S50
 M190 S50
 M104 S195 T0
 M109 S195 T0
+;Enable auto retraction
+M207 S12 F2400
+M208 S0  F1800
+M209 S1
 G28 ; home all axes
 G1 Z5 F3000 ; lift
 G1 X5 Y10 F1500 ; move to prime

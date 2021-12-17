@@ -5,13 +5,13 @@ G1 Z15 F400
 M107 ; Turn off fan
 G90 ; Absolute positioning
 M82 ; Extruder in absolute mode
-M190 S30
+M190 S50
 T0
 ; Activate all used extruder
-M104 T0 S190
+M104 T0 S200
 G92 E0 ; Reset extruder position
 ; Wait for all used extruders to reach temperature
-M109 T0 S190
+M109 T0 S200
 ;Layer count: 100
 ;LAYER:0
 M107
@@ -407,7 +407,7 @@ G1 F2220 X158.372 Y159.259 E195.80413
 G0 F3000 X158.938 Y159.259
 G1 F2220 X159.259 Y158.938 E195.81923
 ;LAYER:2
-M106 S127
+M106 S255
 G0 F3000 X159.400 Y159.400 Z0.700
 ;TYPE:WALL-INNER
 G1 F1980 X140.600 Y159.400 E196.44452
