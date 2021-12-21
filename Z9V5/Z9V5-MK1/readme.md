@@ -5,8 +5,8 @@
 3. Carefully to read "Operature guide for Mixing Color printer.pdf"  
 ***ATTETION: Incorrect filament loading may cause to clog the hotend, if the hotend is clogged, please refer to the document "FAQ\How to clean the cloged mixing color hotend.pdf" to fix***  
 
-## Download Z9V5(-MK1) files
-[**Download all the Z9V5(-MK1) files in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK1)     
+## Download Z9V5-MK1 files
+[**Download all the Z9V5-MK1 files in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK1)     
 **If it doesn't work, please refer to** [**here**](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)     
    
 # Documents
@@ -37,7 +37,9 @@
 
 ## 6. Firmware
 - [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5)  
-- [** Firmware source code** ](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
+- [**Firmware source code**](https://github.com/ZONESTAR3D/source-code-for-3d-printer)  
+> **Firmware bin file** is the exact memory that is written to the embedded flash.  
+> **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
 
 ## 7. Parts stl files
 **Parts stl files for this kit**   
