@@ -77,8 +77,8 @@
 ## Z9V5 upgrade kit / parts
 ### Automatic Repeat Printing Module (Only for Z9 series)
 By upgrading this module to make your 3D printer capable of continuous automatic mass production.  
-[**User guide**]((https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing)  
-[**Sell Link**](https://www.aliexpress.com/item/1005003767078457.html)  
+[**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing)   
+[**Sell Link**](https://www.aliexpress.com/item/1005003767078457.html)   
 
 ### Laser engine
 By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point.  
