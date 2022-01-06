@@ -1,4 +1,4 @@
-# NOTICE
+# :warning:NOTICE
 ## Before using the 3d printer, please:  
 1. Carefully to read the pages (from 17~20) in the "installation and quick user guide".  
 2. Carefully to read the file "How to load filament.pdf".  
@@ -74,20 +74,25 @@
 ### Others
 - [***Electronics parts auto testing***](https://youtu.be/SJLbP9QYwBE)  
 
-# Z9V5 upgrade kit / parts
-## Laser engine
+## Z9V5 upgrade kit / parts
+### Automatic Repeat Printing Module (Only for Z9 series)
+By upgrading this module to make your 3D printer capable of continuous automatic mass production.  
+[**User guide**]((https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing/readme.md)  
+[**Sell Link**](https://www.aliexpress.com/item/1005003767078457.html)  
+
+### Laser engine
 By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point.  
 - [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser%20Engraving)  
 - [**Sell link**](https://www.aliexpress.com/item/4001309902136.html)  
-## WiFi
+### WiFi
 By upgrading this item, you can remote control your 3d printer.    
 - [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi)  
 - [**Sell link**](https://www.aliexpress.com/item/1005002378551489.html)  
-## Direct drive extruder
+### Direct drive extruder
 By upgrading this project, you can print flexible materials (such as TPU filament). Of course, it also has other advantages and disadvantages of the "direct drive" extruders, such as having less strings issue, better flow, more supporting materials, etc., Also because of the heavier weight of the extruder, the printing speed must be lower.  
 - [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct%20Drive%20Extrruder)   
 - [**Sell link**](https://www.aliexpress.com/item/1005002847644867.html)   
-## Hotends
+### Hotends
 Each type of hot end has its advantages and disadvantages, you can choose different hotends according to different requirement:    
 - **High-speed and high-temperature Hotend (single color)**: It can support higher  printing speed and higher temperature consumables (up to 300 degrees when using stainless steel nozzles), and can be used to print PVC and PC.  
 - **3-IN-3-OUT Hotend**: It can support printing different typs of filaments in one 3d prints, such as PLA+PVA.  
@@ -99,7 +104,7 @@ We will launch more hot ends in the future, so stay tuned. If you have any sugge
 - [**3-IN-1-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
 - [**3-IN-2-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
 - [**3-IN-3-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
-## Bed leveling sensor
+### Bed leveling sensor
 **NOTE: It is stonger recommend to upgrade to ZL-Sensor if your kit is Z9V5Pro-MK1 and Z9V5Pro-MK2**  
 - [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor)    
 - [**ZLSensor**](https://www.aliexpress.com/item/1005002865311470.html)  
