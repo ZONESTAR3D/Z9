@@ -11,7 +11,7 @@ Support more types of filament spool.
 
 ### Filament run out sensor
 Case of filament run out sensor.  
-![](../../../Parts_Stl/Parts_Stl/FRODV6.jpg)
+![](../../../Parts_Stl/FRODV6.jpg)
 
 ### Recyclebin
 A box to collect filament flowed out from the nozzle.    
@@ -19,5 +19,5 @@ A box to collect filament flowed out from the nozzle.
 
 ### tool supports 
 Support for the tools.  
-![](../../../Parts_Stl/Parts_Stl/Z9_tool_supports.jpg)
+![](../../../Parts_Stl/Z9_tool_supports.jpg)
 
