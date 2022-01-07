@@ -41,7 +41,7 @@
 > **Firmware bin file** is the exact memory that is written to the embedded flash.  
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
 
-## 7. Parts stl files
+## 7. Others
 **Parts stl files for this kit**   
 
 ## 8.Video tutorial  
