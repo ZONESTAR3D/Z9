@@ -1,4 +1,8 @@
-## [Z9V5-MK1](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5-MK1) 
+## How to distinguish Z9V5- MK1/MK2/MK3
+You can distinguish MK1 / MK2 / MK3 by product serial number. There is a white sticker on the power supply, which indicates the product serial number.  
+![](MKn.jpg)
+
+## [Z9V5-MK1](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1) 
 ### [**Download all Z9V5-MK1 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK1) 
 **The first version Z9V5.**
 #### What's different between Z9V5 with Z9V5Pro    
@@ -6,7 +10,7 @@
 2. **Z9V5Pro** used used a 4.3" TFT-LCD screen (LCD-DWIN) and glass print platform.
 3. **We stop to produce Z9V5 since Z9V5-MK2.**
 
-## [Z9V5-MK2](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5-MK2)
+## [Z9V5-MK2](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2)
 ### [**Download all Z9V5-MK2 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK2) 
 #### **Z9V5-MK2 mainly improves than Z9V5-MK1**:  
 1. **Hot end interface** When shipping, the print head (hotend assembly) is separated from the backplane. There are 5 connectors behind the backplane, which can connect the wiring of the hot end without opening the control box. It will help switch between [**different types of hotends**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND) quickly.    
@@ -19,7 +23,7 @@
 Due to the shortage of chips, a small numbers of **Z9V5-MK2** used **ZM3E4V1** control board. Please check the product serial number (a white lable pasted on the power supply). If the product with serial number **V1xxxxxxxx** , it means your machine used a **ZM3E4V1** control board. Basically ZM3E4V1 has the same features with ZM3E4V2.      
 
 
-## [Z9V5-MK3](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5-MK3)
+## [Z9V5-MK3](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3)
 ### [**Download all Z9V5-MK3 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK3)   
 #### **Z9V5-MK3 mainly improves than Z9V5-MK2**:  
 1. Upgraded bed leveling sensor to [**ZLSensor**](https://aliexpress.com/item/1005002865311470.html), to replace the PL-08N bed leveling sensor. ZLSensor can probing the glass directly.  
