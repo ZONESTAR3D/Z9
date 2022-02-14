@@ -102,7 +102,5 @@ We will launch more hot ends in the future, so stay tuned. If you have any sugge
 - [**3-IN-2-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
 - [**3-IN-3-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
 ### Bed leveling sensor
-**NOTE: It is stonger recommend to upgrade to ZL-Sensor if your kit is Z9V5Pro-MK1 and Z9V5Pro-MK2**    
 - [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor)  
-- [**ZLSensor**](https://www.aliexpress.com/item/1005002865311470.html)  
-- [**3DTouch**](https://www.aliexpress.com/item/1005001464420529.html)  
+
