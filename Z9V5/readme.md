@@ -2,6 +2,12 @@
 You can distinguish MK1 / MK2 / MK3 by product serial number. There is a white sticker on the power supply, which indicates the product serial number.  
 ![](MKn.jpg)
 
+## How to downlod file from Github page
+#### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
+#### Step 2: Copy the Github file or direcotry link which you want to download.
+#### Step 3: Click download button to download. 
+[](download.gif)    
+
 ## [Z9V5-MK1](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1) 
 ### [**Download all Z9V5-MK1 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK1) 
 **The first version Z9V5.**
@@ -29,3 +35,9 @@ Due to the shortage of chips, a small numbers of **Z9V5-MK2** used **ZM3E4V1** c
 1. Upgraded bed leveling sensor to [**ZLSensor**](https://aliexpress.com/item/1005002865311470.html), to replace the PL-08N bed leveling sensor. ZLSensor can probing the glass directly.  
 2. Upgraded the extruder motor drivers to [**TMC2225**](https://aliexpress.com/item/1005003270721219.html)(from A4988). So **Z9V5-MK3**'s firmware is different with **Z9V5-MK1** and **Z9V5-MK2**.  
 3. Improved the [**M4 hotend**](https://aliexpress.com/item/1005001581641783.html) from the 3rd version (**M4-V3**) to the 4th version(**M4-V4**). More details of the M4 hotend, please refer to [**Here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend). 
+
+## How to downlod files from Github page
+#### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
+#### Step 2: Copy the Github file or direcotry link which you want to download.
+#### Step 3: Click download button and wait a few seconds, it will start to download automatically. 
+![](https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/download.gif)   
