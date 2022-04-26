@@ -1,10 +1,17 @@
 ## Summary of Updates for ZONESTAR Z9V5
+### Updates in 2022-04-26
+1. **Z9V5Pro-MK1(2)** Release firmware V1.4.2_bate [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta)
+2. **Z9V5Pro-MK1(2)** Release firmware V2.0.2_bate [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta)
+3. **Z9V5Pro-MK3** Release firmware V2.4.7_beta [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
+4. **E4 HOTEND** Update E4 hotend printing example [View](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend/example)
+
 ### Updates in 2022-04-22
 1. **Z9V5Pro-MK1(2)** Release firmware V1.4.1_bate [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta)
 2. **Z9V5Pro-MK1(2)** Release firmware V2.0.1_bate [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta)
 3. **Z9V5Pro-MK3** Release firmware V2.3.4_beta [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
 4. **Z9V5Pro-MK3** Release firmware V2.4.6_beta [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
 5. **E4 HOTEND** Update E4 hotend slicing settings [View](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend/example)
+6. **Slicer** Update PrusaSlcier prifiles for Z8(Z9)+E4 hotend and [View](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer)
 
 ### Updates in 2022-04-20
 1. **Z9V5Pro-MK1(2)** Release firmware V1.4.0 [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/release)
