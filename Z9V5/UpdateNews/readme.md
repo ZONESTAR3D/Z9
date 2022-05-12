@@ -1,4 +1,7 @@
 ## Summary of Updates for ZONESTAR Z9V5
+### Updates in 2022-05-12
+1. **Slicer** Update Slicing Guide for PrusaSlicer[View](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer)
+
 ### Updates in 2022-04-26
 1. **Z9V5Pro-MK1(2)** Release firmware V1.4.2_bate [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta)
 2. **Z9V5Pro-MK1(2)** Release firmware V2.0.2_bate [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta)

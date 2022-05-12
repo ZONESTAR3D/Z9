@@ -2,14 +2,6 @@
 You can distinguish MK1 / MK2 / MK3 by product serial number. There is a white sticker on the power supply, which indicates the product serial number.  
 ![](MKn.jpg)
 
-## [Z9V5-MK4](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4)
-### [**Download all Z9V5-MK4 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK4)   
-#### **Z9V5-MK4 mainly improves than Z9V5-MK3**:  
-1. Use 4-IN-1-OUT Non-mixing color hotend as default hotend.
-2. Use magnetic hot bed sticker to replace hot bed glass.
-3. Bed leveling sensor used PL-08N.
-4. Optimized structure on top assembly, filament run out sensor etc..
-
 ## [Z9V5-MK3](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3)
 ### [**Download all Z9V5-MK3 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK3)   
 #### **Z9V5-MK3 mainly improves than Z9V5-MK2**:  
