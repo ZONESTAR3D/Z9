@@ -1,4 +1,9 @@
 ## Summary of Updates for ZONESTAR Z9V5
+### Updates in 2022-07-06
+1. **Z9V5Pro-MK3** Release firmware V3.0.0_beta [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
+2. **DWIN LCD MENU** Release firmware V3 [View](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN)
+3. **Z9V5Pro Video Tutorial** Upload video tutorial for Z9V5Pro [View](https://youtube.com/playlist?list=PLbvlwbqXvSC_Ue49X_mEBViiTigqgsl08)
+
 ### Updates in 2022-06-18
 1. **Slicer** Update Slicing Profiles and guide for PrusaSlicer[View](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer)
 2. **Z9V5Pro-MK3** Release firmware V2.4.9_beta [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
