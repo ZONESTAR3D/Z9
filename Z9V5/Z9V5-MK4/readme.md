@@ -1,8 +1,8 @@
 ## Translate
 [![](./.pic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=es)
+[![](./.pic/ru.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ru)
 [![](./.pic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=pt)
 [![](./.pic/fr.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=fr)
-[![](./.pic/ru.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ru)
 [![](./.pic/it.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=it)
 [![](./.pic/de.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=de)
 [![](./.pic/pl.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=pl)
