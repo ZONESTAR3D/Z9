@@ -1,4 +1,4 @@
-## Translate
+## Language / Translate
 [![](./.pic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=es)
 [![](./.pic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=pt)
 [![](./.pic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ar)
@@ -82,10 +82,10 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 
 ### 6. FAQ
 - :movie_camera: [**How to replace nozzle**](https://youtu.be/N3-aCQg5XYI)
-- :movie_camera: [**Machine auto test**]()
-- :movie_camera: [**How to adjust the pressure of extruder**]()
-- :movie_camera: [**How to clean the extruder**]()
-- :movie_camera: [**How to clean the E4 hotend**]()
+<!-- - :movie_camera: [**Machine auto test**]() -->
+<!-- - :movie_camera: [**How to adjust the pressure of extruder**]() -->
+<!-- - :movie_camera: [**How to clean the extruder**]() -->
+<!-- - :movie_camera: [**How to clean the E4 hotend**]() -->
 
 ### 7. Others
 #### Print parts stl files
