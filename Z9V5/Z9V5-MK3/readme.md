@@ -6,7 +6,7 @@
 ***ATTETION: Incorrect filament loading may cause to clog the hotend, if the hotend is clogged, please refer to the document "FAQ\How to clean the cloged mixing color hotend.pdf" to fix***  
 
 ## Download Z9V5-MK3 files
-[**Download all the Z9V5-MK3 files in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK3)   
+[**Download Z9V5-MK3 files in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK3)   
 **If it doesn't work, please refer to** [**here**](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)   
 
 # Documents
@@ -44,32 +44,32 @@
 ## 7.Video tutorial  
 **NOTE: The video tutorial may be a little different with your machine because of firmware version is different, for reference only**     
 ### Installation and operation      
-- [***Installaltion guide***](https://youtu.be/i57R1NDj2d4)    
-- [***How to load filament (one color)***](https://youtu.be/W1_XiT4g9kg)  
-- [***How to load filament (Mutli-colors)***](https://youtu.be/Rsd8GYrEVCQ)  
-- [***Bed Leveling***](https://youtu.be/lgYZA-pzMsM)  
-- [***Gradient Mixing Color Printing***](https://youtu.be/agj3J1HBDt8)  
-- [***Random Mixing Color Printing***](https://youtu.be/qvT_BX4C2Rk)  
+- :movie_camera: [***Installaltion guide***](https://youtu.be/i57R1NDj2d4)    
+- :movie_camera: [***How to load filament (one color)***](https://youtu.be/W1_XiT4g9kg)  
+- :movie_camera: [***How to load filament (Mutli-colors)***](https://youtu.be/Rsd8GYrEVCQ)  
+- :movie_camera: [***Bed Leveling***](https://youtu.be/lgYZA-pzMsM)  
+- :movie_camera: [***Gradient Mixing Color Printing***](https://youtu.be/agj3J1HBDt8)  
+- :movie_camera: [***Random Mixing Color Printing***](https://youtu.be/qvT_BX4C2Rk)  
 
 ### Advanced features
-- [***Auto Retract Feature***](https://youtu.be/4HVIGxZfM80)  
-- [***Filament Runout***](https://youtu.be/viTvzIskwY8)  
-- [***Print done auto shutdown***](https://youtu.be/hXzHtXrX1X0)  
+- :movie_camera: [***Auto Retract Feature***](https://youtu.be/4HVIGxZfM80)  
+- :movie_camera: [***Filament Runout***](https://youtu.be/viTvzIskwY8)  
+- :movie_camera: [***Print done auto shutdown***](https://youtu.be/hXzHtXrX1X0)  
 
 ### Slicing guide (by Cura)  
-- [***Install and setup Cura***](https://youtu.be/h2GynyUo7wQ)  
-- [***slicing 1 color 3d object***](https://youtu.be/UDgjGRFrELc)  
-- [***slicing 4 colors 3d object***](https://youtu.be/hP6Socp-Cz0)    
-- [***slicing 8 colors 3d object***](https://youtu.be/qQ6UnTysqK0)
+- :movie_camera: [***Install and setup Cura***](https://youtu.be/h2GynyUo7wQ)  
+- :movie_camera: [***slicing 1 color 3d object***](https://youtu.be/UDgjGRFrELc)  
+- :movie_camera: [***slicing 4 colors 3d object***](https://youtu.be/hP6Socp-Cz0)    
+- :movie_camera: [***slicing 8 colors 3d object***](https://youtu.be/qQ6UnTysqK0)
       
 ### Printing demo video
-- [***Z9V5 Printing Demo***](https://youtu.be/1P68SxGHM80)  
-- [***Z9V5 Mixing-color Printing Demo***](https://youtu.be/iBo0EMtFLk8)   
-- [***Z9V5 Multi-color Printing Demo 1***](https://youtu.be/bSh27IySkbw)   
-- [***Z9V5 Multi-color Printing Demo 2***](https://youtu.be/iPFsYml2DOk)   
+- :movie_camera: [***Z9V5 Printing Demo***](https://youtu.be/1P68SxGHM80)  
+- :movie_camera: [***Z9V5 Mixing-color Printing Demo***](https://youtu.be/iBo0EMtFLk8)   
+- :movie_camera: [***Z9V5 Multi-color Printing Demo 1***](https://youtu.be/bSh27IySkbw)   
+- :movie_camera: [***Z9V5 Multi-color Printing Demo 2***](https://youtu.be/iPFsYml2DOk)   
 
 ### Others
-- [***Electronics parts auto testing***](https://youtu.be/SJLbP9QYwBE)  
+- :movie_camera: [***Electronics parts auto testing***](https://youtu.be/SJLbP9QYwBE)  
 
 ## Z9V5 upgrade kit / parts
 ### Automatic Repeat Printing Module (Only for Z9 series)
