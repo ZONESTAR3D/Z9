@@ -1,3 +1,14 @@
+[![](./.pic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3?_x_tr_sl=en&_x_tr_tl=es)
+[![](./.pic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3?_x_tr_sl=en&_x_tr_tl=pt)
+[![](./.pic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3?_x_tr_sl=en&_x_tr_tl=fr)
+[![](./.pic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3?_x_tr_sl=en&_x_tr_tl=ru)
+[![](./.pic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3?_x_tr_sl=en&_x_tr_tl=it)
+[![](./.pic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3?_x_tr_sl=en&_x_tr_tl=de)
+[![](./.pic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3?_x_tr_sl=en&_x_tr_tl=pl)
+[![](./.pic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3?_x_tr_sl=en&_x_tr_tl=kr)
+[![](./.pic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3?_x_tr_sl=en&_x_tr_tl=ja)
+[![](./.pic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3?_x_tr_sl=en&_x_tr_tl=ar)
+
 # :warning:NOTICE
 ## Before using the 3d printer, please:  
 1. Carefully to read the pages (from 17~20) in the "installation and quick user guide".  
