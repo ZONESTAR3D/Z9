@@ -35,6 +35,13 @@ The main features of Z9 include:
 1. Upgraded bed leveling sensor to [**ZLSensor**](https://aliexpress.com/item/1005002865311470.html), to replace the PL-08N bed leveling sensor. ZLSensor can probing the glass directly.  
 2. Upgraded the extruder motor drivers to [**TMC2225**](https://aliexpress.com/item/1005003270721219.html)(from A4988). So **Z9V5-MK3**'s firmware is different with **Z9V5-MK1** and **Z9V5-MK2**.  
 
+### [Z9V5-MK4](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4)
+**The 4th version Z9V5**  
+##### **Z9V5-MK4 mainly improves than Z9V5-MK3**:  
+1. Use 4-IN-1-OUT non color mixing hotend as default hotend.
+2. Use magnetic hot bed sticker to replace hot bed glass.
+3. Bed leveling sensor used PL-08N.
+4. Optimized structure on top assembly, filament run out sensor case.
 
 ## Z9M4 
 **Z9M4** is a version of Z9 series launched in 2020. Compared with Z9FM3, the main upgrades include:  

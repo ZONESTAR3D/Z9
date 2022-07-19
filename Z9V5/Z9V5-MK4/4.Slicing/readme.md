@@ -10,12 +10,13 @@
 
 ## 1. Download PrusaSlicer
 #### For windows system (win 7/8/10/11) 
+- :movie_camera: [**Download and install slicing software**](https://youtu.be/SgyXD-kQIeo)
 - :arrow_down: [**Download PrusaSlicer 2.4.2 with ZONESTAR 3D Printer Profiles**](https://github.com/ZONESTAR3D/Slicing-Guide/releases)     
 Download it and unzip it to your PC or laptop, and then find and run the "PrusaSlicer.exe".  
 
 #### For Macos or linux
-- [Download PrusaSlicer software](https://github.com/prusa3d/PrusaSlicer/releases)
-- [Download profiles](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles)
+- [**Download PrusaSlicer software**](https://github.com/prusa3d/PrusaSlicer/releases)
+- [**Download profiles**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FSlicing-Guide%2Ftree%2Fmaster%2FPrusaSlicer%2FProfiles)
 - Copy Profiles to "resource/profiles" directory of the installation directory of the PrusaSlicer software.
 
 ## 2. Run PrusaSlicer and choose the printer 
@@ -34,7 +35,7 @@ Choose system presets according to your printer, hotend and the colors you want 
 ![](pic/run3.png)
 
 ## 4. Slicing one color
-#### :movie_camera: [Video Tutorial](./PrusaSlicer_Z9_OneColor.mp4)
+- :movie_camera: [**Slicing guide - for one color printing**](https://youtu.be/SgyXD-kQIeo4) 
 #### 4.1 choose printer presets "Z9 + One Color"
 ![](pic/slicing1C-1.png)
 #### 4.2 load 3d model file (stl/obj/AMF file etc.)
@@ -47,7 +48,6 @@ Choose system presets according to your printer, hotend and the colors you want 
 ![](pic/slicing1C-5.png)  
 You may need to set these parameters according to the shape of the model and your requirements for print quality. For some models, the object even cannot be printed successfully if the settings is incorrect. For details please refer to:
 - [**PrusaSlicer introduction**](https://www.prusa3d.com/page/prusaslicer_424/)
-- [**Slic3r User Manuual**](https://manual.slic3r.org/)
 #### 4.6 Slicing
 ![](pic/slicing1C-6.png)  
 #### 4.7 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
@@ -59,13 +59,14 @@ You may need to set these parameters according to the shape of the model and you
 - Or load all filaments to extrusion feeders and feed all filaments into all channels of the hotend.
 
 ## 5. Slicing muti-color for E4 hotend
-#### :movie_camera: [Video Tutorial](./PrusaSlicer_Z9E4_MultiColor.mp4)
+- :movie_camera: [**Slicing guide - for multi colors printing**](https://youtu.be/AIKrszmxvE4)  
 #### 5.1 choose printer presets "Z9 + E4 hotend"
 ![](pic/slicingE4-1.png)
 #### 5.2 load 3d model files (stl/obj/AMF file etc.)
 ![](pic/slicing-2.png) ![](pic/slicing-2-1.png)
 ##### :memo: Usually, "split model" is inneed to print multi-color, that is, a 3d model has been split into multiple STL files according to colors, and these files use the same origin coordinate position so that they can be merged correctly.
-##### :star2: PrusaSlicer has a very powerful new feature. It can painting 3d model into multi-color, for details, please refer to :point_right:[here.](./PrusaSlicer_Painting.mp4)
+##### :star2: PrusaSlicer has a very powerful new feature. It can painting any 3d model into multi colors. For details, please refer to
+:movie_camera: [**Slicing guide - Convert one color 3d file to multi colors**](https://youtu.be/2LJu4G0T4Zg) 
 #### 5.3 Choose print filament type - PLA and set filament color
 ![](pic/slicing-3.png)
 #### 5.4 Assign extruders to different parts
@@ -91,9 +92,8 @@ In order to obtain better cleaning effect and minimize to waste filament, we can
 
 ------
 ## :warning: ATTETION PLEASE
-Default Z9V5-MK4 used a E4 hotend, if you have upgrade a M4 (4-IN-1-OUT Mixing Color Hotend), please refer to the below steps to slicing
+Default Z9V5-MK4 used a E4 (4-IN-1-OUT Non Color Mixing Hotend) hotend, if you have upgrade a M4 (4-IN-1-OUT Mixing Color Hotend), please refer to the below steps to slicing
 ## 6. Slicing muti-color for M4 hotend 
-#### :movie_camera: [Video Tutorial](./PrusaSlicer_Z9M4_MultiColor.mp4)
 #### 6.1 choose printer presets "Z9 + M4 hotend"
 ![](pic/slicingM4-1.png)
 #### 6.2 the other steps for E4 hotend and M4 hotend is the same, please refer to [](#5-slicing-muti-color-for-e4-hotend)
@@ -102,7 +102,7 @@ Default Z9V5-MK4 used a E4 hotend, if you have upgrade a M4 (4-IN-1-OUT Mixing C
 
 ## 7. Gradient and random mixed color printing
 ### :warning: This feature is for M4 hotend only
-The slicing process of realizing gradient mixed color printing is exactly the same as that of monochrome, but you need to enable the gradient printing function in the LCD menu. Please refer to the introduce of gradient mixed color printing.
+The slicing process of realizing gradient mixed color printing is exactly the same as that of monochrome, but you need to enable the gradient printing function in the LCD menu. For details, please refer to the user manual from the M4 hot end sell page.
 
 
 
