@@ -1,4 +1,4 @@
-# About ZONESTAR Z9 series 3d printer
+### About ZONESTAR Z9 series 3d printer
 The main features of Z9 include:  
 1. Used **Aluminum profile frame** structure makes the machine  stronger and more stable. The profiles screw is directly fixed, which is more accurate than using profile connectors.  
 2. Used **Core-XY** drive structure effectively reduces the weight of the motion system.
@@ -6,6 +6,7 @@ The main features of Z9 include:
 4. **Dule drive z-axis** design is adopted to simplify leveling and improve the stability of the printing platform.  
 5. **Elastic replaceable hotend** design is adopted. Fast heat exchange end (extruder) can be selected according to different printing material requirements.   More details, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)
 
+------
 ## Z9V5
 **Z9V5** is the latest version of Z9 series. Compared with **Z9M4**, the main upgrades include:  
 1. Higher pre assembly ratio and faster installation.  
@@ -62,6 +63,7 @@ The main features of Z9 include:
 ## Z9M2
 **Z9M2** launched in 2018, it is the first verison of Z9 series. it has produced two versions, Z9 and Z9S. Z9 use a H-BOT structure and Z9S used a Core-XY structure, and after Z9S, all of the Z9 series are used Core-XY structure.
 
+------
 ## How to downlod files from Github page
 #### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
 #### Step 2: Copy the Github file or direcotry link which you want to download.
