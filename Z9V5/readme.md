@@ -13,7 +13,11 @@
 ----------
 ### How to distinguish Z9V5-MK1/MK2/MK3/MK4
 You can distinguish MK1 / MK2 / MK3 by product serial number. There is a white sticker on the power supply, which indicates the product serial number.  
-![](MKn.jpg)
+![](Z9V5_SN.jpg)
+- **Z9V5-MK1:** Serial Number is **xxxxxxxxxx**   
+- **Z9V5-MK2:** Serial Number is **V1-xxxxxxxxxx** and **V2-xxxxxxxxxx**    
+- **Z9V5-MK3:** Serial Number is **MK3-xxxxxxxxxx**  
+- **Z9V5-MK4:** Serial Number is **MK4-xxxxxxxxxx**  
 
 ### What's different on Z9V5-MK1/MK2/MK3/MK4
 - **Z9V5-MK4 mainly improves than Z9V5-MK3**:  
