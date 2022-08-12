@@ -75,8 +75,9 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 :star2: **For the newest slicing guide and more slicing software user guide, please click here :point_right: [slicing guide ](https://github.com/ZONESTAR3D/Slicing-Guide)**
 
 ### 5. Firmware
-- [**Firmware bin File**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/Z9V5-MK4)  
+- [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/Z9V5-MK4)  
 - [**Firmware source code**](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
+#### :pencil: What is bin file and source code?
 > **Firmware bin file** is the exact memory that is written to the embedded flash.  
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
 

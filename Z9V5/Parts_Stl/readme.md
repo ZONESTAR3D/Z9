@@ -1,5 +1,5 @@
 ## Parts_Stl
-
+:arrow_down:[Download all stl files](./Parts_Stl.rar)
 ### M4 hotend fan duck
 Upgrade the hotend fan duck to improve the effeciency of cooling.  
 ![](fan_duck_m4_v3.jpg)
@@ -19,4 +19,7 @@ A box (Installed  on the z-axis aluminum profile at the front left) to collect f
 ### tool supports 
 Support for the tools.   
 ![](Z9_tool_supports.jpg)
+
+### ZL snesor bracket
+![](br_zlsensor.jpg)
 
