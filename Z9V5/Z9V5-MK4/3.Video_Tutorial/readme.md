@@ -13,7 +13,7 @@
 - :movie_camera: [**Power losss recovery**](https://youtu.be/SK95C-6OpB4) 
 ### FAQ
 - :movie_camera: [**How to replace nozzle**](https://youtu.be/N3-aCQg5XYI)
-- :movie_camera: [**Machine auto test**](https://youtu.be/N3-aCQg5XYI)
+- :movie_camera: [**Machine auto test**](https://youtu.be/Mf92BlmKA0A)
 <!-- - :movie_camera: [**How to adjust the pressure of extruder**]() -->
 <!-- - :movie_camera: [**How to clean the extruder**]() -->
 <!-- - :movie_camera: [**How to clean the E4 hotend**]() -->
