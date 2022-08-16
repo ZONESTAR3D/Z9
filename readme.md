@@ -1,3 +1,17 @@
+### Language / Translate
+[![](./languagepic/EN.png)](https://github/ZONESTAR3D/Z9)
+[![](./languagepic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=es)
+[![](./languagepic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=pt)
+[![](./languagepic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=fr)
+[![](./languagepic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=ru)
+[![](./languagepic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=it)
+[![](./languagepic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=de)
+[![](./languagepic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=pl)
+[![](./languagepic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=ko)
+[![](./languagepic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=ja)
+[![](./languagepic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=ar)
+
+----------
 ### About ZONESTAR Z9 series 3d printer
 The main features of Z9 include:  
 1. Used **Aluminum profile frame** structure makes the machine  stronger and more stable. The profiles screw is directly fixed, which is more accurate than using profile connectors.  

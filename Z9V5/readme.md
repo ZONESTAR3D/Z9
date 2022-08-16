@@ -1,14 +1,15 @@
 ### Language / Translate
-[![](./languagepic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=es)
-[![](./languagepic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=pt)
-[![](./languagepic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=fr)
-[![](./languagepic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ru)
-[![](./languagepic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=it)
-[![](./languagepic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=de)
-[![](./languagepic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=pl)
-[![](./languagepic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ko)
-[![](./languagepic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ja)
-[![](./languagepic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ar)
+[![](../languagepic/EN.png)](https://github/ZONESTAR3D/Z9/tree/main/Z9V5)
+[![](../languagepic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=es)
+[![](../languagepic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../languagepic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=fr)
+[![](../languagepic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../languagepic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=it)
+[![](../languagepic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=de)
+[![](../languagepic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=pl)
+[![](../languagepic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ko)
+[![](../languagepic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../languagepic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ar)
 
 ----------
 ### How to distinguish Z9V5-MK1/MK2/MK3/MK4
@@ -49,11 +50,6 @@ Due to the shortage of chips, a small numbers of **Z9V5-MK2** used **ZM3E4V1** c
 **Z9V5-MK1 is the first version Z9V5**
 - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1) 
 - :arrow_down: [**Download all Z9V5-MK1 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK1) 
-
-#### What's different between Z9V5 with Z9V5Pro    
-1. **Z9V5** used 128x64 dots LCD screen (LCD12864) and a PC hotbed film.  
-2. **Z9V5Pro** used used a 4.3" TFT-LCD screen (LCD-DWIN) and glass print platform.    
-:warning:**NOTE: We stop to produce Z9V5 since Z9V5-MK2.**  :warning:
 
 ----------
 ### How to downlod file from Github page
