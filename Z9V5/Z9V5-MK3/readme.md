@@ -11,6 +11,7 @@
 [![](../../languagepic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3?_x_tr_sl=en&_x_tr_tl=ja)
 [![](../../languagepic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3?_x_tr_sl=en&_x_tr_tl=ar)
 
+--------
 # :warning:NOTICE
 ## Before using the 3d printer, please:  
 1. Carefully to read the pages (from 17~20) in the "installation and quick user guide".  
@@ -22,6 +23,7 @@
 [**Download Z9V5-MK3 files in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK3)   
 **If it doesn't work, please refer to** [**here**](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)   
 
+--------
 # Documents
 ## 1.Installation and User Guide 
 **Included:**  

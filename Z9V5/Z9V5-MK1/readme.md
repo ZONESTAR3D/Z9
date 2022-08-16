@@ -11,6 +11,7 @@
 [![](../../languagepic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1?_x_tr_sl=en&_x_tr_tl=ja)
 [![](../../languagepic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1?_x_tr_sl=en&_x_tr_tl=ar)
 
+--------
 # :warning:NOTICE
 ## Before using the 3d printer, please:  
 1. Carefully to read the pages (from 17~20) in the "installation and quick user guide".  
