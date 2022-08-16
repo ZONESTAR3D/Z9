@@ -1,5 +1,19 @@
-# NOTICE
-## Before using the 3d printer, please:  
+### Language / Translate
+[![](../languagepic/EN.png)](https://github/ZONESTAR3D/Z9/tree/main/Z9V5)
+[![](../languagepic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9M4?_x_tr_sl=en&_x_tr_tl=es)
+[![](../languagepic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9M4?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../languagepic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9M4?_x_tr_sl=en&_x_tr_tl=fr)
+[![](../languagepic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9M4?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../languagepic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9M4?_x_tr_sl=en&_x_tr_tl=it)
+[![](../languagepic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9M4?_x_tr_sl=en&_x_tr_tl=de)
+[![](../languagepic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9M4?_x_tr_sl=en&_x_tr_tl=pl)
+[![](../languagepic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9M4?_x_tr_sl=en&_x_tr_tl=ko)
+[![](../languagepic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9M4?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../languagepic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9M4?_x_tr_sl=en&_x_tr_tl=ar)
+
+----------
+## NOTICE
+### Before using the 3d printer, please:  
 1. Carefully to read the pages (from 54~56) in the "1. User Guide\Z9M4 user guide".  
 2. Carefully to read the file "1. User Guide\Mix Color HOTEND User Guide - load and unload filament.pdf".  
 3. Carefully to read "1. User Guide\Operature guide for Mixing Color Printer.pdf"  
