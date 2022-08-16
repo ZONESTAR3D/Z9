@@ -91,8 +91,8 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 <!-- - :movie_camera: [**How to clean the E4 hotend**]() -->
 
 ### 7. Others
-#### Print parts stl files
-[**Print parts stl files**](./7.others/Parts_stl_file/readme.md)
+#### [Print parts stl files](./7.Others/Parts_stl_file/readme.md)
+
 
 ------
 ### Optional upgrade kit / parts
