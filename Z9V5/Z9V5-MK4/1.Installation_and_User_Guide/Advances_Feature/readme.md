@@ -5,8 +5,6 @@
 - [**Filament Run Out Detect Feature**](#3filament-run-out-detect)
 - [**Power Loss Recovery Feature**](#4power-loss-recovery)
 - [**WiFi wireless control feature**](#5wifi-wireless-control)
-- [**Auto Mixing Color Feature**](#6auto-mixing-color)
-
 
 ### 1.Automatic Bed Leveling
 :book: Most beds appear quite flat and even, but even when the bed is flat, there may be irregularities due to tape or other matter on the surface.  
@@ -49,6 +47,10 @@ of the filament spools used up, and when you load a new roll filament, you can c
 ### 4.Power Loss Recovery
 :movie_camera: [**Power losss recovery**](https://youtu.be/SK95C-6OpB4)  
 
+
+### 5.WiFi Wireless Control
+:warning: WiFi module is an optional feature, you need to [**buy a WiFi module (V2.1)**](https://www.aliexpress.com/item/1005002378551489.html) and install it to the control board before using the feature.    
+:book:[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/WiFi/WiFi_User_Guide.md)
 
 
 
