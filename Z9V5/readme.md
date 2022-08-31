@@ -1,5 +1,4 @@
 ### Language / Translate
-[![](../languagepic/EN.png)](https://github/ZONESTAR3D/Z9/tree/main/Z9V5)
 [![](../languagepic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=es)
 [![](../languagepic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../languagepic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=fr)
@@ -13,7 +12,7 @@
 
 ----------
 ### How to distinguish Z9V5-MK1/MK2/MK3/MK4
-You can distinguish MK1 / MK2 / MK3 by product serial number. There is a white sticker on the power supply, which indicates the product serial number.  
+You can distinguish MK1/MK2/MK3/MK4 by product serial number. There is a white sticker on the power supply, which indicates the product serial number.  
 ![](Z9V5_SN.jpg)
 - **Z9V5-MK1:** Serial Number is **xxxxxxxxxx**   
 - **Z9V5-MK2:** Serial Number is **V1-xxxxxxxxxx** and **V2-xxxxxxxxxx**    

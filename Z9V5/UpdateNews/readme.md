@@ -1,6 +1,10 @@
 ## Summary of Updates for ZONESTAR Z9V5
+### Updates in 2022-08-27
+1. **Add test gcode files for E4 hotend** [:arrow_down:View](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/E4)
+2. **Launched a new Mixing Color hotend** [:gift:OfficalStore](https://bit.ly/3QhWJtf)/[:gift:Aliexpress](https://www.aliexpress.com/item/1005004547646195.html)/[:book:User Guide](https://bit.ly/3QBEWhu)
+
 ### Updates in 2022-08-15
-1. **Slicer** Update Slicing Profiles for Cura[View](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/cura)
+**Slicer** Update ZONESTAR 3D Printer Profiles for Cura [View](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/cura)
 
 ### Updates in 2022-07-06
 1. **Z9V5Pro-MK3** Release firmware V3.0.0_beta [View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
