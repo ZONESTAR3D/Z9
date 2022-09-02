@@ -17,7 +17,7 @@
 - [**Installation and Quick User Guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf).  
 - [**E4 hotend user guide**](./1.Installation_and_User_Guide/E4_Hotend_User_Guide.pdf).  
 
-## :arrow_down: Download Z9V5-MK4 files
+## Download Z9V5-MK4 files
 - :arrow_down: [**Download all documents from github**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK4)  
 - :arrow_down: [**Download document from cloud disk - google driver**](https://drive.google.com/drive/folders/1WHe4OkeOWdzoYPS0skEaJ-6lydVaQIRK)   
 - :arrow_down: [**Download document from cloud disk - Jianguoyun**](https://www.jianguoyun.com/p/DUr952YQyoP1BxiRhcgEIAA)   
@@ -25,7 +25,7 @@
 ------
 ## Step by Step Guide
 If you're a beginner with 3D printers, with so much documentation to read, you might not know where to start. Don't worry, we'll go into the details of these documents next step by step. In a word, you need to do 4 steps **Install the machine - Printing test file - Slicing your own 3d file - Printing your 3d file**.      
-First at all, please download the documents and save to your PC from [:point_up: above link](#arrowdown-download-z9v5-mk4-files).
+First at all, please download the documents and save to your PC from [:point_up: above link](#download-z9v5-mk4-files).
 ### Step 1. Install the machine
 - 1.1 **Installation**. Refer to the [:blue_book: **installation guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf) and [ :movie_camera: **installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI) to complete the installation of the machine. The Z9V5 has a high pre-assembled ratio, so installation is very simple. 
 - 1.2 **Wiring**. the process of wiring is basically to insert the plug into the corresponding socket. What you need to pay attention is to make sure the plug is fully inserted into the socket. Especially for those 2PIN docking sockets that sometimes make poor contact. In addition, for the wiring of the print head (hot end), please note that there are several sockets of the same type but different colors, please pay attention to plug them according to the color of the socket.
