@@ -18,7 +18,7 @@
 - [**E4 hotend user guide**](./1.Installation_and_User_Guide/E4_Hotend_User_Guide.pdf).  
 
 ## :arrow_down: Download Z9V5-MK4 files
-[**Download all documents in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK4)  
+[**Download all documents from github**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK4)  
 [**Download document from Cloud disk**](https://drive.google.com/drive/folders/1WHe4OkeOWdzoYPS0skEaJ-6lydVaQIRK)   
 
 ------
