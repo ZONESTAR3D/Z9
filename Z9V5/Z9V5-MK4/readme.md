@@ -23,7 +23,48 @@
 - :arrow_down: [**Download document from cloud disk - Jianguoyun**](https://www.jianguoyun.com/p/DUr952YQyoP1BxiRhcgEIAA)   
 
 ------
-## :book: Contents
+## Step by Step Guide
+If you're a beginner with 3D printers, with so much documentation to read, you might not know where to start. Don't worry, we'll go into the details of these documents next step by step. In a word, you need to do 4 steps **Install the machine - Printing test file - Slicing your own 3d file - Printing your 3d file**.      
+First at all, please download the documents and save to your PC from [:point_up: above link](#arrowdown-download-z9v5-mk4-files).
+### Step 1. Install the machine
+- 1.1 **Installation**. Refer to the [:blue_book: **installation guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf) and [ :movie_camera: **installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI) to complete the installation of the machine. The Z9V5 has a high pre-assembled ratio, so installation is very simple. 
+- 1.2 **Wiring**. the process of wiring is basically to insert the plug into the corresponding socket. What you need to pay attention is to make sure the plug is fully inserted into the socket. Especially for those 2PIN docking sockets that sometimes make poor contact. In addition, for the wiring of the print head (hot end), please note that there are several sockets of the same type but different colors, please pay attention to plug them according to the color of the socket.
+- 1.3 **Power ON**. When wiring is complete, you can [:movie_camera: **turn on Z9V5**](https://youtu.be/xTlMHtxkGoY). Please note in particular that the Z9V5 has 2 power switches. the one is ***AC switch***(the red switch on the back of the machine) and another is ***DC switch***(a round metal push button switch on the front of the machine control box), you need to turn on the AC switch first and then **press and hold** the DC switch for a few seconds to turn on Z9V5.
+- 1.4 **Simply Test**. After power on, you can operate the menu on the LCD screen ([**LCD Menu description**](./1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md)) to verify whether the machine can work normally. Usually this involves several steps:
+  - 1.4.1 **Prepare>>Auto Home>>Home All**. This step is to make the print head of the machine return to the origin.
+  - 1.4.2 **Prepare>>Temperature>>Preheat PLA**. This step is to check the hot end and the hot bed can be heated normally.In this step, when the temperature of the nozzle exceeds 60 degrees, you should see a fan on the right side of the print head (hot end) spin up, this is the hot end cooling fan. 
+  - 1.4.3 **Prepare>>Temperature>>FAN**. After pressing the knob and setting the fan speed (set to 255), you should now be able to turn the fan on the left side up as well.   
+  After these 3 steps, it is basically determined that the machine are working normally, you can proceed to the following steps. If you find that any part is not working properly, please double check the wiring, or to do a auto testing (Refer to[ :movie_camera: **machine auto testing video turorial**](https://youtu.be/Mf92BlmKA0A)).
+- 1.5 **Bed Level**. Before printing the test file, you need to do a simple hot bed leveling to set the height between the nozzle and the printing platform, so that the filament flowing out of the nozzle can be pasted on the hot bed well. Please refer to [:movie_camera: **Bed leveling video tutorial**](https://youtu.be/nxzB7ho1kNo) to do it.
+
+### Step 2. Printing test file
+FDM 3D printers can only recognize gcode files, we need to copy the gcode files to the SD card, insert the SD card into the SD card slot of the 3D printer, and then start to print.
+- 2.1 **Prepare gcode file - one color**. Locate the **xyz_cube.gcode** file from your downloaded files or [:arrow_down: download it](./2.Test_gcode/xyz_cube.zip) directly and  unzip it on PC, and then copy the **xyz_cube.gcode** to SD card. Plug the SD card to the SD socket of machine.
+- 2.2 **Load filament - one color**. Refer to this [:movie_camera: video tutorial](https://youtu.be/6aTF5QnFhi4) to load filament to the extruder and hotend.
+- 2.3 **Print from SD card - one color**. Move item to **Print** item on LCD screen and click the knob and choose **xyz_cube.gcode** file, click knob to start print.
+- 2.4 **Fine tune nozzle height**. Wait the nozzle and hotbed heating, and when starting to print the first layer, double to click the knob of LCD screen to fine turn the distance from the nozzle to the bed, and then wait it to finish.
+- 2.5 **Prepare gcode file**. Locate the **Z9E4_4CTest.gcode** file from your downloaded files or [:arrow_down: download it](./2.Test_gcode/E4_4C/Z9E4_4C_Test.zip) directly and  unzip it on PC, and then copy the **Z9E4_4CTest.gcode** to SD card. Plug the SD card to the SD socket of machine.
+- 2.6 **Load filaments - 4 colors**. Refer to this [:movie_camera: video tutorial](https://youtu.be/FyHrAMytlT8) to load 4 color filaments to the extruders and hotend.
+- 2.7 **Print from SD card - 4 colors**. Move item to **Print** item on LCD screen and click the knob and choose **Z9E4_4CTest.gcode** file, click knob to start print.
+- 2.8 **Check Preload**. Wait the nozzle and hotbed heating, and check if the printer can print out 4 colors lines on the side of the hotbed.
+- 2.9 **Fine tune nozzle height**. When the hotend moved to the center of the hotbed, double to click the knob of LCD screen to fine turn the distance from the nozzle to the bed. Wait until the printing is finished.
+
+### Step 3. Slicing your own 3d file
+Obviously you will have the need to print your own 3D models. The process of converting a 3D model into a gcode file that can be printed on a machine is called slicing. You need to download and install the slicing software, then import the 3D model file (stl, obj, AMF, etc.) and complete the slicing, and finally copy the generated gcode file to the SD card and print it on the machine. Our recommended slicing software is PrusaSlicer. For detailed instructions, please refer to [4. Slicing](#4-slicing).   
+Several of the most famous free 3D model download websites:
+- [thingiverse](https://www.thingiverse.com/)  
+- [printables](https://www.printables.com/)  
+- [youmagine](https://www.youmagine.com/)   
+
+### Step 4. Printing your 3d file
+Once you are done slicing, copy the obtained gcode files to your SD card, then you can print them out like in the [step 2](#step-2-printing-test-file).
+
+### Step 5. To use advanced features
+After you fully understand all the basic use of the machine, you can try some advanced functions of the machine. For details, please refer to [Advance features](#advanced-features).
+
+------
+## Documents
+### :book: Contents
 - [**Installation and operation guide**](#1-installation-and-user-guide)  
 - [**Test gcode files**](#2-test-gcode)
 - [**Video tutorial for installation, operation and step-by-Step guide**](#-3video-tutorial)
@@ -32,8 +73,6 @@
 - [**FAQ, Maintenance manual, etc.**](#6-faq)
 - [**Print parts stl files, introduction to upgradeable functions, etc.**](#7-others)
 
-------
-## Documents List
 ### 1. Installation and User Guide
 - :book: [**Installation and user guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf)
 - :book: [**LCD screen menu description**](./1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.pdf)
@@ -62,10 +101,15 @@ G-code is information, or instructions that 3d printer requires in order to prin
 - :movie_camera: [**How to load Filament - for one color printing**](https://youtu.be/6aTF5QnFhi4)
 - :movie_camera: [**How to load Filament - for multi colors printing**](https://youtu.be/FyHrAMytlT8)
 #### Advanced features
-- :movie_camera: [**Bed auto leveling**](https://youtu.be/Zoyl6PybsUk)
-- :movie_camera: [**Power auto shutdown after print finished**](https://youtu.be/SJLpmJL-tG4)
-- :movie_camera: [**Filament run out detect**](https://youtu.be/QCJ-6L6ze1w)   
-- :movie_camera: [**Power losss recovery**](https://youtu.be/SK95C-6OpB4) 
+- **Bed auto leveling.** Bending of the 3D printer's hotbed is unavoidable. When you are printing a print with a large bottom, you need to use the hotbed auto-leveling feature to correct the curvature of the hotbed. For how to use, please refer to [:book: **User Guide**](./1.Installation_and_User_Guide/Advances_Feature/Bed_Auto_Leveling) or [:movie_camera: **Video tutorial**](https://youtu.be/Zoyl6PybsUk)
+- **Power auto shutdown after print finished.** Usually 3D printing takes a long time, you can enable this feature to let the machine turn off automatically after the printing is finished to save energy. For how to use, please refer to [:movie_camera: **Video tutorial**](https://youtu.be/SJLpmJL-tG4)
+- **Filament run out detect.** Sometimes there is not enough filaments left in the filament roll to complete the current printing. At this time, you can pass the filament through the Filament-Run-Out-Detector and enable the **run-out** feature on LCD screen. The machine can detect that the filament are out and pause the printing, and then resume the printing process after you replace a new filament roll. For how to use, please refer to [:movie_camera: **Video tutorial**](https://youtu.be/QCJ-6L6ze1w)     
+  :warning: If you are sure that the filament of one extruder is engouh, do not pass the filament through that Filament-Run-Out-Detector.       
+  :warning: Filament-Run-Out-Detect feature may introduce some imperfections on the print when printing is paused.        
+       
+- **Power losss recovery.** If your power supply network has frequent power outages, you can enable the automatic power losss recovery function before start printing. When the power goes out and it resumed, you can press the DC switch to turn on the power of the machine, and then the machine will automatically detect the printing breakpoint and provide you with whether you need to continue printing. For how to use, please refer to  [:movie_camera: **Video tutorial**](https://youtu.be/SK95C-6OpB4)   
+  :warning: Breakpoints data and gcode files will be stored on the SD, must keep the SD card in socket when turn on the machine after power resumed.       
+  :warning: Power losss recovery feature may introduce some imperfections on the prints when printing is resumed.
 
 ### 4. Slicing
 #### :pencil: What is slicing In 3D Printing?
@@ -98,29 +142,29 @@ Please download the slicing software and install to your PC, and then read the g
 
 
 ------
-### Optional upgrade kit / parts
-#### Automatic Repeat Printing Module
+## Optional upgrade kit / parts
+### Automatic Repeat Printing Module
 By upgrading this module to make your 3D printer capable of continuous automatic mass production.  
 :book: [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing)   
 
-#### Laser engine
+### Laser engine
 By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point.  
 :book: [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser%20Engraving)  
 <!-- :movie_camera: [**Video tutorial**]() -->
 
-#### WiFi wireless control module
+### WiFi wireless control module
 By upgrading this item, you can remote control your 3d printer.    
 :book: [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi)  
 <!-- :movie_camera: [**Video tutorial**]() -->
 
-#### Direct drive extruder
+### Direct drive extruder
 By upgrading this project, you can print flexible materials (such as TPU filament). Of course, it also has other advantages and disadvantages of the "direct drive" extruders, such as having less strings issue, better flow, more supporting materials, etc., Also because of the heavier weight of the extruder, the printing speed must be lower.  
 :book: [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct%20Drive%20Extrruder)   
 :movie_camera: [**Video tutorial**](https://youtu.be/7aF-C7VgDZY)
 
-#### More types of Hotend / extruder
+### More types of Hotend / extruder
 Each type of hot end has its advantages and disadvantages, you can choose different hotends according to different requirement.
 - Fast printing
 - Print flexible filament
-<!-- - Hight temperature filament -->
+- Support higher temperature filament (Max 260 degreeC)     
 Please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)    
