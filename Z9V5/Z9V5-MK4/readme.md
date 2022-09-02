@@ -68,14 +68,15 @@ G-code is information, or instructions that 3d printer requires in order to prin
 
 ### 4. Slicing
 #### :pencil: What is slicing In 3D Printing?
-Slicing is a piece of software that everyone uses when creating objects and products on a 3D printer. The software gives the printer a path to follow. The slicing software takes your image and converts it into G codes that your 3D printer can understand. These G codes are a type of instruction on how the printer needs to print your design.
-:page_with_curl: [**Reference 1**](https://loveandrobots.com/what-is-slicing-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://en.wikipedia.org/wiki/Slicer_(3D_printing))
-- :book: [**PrusSlicer User Manual**](./4.Slicing/readme.md)  [**(pdf file)**](./4.Slicing/readme.pdf)  
-- :movie_camera: [**Download and install slicing software**](https://youtu.be/SgyXD-kQIeo)  
+Slicing is a piece of software that everyone uses when creating objects and products on a 3D printer. The software gives the printer a path to follow. The slicing software takes your image and converts it into G codes that your 3D printer can understand. These G codes are a type of instruction on how the printer needs to print your design.:page_with_curl: [**Reference 1**](https://loveandrobots.com/what-is-slicing-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://en.wikipedia.org/wiki/Slicer_(3D_printing))     
+Please download the slicing software and install to your PC, and then read the guide or video tutorial to study how to slicing.
+- :arrow_down: [**Download Slicing Software**](https://github.com/ZONESTAR3D/Slicing-Guide)
+- :movie_camera: [**How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)  
+- :book: [**PrusSlicer User Manual**](./4.Slicing/readme.md)  :blue_book:[**(pdf file)**](./4.Slicing/readme.pdf)  
 - :movie_camera: [**Slicing guide - for one color printing**](https://youtu.be/SgyXD-kQIeo4)  
 - :movie_camera: [**Slicing guide - for multi colors printing**](https://youtu.be/AIKrszmxvE4)    
 - :movie_camera: [**Slicing guide - Convert one color 3d file to multi colors**](https://youtu.be/2LJu4G0T4Zg)    
-:star2: **For the newest slicing guide and more slicing software user guide, please click here :point_right: [slicing guide ](https://github.com/ZONESTAR3D/Slicing-Guide)**
+:star2: **For the newest slicing guide and more slicing software user guide, please click here :point_right: [slicing guide](https://github.com/ZONESTAR3D/Slicing-Guide)**
 
 ### 5. Firmware
 - [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/Z9V5-MK4)  
