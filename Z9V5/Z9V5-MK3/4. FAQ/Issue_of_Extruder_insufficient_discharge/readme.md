@@ -12,5 +12,5 @@ This is because the resistance of the extruder is too large (when pushing the fi
 :movie_camera: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)
 - **Increase torque of extrusion motor.** You can open the control box and then adjust the driving current of the extruder motor drivers. Adjust the potentiometer clockwise to reduce the driving current and counterclockwise to increase and adjust the driving current.    
 :warning: ***1. Power off before adjustment. 2. The maximum adjustment angle shall not exceed 30 degrees.***
-![](./How_to_open_the_control_box.jpg)   
+![](../How_to_open_the_control_box.jpg)   
 ![](./Adjuse_Driver_Current.jpg)
