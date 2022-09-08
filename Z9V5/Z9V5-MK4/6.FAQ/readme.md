@@ -1,12 +1,20 @@
-### FAQ
-#### Electronics parts auto testing:
-If you have any question on the electronics parts, you can run "electronics parts auto testing" process to check.
-Move to LCD MENU item "Info>>Date: xx-xx-xx", click the knob 5 time, you can open a "electronics auto testing" menu.   
-:movie_camera: [**Auto testing video tutorial**](https://youtu.be/Mf92BlmKA0A)  
+## Language / Translate
+[![](../../../languagepic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=es)
+[![](../../../languagepic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../../languagepic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=fr)
+[![](../../../languagepic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../../../languagepic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=it)
+[![](../../../languagepic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=de)
+[![](../../../languagepic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=pl)
+[![](../../../languagepic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=ko)
+[![](../../../languagepic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../../../languagepic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=ar)
 
-#### How to replace nozzle:
-:movie_camera: [**How to replace nozzle video tutorial**](https://youtu.be/N3-aCQg5XYI)
+--------
+## FAQ for Z9V5Pro-MK4
+### [Homing Issue](./Issue_of_Homing/readme.md)
+### [How to fix the issue of print from USB in Cura](./issue_of_print_from_USB_in_Cura/readme.md)
+### [How to fix Extruder insufficient discharge issue](./Issue_of_Extruder_insufficient_discharge/readme.md)
 
-<!-- - :movie_camera: [**How to adjust the pressure of extruder**]() -->
-<!-- - :movie_camera: [**How to clean the extruder**]() -->
-<!-- - :movie_camera: [**How to clean the E4 hotend**]() -->
+--------
+## :email: If you have any unsolvable problems, please contact our technical support team : support@zonestar3d.com
