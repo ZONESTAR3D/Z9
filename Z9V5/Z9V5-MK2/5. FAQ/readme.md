@@ -11,7 +11,7 @@
 [![](../../../languagepic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=ar)
 
 --------
-## FAQ for Z9V5Pro-MK3
+## FAQ for Z9V5Pro-MK2
 ### [Homing Issue](./Issue_of_Homing/readme.md)
 ### [How to fix the issue of print from USB in Cura](./issue_of_print_from_USB_in_Cura/readme.md)
 ### [How to fix the bed leveling issue](./How_to_deal_with_bed_leveling_issue.pdf)
