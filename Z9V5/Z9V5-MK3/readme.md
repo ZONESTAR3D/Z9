@@ -20,12 +20,12 @@
 ***ATTETION: Incorrect filament loading may cause to clog the hotend, if the hotend is clogged, please refer to the document "FAQ\How to clean the cloged mixing color hotend.pdf" to fix***  
 
 ## Download Z9V5-MK3 files
-[**Download all documents in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK3)   
-**If it doesn't work, please refer to** [**here**](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)   
+[**Download all documents for Github**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK3)   
+[**Download all documents for cloudisk**](https://drive.google.com/drive/folders/1RVgikxUJRgfEJVoiqJeyVjZAX_1Jkg27)   
 
 --------
 # Documents
-## 1.Installation and User Guide 
+## [1.Installation and User Guide](./1.%20Installation%20and%20User%20Guide/)
 **Included:**  
 1. Installation and quick user guide  
 2. LCD screen menu description  
@@ -38,25 +38,22 @@
 9. Advanced features guide  
 10. Bed auto leveling feature guide  
 
-## 2.Slicing
+## [2.Slicing](./2.%20Slicing/)
 **Included slicing guide, for the newest slicing guide, please click here [slicing guide ](https://github.com/ZONESTAR3D/Slicing-Guide)**
 
-## 3.Test gcode
+## [3.Test gcode](./3.%20Test%20gcode/readme.md)
 **Included some testing gcode files**  
 
-## 4.FAQ
+## [4.FAQ](./4.%20FAQ/readme.md)
 **Included troubleshooting and FAQ files**
 
-## 5.Firmware
+## [5.Firmware](./5.%20Firmware/readme.md)
 - [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5)  
 - [**Firmware source code**](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
 > **Firmware bin file** is the exact memory that is written to the embedded flash.  
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
 
-## 6.Others
-**Print parts stl files, user Guide for improve features etc.**
-
-## 7.Video tutorial  
+## 6.Video tutorial  
 **NOTE: The video tutorial may be a little different with your machine because of firmware version is different, for reference only**     
 ### Installation and operation      
 - :movie_camera: [***Installaltion guide***](https://youtu.be/i57R1NDj2d4)    
@@ -86,6 +83,10 @@
 ### Others
 - :movie_camera: [***Electronics parts auto testing***](https://youtu.be/SJLbP9QYwBE)  
 
+## [7.Others](./7.%20Others/)
+**Print parts stl files, user Guide for improve features etc.**
+
+------
 ## Z9V5 upgrade kit / parts
 ### Automatic Repeat Printing Module (Only for Z9 series)
 By upgrading this module to make your 3D printer capable of continuous automatic mass production.  
@@ -119,8 +120,3 @@ We will launch more hot ends in the future, so stay tuned. If you have any sugge
 ### Bed leveling sensor
 - [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor)  
 
-## How to downlod files from Github page
-#### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
-#### Step 2: Copy the Github file or direcotry link which you want to download.
-#### Step 3: Click download button and wait a few seconds, it will start to download automatically. 
-![](https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/download.gif)   
