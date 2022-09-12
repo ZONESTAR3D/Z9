@@ -54,7 +54,7 @@ G-code is information, or instructions that 3d printer requires in order to prin
 - [:arrow_down:](./2.Test_gcode/1C/1C_3DBenchy.zip) **1C/3DBenchy.gcode**:        A classic printing performance test file, one color  
 - [:arrow_down:](./2.Test_gcode/1C/1C_dog.zip)**1C/dog.gcode**:             A classic printing quanlity test file, one color    
 - [:arrow_down:](./2.Test_gcode/E4_4C/Z9E4_4CTest.zip)**E4_4C/Z9E4_4CTest.gcode**:  A base 4 colors test file   
-- :file_folder: More gcode file, please refer to :point_right:[**here**](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/E4)
+- :file_folder: More gcode file, please refer to :point_right: [**here**](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/E4/readme.md)
 
 ### 3. Video Tutorial  
 **NOTE: The video tutorial may be a little different with your machine because of firmware version is different, for reference only**     

@@ -1,6 +1,6 @@
 ## Step by Step Guide
 If you're a beginner with 3D printers, with so much documentation to read, you might not know where to start. Don't worry, we'll go into the details of these documents next step by step. In a word, you need to do 4 steps **Install the machine - Printing test file - Slicing your own 3d file - Printing your 3d file**.      
-First at all, please download the documents and save to your PC from [:point_up: above link](#download-z9v5-mk4-files).
+First at all, please download the documents and save to your PC from [:arrow_down: this link](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4#download-z9v5-mk4-files).
 ### Step 1. Install the machine
 - 1.1 **Installation**. Refer to the [:blue_book: **installation guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf) and [ :movie_camera: **installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI) to complete the installation of the machine. The Z9V5 has a high pre-assembled ratio, so installation is very simple. 
 - 1.2 **Wiring**. the process of wiring is basically to insert the plug into the corresponding socket. What you need to pay attention is to make sure the plug is fully inserted into the socket. Especially for those 2PIN docking sockets that sometimes make poor contact. In addition, for the wiring of the print head (hot end), please note that there are several sockets of the same type but different colors, please pay attention to plug them according to the color of the socket.
@@ -25,15 +25,15 @@ FDM 3D printers can only recognize gcode files, we need to copy the gcode files 
 - 2.9 **Fine tune nozzle height**. When the hotend moved to the center of the hotbed, double to click the knob of LCD screen to fine turn the distance from the nozzle to the bed. Wait until the printing is finished.
 
 ### Step 3. Slicing your own 3d model
-Obviously you will have the need to print your own 3D models. The process of converting a 3D model into a gcode file that can be printed on a machine is called slicing. You need to download and install the slicing software, then import the 3D model file (stl, obj, AMF, etc.) and complete the slicing, and finally copy the generated gcode file to the SD card and print it on the machine. Our recommended slicing software is PrusaSlicer. For detailed instructions, please refer to [4. Slicing](#4-slicing).   
+Obviously you will have the need to print your own 3D models. The process of converting a 3D model into a gcode file that can be printed on a machine is called slicing. You need to download and install the slicing software, then import the 3D model file (stl, obj, AMF, etc.) and complete the slicing, and finally copy the generated gcode file to the SD card and print it on the machine. Our recommended slicing software is PrusaSlicer. For detailed instructions, please refer to [4. Slicing](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4#download-z9v5-mk4-files).   
 Several of the most famous free 3D model download websites:
 - [thingiverse](https://www.thingiverse.com/)  
 - [printables](https://www.printables.com/)  
 - [youmagine](https://www.youmagine.com/)   
 
 ### Step 4. Printing your own 3d model
-Once you are done slicing, copy the obtained gcode files to your SD card, then you can print them out like in the [step 2](#step-2-printing-test-file).
+Once you are done slicing, copy the obtained gcode files to your SD card, then you can print them out like in the [step 2](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4#2-test-gcode).
 
 ### Step 5. To use advanced features
-After you fully understand all the basic use of the machine, you can try some advanced functions of the machine. For details, please refer to [Advance features](#advanced-features).
+After you fully understand all the basic use of the machine, you can try some advanced functions of the machine. For details, please refer to [Advance features](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4#2-test-gcode).
 
