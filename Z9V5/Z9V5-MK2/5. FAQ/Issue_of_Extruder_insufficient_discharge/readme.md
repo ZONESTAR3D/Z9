@@ -7,9 +7,26 @@ This is because the resistance of the extruder is too large (when pushing the fi
 - **Increase the nozzle temperature.**  e.g. set to 215 degreeC for PLA.
 - **Bypass the Filament run out sensor.** Do not pass the filament through the "Filament run out sensor" if you can confirm that the filament is enough and it doesn't run out, because the filament passing through the "Filament run out sensor" will slightly increase the resistance.
 - **Replace the filament guide tube.** The "filament guide tube" is made of PTFE. The PTFE has self-lubricating characteristics, so usually the filament can pass it smoothly. However, if the tube is deformed or the size inside is uneven, the resistance may great increase, so the filaments may not pass smoothly. :warning:Some machines used a transparent filament guide tube on extruder #1, its resistance is greater than the others channel, please check it carefully and replace it if possible.
-#### 2. Increase the pushing force.
-- **Adjust the pressure of the extruder.** Refer to the following picture to adjust the pressure of the extruder.:warning: When adjusting the pressure, it is also necessary to consider the hardness of the filament. If the pressure is too high, the filament may be scraped.    
-![](./adjust_pressure.jpg)       
+
+#### 2. Check if the extruder installed well.
+##### Please check whether there is obvious gap here (refer to the below picture), 
+![](issue.jpg)
+##### If the gap is too big, please refer to the below steps to install the extruder again.
+- Step 1: Remove these three screws to disassemble the extruder.   
+![](issue_1.jpg)
+- Step 2: Check if the gear install too high, move it down if need.    
+![](issue_2.jpg)
+  - The top of the copper gear is at the same height as the big gear.     
+  ![](issue_3.jpg)
+  - After installation, the clearance between the indenter and the big gear is less than 1mm
+  ![](issue_4.jpg)
+- Step 3: Install the screws back, add a shim under the 3nd screws
+![](issue_5.jpg)
+![](issue_6.jpg)
+
+#### 3. Increase the pushing force.
+- **Adjust the pressure of the extruder.** Refer to the following picture to adjust the pressure of the extruder.:warning: When adjusting the pressure, it is also necessary to consider the hardness of the filament. If the pressure is too high, the filament may be scraped. 
+![](./adjust_pressure.jpg)    
 :movie_camera: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)
 - **Increase torque of extrusion motor.** You can open the control box and then adjust the driving current of the extruder motor drivers. Adjust the potentiometer clockwise to reduce the driving current and counterclockwise to increase and adjust the driving current.    
 :warning: ***1. Power off before adjustment. 2. The maximum adjustment angle shall not exceed 30 degrees.***
