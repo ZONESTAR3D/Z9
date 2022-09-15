@@ -13,9 +13,8 @@
 
 ------
 ## :warning:NOTICE:warning:
-### Step-by-step guide
-#### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md), and following the steps to do step by step.    
-#### :loudspeaker: If you are experienced on 3d printer, please also briefly read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md) at least, and ensure that you have known the E4 operating principle of hot end, Precautions and methods for loading filaments to the hotend.
+### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md), and following the steps to do step by step.    
+### :loudspeaker: If you are experienced on 3d printer, please also briefly read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md) at least, and ensure that you have known the E4 operating principle of hot end, Precautions and methods for loading filaments to the hotend.
 
 ------
 ## Download Z9V5-MK4 files
