@@ -13,7 +13,7 @@
 
 ------
 ## :warning:NOTICE:warning:
-### Even if you are very experienced in using 3D printers, please read the following documents carefully too:  
+### :loudspeaker: Even if you are very experienced in using 3D printers, please read the following documents carefully too:  
 - [**Installation and Quick User Guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf).  
 - [**E4 hotend user guide**](./1.Installation_and_User_Guide/E4_Hotend_User_Guide.pdf).  
 
@@ -24,8 +24,8 @@
 
 ------
 ## [Step by Step Guide](./step_by_step.md)
-:loudspeaker: If you are a beginner of 3d printer, please carefully read the [**Step-by-Step Guide**](./step_by_step.md), and following the steps to do step by step.    
-:loudspeaker: If you are experienced on 3d printer, please also briefly read the [**Step-by-Step Guide**](./step_by_step.md) at least, and  **ensure that you have known the E4 operating principle of hot end, Precautions and methods for loading filaments to the hotend.**
+### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [**Step-by-Step Guide**](./step_by_step.md), and following the steps to do step by step.    
+### :loudspeaker: If you are experienced on 3d printer, please also briefly read the [**Step-by-Step Guide**](./step_by_step.md) at least, and  **ensure that you have known the E4 operating principle of hot end, Precautions and methods for loading filaments to the hotend.**
 
 ------
 ## Documents
