@@ -23,8 +23,9 @@
 - :arrow_down: [**Download document from cloud disk - Jianguoyun**](https://www.jianguoyun.com/p/DUr952YQyoP1BxiRhcgEIAA)   
 
 ------
-## Step by Step Guide
-#### :loudspeaker: To better understand and use these documents, please read the :book: [**Step by Step Guide**](./step_by_step.md) first.
+## [Step by Step Guide](./step_by_step.md)
+:loudspeaker: If you are a beginner of 3d printer, please carefully read the [**Step-by-Step Guide**](./step_by_step.md), and following the steps to do step by step.    
+:loudspeaker: If you are experienced on 3d printer, please also briefly read the [**Step-by-Step Guide**](./step_by_step.md) at least, and  **ensure that you have known the E4 operating principle of hot end, Precautions and methods for loading filaments to the hotend.**
 
 ------
 ## Documents

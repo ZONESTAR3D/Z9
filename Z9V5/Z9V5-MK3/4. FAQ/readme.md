@@ -12,12 +12,29 @@
 
 --------
 ## FAQ for Z9V5Pro-MK3
-### [Homing Issue](./Issue_of_Homing/readme.md)
-### [How to fix the issue of print from USB in Cura](./issue_of_print_from_USB_in_Cura/readme.md)
-### [How to clean the cloged mixing Color hotend](./How_to_clean_the_cloged_mixing_Color_hotend.pdf)
-### [How to fix Extruder insufficient discharge issue](./Issue_of_Extruder_insufficient_discharge/readme.md)
-### [How to improve Strings/Oozing issue](./Issue_of_strings_drawing/How_to_improve_Strings_or_Oozing_issue_of_mixing_color_hotend.pdf)
+### The printer does not work properly
+- [**Unable to start up**](./Issue_of_Startup/readme.md)
+- [**Stepping motor(s) does not work properly**](./Issue_of_stepping_motor/readme.md)
+- [**Homing Issue**](./Issue_of_Homing/readme.md)
+- [**Heating issue**](./Issue_heating/readme.md)
+- [**Not read SD card issue**](./Issue_not read_sdcard/readme.md)
+- [**Crash when connecting USB in Cura**](./issue_of_connect_USB_in_Cura/readme.md)
+- [**Automatically shutdown or Crash when printing from SD card**](./Issue_auto_shut_down/readme.md)
+- [**Automatically pause when printing from SD card**](./Issue_auto_pause/readme.md)
+- [**Not extruding at the start of the print**](./Issue_not_extrusion_at_start/readme.md)
+- [**Print not sticking to bed**](./Issue_not_sticking_to_bed/readme.md)
 
-
+### Printing quality is not good
+- [**Shifted layers when printing from SD card**]()
+- [**Pillowing, e.g. incomplete top layer fills, top layer holes/gaps**]()
+- [**Warping or coner lifting**]()
+- [**Layer separation or warping within the part**]()
+- [**Blobs and/or pimples on exterior surface**]()
+- [**How to clean the cloged mixing Color hotend**](./How_to_clean_the_cloged_mixing_Color_hotend.pdf)
+- [**How to fix Extruder insufficient discharge issue**](./Issue_of_Extruder_insufficient_discharge/readme.md)
+- [**How to improve Strings/Oozing issue**](./Issue_of_strings_drawing/How_to_improve_Strings_or_Oozing_issue_of_mixing_color_hotend.pdf)
+- [**Scars on top surface**]()
+- [**Infill showing on exterior of print**]()
+- [**Weak infill**]()
 --------
 ## :email: If you have any unsolvable problems, please contact our technical support team : support@zonestar3d.com
