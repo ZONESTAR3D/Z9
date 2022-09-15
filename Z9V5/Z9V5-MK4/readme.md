@@ -13,19 +13,15 @@
 
 ------
 ## :warning:NOTICE:warning:
-### :loudspeaker: Even if you are very experienced in using 3D printers, please read the following documents carefully too:  
-- [**Installation and Quick User Guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf).  
-- [**E4 hotend user guide**](./1.Installation_and_User_Guide/E4_Hotend_User_Guide.pdf).  
+### Step-by-step guide
+#### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md), and following the steps to do step by step.    
+#### :loudspeaker: If you are experienced on 3d printer, please also briefly read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md) at least, and ensure that you have known the E4 operating principle of hot end, Precautions and methods for loading filaments to the hotend.
 
+------
 ## Download Z9V5-MK4 files
 - :arrow_down: [**Download all documents from github**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK4)  
 - :arrow_down: [**Download document from cloud disk - google driver**](https://drive.google.com/drive/folders/1WHe4OkeOWdzoYPS0skEaJ-6lydVaQIRK)   
 - :arrow_down: [**Download document from cloud disk - Jianguoyun**](https://www.jianguoyun.com/p/DUr952YQyoP1BxiRhcgEIAA)   
-
-------
-## [Step by Step Guide](./step_by_step.md)
-### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md), and following the steps to do step by step.    
-### :loudspeaker: If you are experienced on 3d printer, please also briefly read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md) at least, and ensure that you have known the E4 operating principle of hot end, Precautions and methods for loading filaments to the hotend.
 
 ------
 ## Documents
