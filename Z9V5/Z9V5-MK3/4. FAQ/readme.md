@@ -9,7 +9,7 @@
 [![](../../../languagepic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=ko)
 [![](../../../languagepic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=ja)
 [![](../../../languagepic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=ar)
-
+[![](../../../languagepic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=zh-CN)
 --------
 ## FAQ for Z9V5Pro-MK3
 ### The printer does not work properly
