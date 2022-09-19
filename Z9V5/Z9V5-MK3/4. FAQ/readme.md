@@ -38,7 +38,7 @@
 <!-- - [**Blobs and/or pimples on exterior surface**]() -->
 - [**How to clean the cloged mixing Color hotend**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/How_to_clean_the_cloged_mixing_Color_hotend.pdf)
 - [**How to fix Extruder insufficient discharge issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_of_Extruder_insufficient_discharge/readme.md)
-- [**How to improve strings/drawing/oozing issue of the mixing color hotend**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_of_strings_drawing_m4hotend/How_to_improve_Strings_or_Oozing_issue_of_mixing_color_hotend.pdf)
+- [**How to improve strings/drawing/oozing issue of the mixing color hotend**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_of_strings_drawing_m4/How_to_improve_Strings_or_Oozing_issue_of_mixing_color_hotend.pdf)
 <!-- - [**Scars on top surface**]() -->
 <!-- - [**Infill showing on exterior of print**]() -->
 <!-- - [**Weak infill**]() -->
