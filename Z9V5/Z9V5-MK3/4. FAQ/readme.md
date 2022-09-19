@@ -17,7 +17,7 @@
 - [**Unable to start up**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_of_startup/readme.md)
 - [**Homing Issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_of_Homing/readme.md)
 - [**Stepping motor(s) does not work properly**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_of_stepping_motor/readme.md)
-<!-- - [**Heating issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_heating/readme.md) -->
+- [**Heating issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_heating/readme.md)
 <!-- - [**Not read SD card issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_not read_sdcard/readme.md) -->
 - [**Crash when connecting USB in Cura**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/issue_of_connect_USB_in_Cura/readme.md)
 
