@@ -12,7 +12,7 @@
 [![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3/4.%20FAQ?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 --------
-## FAQ for Z9V5Pro
+## FAQ for Z9V5
 - [**Unable to start up**](./Issue_of_startup/readme.md)
 - [**Homing Issue**](./Issue_of_Homing/readme.md)
 - [**Stepping motor(s) does not work properly**](./Issue_of_stepping_motor/readme.md)
