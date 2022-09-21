@@ -22,7 +22,7 @@ Normally, the current temperature of the hot end and hot bed should be approxima
 - [:link:Open the control box ](../How_to_open_the_control_box.jpg) and check if the heater wire is connected well to the control board.
 ![](./WireOfheater.jpg)
 - [:link:Open the control box](../How_to_open_the_control_box.jpg) and check if the LED4 will light when heating the hotend. 
-![](./LEDs.jpg)
+![](../LEDs.jpg)
 
 #### 2.2 The hot end cannot be heated to the set temperature for a while
 If the hotend temperature is raise, but it can't be reached to the setting temperature. LCD will shows **hot end heating fail** after a period of time.  

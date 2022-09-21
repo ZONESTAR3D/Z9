@@ -3,4 +3,6 @@
 ![](./set_brightness.gif)
 ### 2. [:link:Open the control box ](../How_to_open_the_control_box.jpg) and check if the backlight wire connected well with the control board.
 ![](./WireOfbacklight.jpg)
+### 3. Try to connect the backlight wire to the power supply directly and check if the back light will light up. If not, the backlight is damaged need to be replaced.
+![](./1.jpg)
 ### 3. Try to connect the backlight wire to the power supply directly and check if the back light will light up. If not, it means the backlight is damaged.
