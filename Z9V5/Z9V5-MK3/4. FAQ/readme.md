@@ -23,7 +23,7 @@
 - [**Crash when connecting USB in Cura**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/issue_of_connect_USB_in_Cura/readme.md)
 
 ### The printer works, but there are some problems when printing
- [**Automatically shutdown or Crash when printing from SD card**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_auto_shut_down/readme.md)
+ [**Automatically shutdown when printing from SD card**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_auto_shut_down/readme.md)
 <!-- - [**Automatically pause when printing from SD card**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_auto_pause/readme.md) -->
 <!-- - [**Not extruding at the start of the print**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_not_extrusion_at_start/readme.md) -->
 <!-- - [**Print not sticking to bed**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_not_sticking_to_bed/readme.md) -->
