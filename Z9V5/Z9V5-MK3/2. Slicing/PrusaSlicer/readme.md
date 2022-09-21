@@ -101,8 +101,6 @@ You need to set these parameters according to the shape of the model and your re
 #### 6.9 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicingM4-9.png)  
 
--------------
-If you upgraded a E4 (4-IN-1-OUT non-mix color) hotend, please refer to the below guide to slicing.
 ## 7. Slicing muti-color for E4 hotend
 #### :movie_camera:[Video Tutorial](./PrusaSlicer_Z9E4_MultiColor.gif)
 #### 7.1 choose printer presets "Z9 + E4 hotend"
