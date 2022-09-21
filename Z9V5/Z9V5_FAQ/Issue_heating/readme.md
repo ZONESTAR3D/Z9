@@ -17,11 +17,11 @@ Normally, the current temperature of the hot end and hot bed should be approxima
 ![](./hotend_heater.jpg)    
 - Check if the pin of the heater connector is well.  
 ![](./pinofconnector.jpg)
-- [:link: Use a multi-meter to measure the resistance]() of the heating tube, the resistance should be about 10 Ohm. If not, heater is burn.
+- Use a multi-meter to measure the resistance of the heater, the resistance should be about 10 Ohm. If not, heater is burn.
 ![](./Measure.jpg)
-- [:link: Open the control box](../How_to_open_the_control_box.jpg) and check if the heater wire is connected well to the control board.
+- [:link:Open the control box ](../How_to_open_the_control_box.jpg) and check if the heater wire is connected well to the control board.
 ![](./WireOfheater.jpg)
-- [:link: Open the control box](../How_to_open_the_control_box.jpg) and check if the LED4 will light when heating the hotend. 
+- [:link:Open the control box](../How_to_open_the_control_box.jpg) and check if the LED4 will light when heating the hotend. 
 ![](./LEDs.jpg)
 
 #### 2.2 The hot end cannot be heated to the set temperature for a while

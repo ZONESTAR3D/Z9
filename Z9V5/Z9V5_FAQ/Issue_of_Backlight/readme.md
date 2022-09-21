@@ -1,0 +1,6 @@
+## The Logo Backlight doesn't light up.
+### 1. Check the brightness of backlight on LCD screen, if the brightness is 0, it will turn off.
+![](./set_brightness.gif)
+### 2. [:link:Open the control box ](../How_to_open_the_control_box.jpg) and check if the backlight wire connected well with the control board.
+![](./WireOfbacklight.jpg)
+### 3. Try to connect the backlight wire to the power supply directly and check if the back light will light up. If not, it means the backlight is damaged.

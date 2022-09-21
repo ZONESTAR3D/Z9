@@ -13,10 +13,11 @@
 
 --------
 ## FAQ for Z9V5
-- [**Unable to start up**](./Issue_of_startup/readme.md)
-- [**Homing Issue**](./Issue_of_Homing/readme.md)
+- [**The machine can't start up**](./Issue_of_startup/readme.md)
+- [**Homing issue**](./Issue_of_Homing/readme.md)
 - [**Stepping motor(s) does not work properly**](./Issue_of_stepping_motor/readme.md)
 - [**Heating issue**](./Issue_heating/readme.md)
+- [**Logo Backlight issue**](./Issue_of_Backlight/readme.md)
 <!-- - [**Not read SD card issue**](./Issue_not read_sdcard/readme.md) -->
 - [**Crash when connecting USB in Cura**](./issue_of_connect_USB_in_Cura/readme.md)
 <!-- - [**Automatically shutdown or Crash when printing from SD card**](./Issue_auto_shut_down/readme.md) -->
