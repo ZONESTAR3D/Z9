@@ -39,13 +39,15 @@
 10. Bed auto leveling feature guide  
 
 ## [2.Slicing](./2.%20Slicing/)
-**Included slicing guide, for the newest slicing guide, please click here [slicing guide ](https://github.com/ZONESTAR3D/Slicing-Guide)**
+Slicing software and user guide:
+- [PrusaSlicer(Recommended)](./2.%20Slicing/PrusaSlicer/readme.md)
+- [Cura](./2.%20Slicing/Cura/readme.md)
 
 ## [3.Test gcode](./3.%20Test%20gcode/readme.md)
-**Included some testing gcode files**  
+**Some Test gcode files**  
 
 ## [4.FAQ](./4.%20FAQ/readme.md)
-**Included troubleshooting and FAQ files**
+**Troubleshooting and FAQ files**
 
 ## [5.Firmware](./5.%20Firmware/readme.md)
 - [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5)  
