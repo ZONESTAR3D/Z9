@@ -24,7 +24,7 @@
 
 ### The printer works, but there are some problems when printing
  [**Auto shut down when printing from SD card**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_auto_shut_down/readme.md)
-<!-- - [**Automatically pause when printing from SD card**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_auto_pause/readme.md) -->
+<!-- - [**Auto pause when printing from SD card**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_auto_pause/readme.md) -->
 <!-- - [**Not extruding at the start of the print**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_not_extrusion_at_start/readme.md) -->
 <!-- - [**Print not sticking to bed**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_not_sticking_to_bed/readme.md) -->
 <!-- - [**Bed auto leveling issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_bed_auto_leveling/readme.md) -->
