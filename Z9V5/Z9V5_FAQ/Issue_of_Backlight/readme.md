@@ -5,4 +5,5 @@
 ![](./WireOfbacklight.jpg)
 ### 3. Try to connect the backlight wire to the power supply directly and check if the back light will light up. If not, the backlight is damaged need to be replaced.
 ![](./1.jpg)
-### 3. Try to connect the backlight wire to the power supply directly and check if the back light will light up. If not, it means the backlight is damaged.
+### 4. Check if the LED5 light will light up, if not, it means the MOSFET of the control board is damaged and need to be replaced.
+![](../LEDs.jpg)
