@@ -110,5 +110,5 @@ If you upgraded a E4 (4-IN-1-OUT non-mix color) hotend, please refer to the belo
 #### 7.2 the other steps for E4 hotend and M4 hotend is the same, please refer to [](#6-slicing-muti-color-for-m4-hotend)
 :star:For E4 hotend, there are few filaments left in the hot end, so we can use smaller purging volume on wipe tower.  
 ![](pic/slicingE4-2.png)  
-:star:When previewing the gcode file, you can see that some additional print lines will appear on the side of bed, which are for preloading filament. For detail how to pre-load filament, please refer to "E4 Hotend user guide".
+:star:When previewing the gcode file, you can see that some additional print lines will appear on the side of bed, which are for preloading filament. For detail how to pre-load filament, please refer to "E4 Hotend user guide".   
 ![](pic/slicingE4-3.png)  
