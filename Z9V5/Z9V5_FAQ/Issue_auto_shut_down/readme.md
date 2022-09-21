@@ -1,4 +1,4 @@
-## Auto shut down when printing from SD card
+## The printer shut down when printing from SD card
 #### 1. Print another gcode file and try again.
 #### 2. Format the SD card and copy only that gcode file which need to be printed to SD card and try to print again.
 :warning: Sometimes the automatic shutdown is due to the quality of the SD card, not the gcode file itself. This causes a card reading error and shutdown.

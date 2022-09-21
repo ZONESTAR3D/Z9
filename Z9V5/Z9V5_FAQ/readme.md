@@ -20,7 +20,7 @@
 - [**Logo Backlight issue**](./Issue_of_Backlight/readme.md)
 <!-- - [**Not read SD card issue**](./Issue_not read_sdcard/readme.md) -->
 - [**Crash when connecting USB in Cura**](./issue_of_connect_USB_in_Cura/readme.md)
-- [**Automatically shutdown when printing from SD card**](./Issue_auto_shut_down/readme.md)
+- [**Auto shut down when printing from SD card**](./Issue_auto_shut_down/readme.md)
 <!-- - [**Automatically pause when printing from SD card**](./Issue_auto_pause/readme.md) -->
 <!-- - [**Not extruding at the start of the print**](./Issue_not_extrusion_at_start/readme.md) -->
 <!-- - [**Print not sticking to bed**](./Issue_not_sticking_to_bed/readme.md) -->
