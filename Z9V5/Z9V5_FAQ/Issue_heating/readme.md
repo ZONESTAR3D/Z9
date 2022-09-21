@@ -45,6 +45,11 @@ Please refer to 2.2.2.
 - 3.1.2 [:link: Open the control box](../How_to_open_the_control_box.jpg) and discounect the temperature sensor wire from the control board. If it was fixed, replace a new temperature sensor wire. If it wasn't fixed, replace a new control board.
 
 #### 3.2 When heating the hot bed, the temperature does not rise.
+- 3.2.1 Check if the power wire of hot bed connect well.
+- 3.2.2 [:link: Open the control box](../How_to_open_the_control_box.jpg) and check if the power wire of hot bed connect well with the control board.
+- 3.2.2 [:link: Open the control box](../How_to_open_the_control_box.jpg) and check if the [:point_up: LED3](#21-when-heating-the-hot-end-the-temperature-does-not-rise) will light when heating the hot bed, if not, it means the MOSFET of the control boad is damaged and need to be replaced.
 
-#### 3.3 The hot bed cannot be heated to the set temperature.
+#### 3.3 The hot bed can be heating to over 100℃.
+- 3.3.1 Do not put the fan or air conditioner outlet toward the machine.
+- 3.3.2 If the temperature of the room is low (<20 ℃), try to wrap around the machine.
 
