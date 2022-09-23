@@ -44,10 +44,11 @@ Slicing software and user guide:
 - [Cura](./2.%20Slicing/Cura/readme.md)
 
 ## [3.Test gcode](./3.%20Test%20gcode/readme.md)
-**Some Test gcode files**  
+**Some Test gcode files.** [View Detail](./3.%20Test%20gcode/readme.md)  
 
 ## [4.FAQ](./4.%20FAQ/readme.md)
-**Troubleshooting and FAQ files**
+**Troubleshooting and FAQ files.** [View Detail](./3.%20Test%20gcode/readme.md)  
+
 
 ## [5.Firmware](./5.%20Firmware/readme.md)
 - [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5)  

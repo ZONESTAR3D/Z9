@@ -1,7 +1,12 @@
 ## Homing Issues
 First please follow the [:movie_camera:**electronics parts auto testing video tutorial**](https://youtu.be/Mf92BlmKA0A) to check the ENDSTOPs and motors, if you find a problem during testing, follow the steps below to identify where the problem came from.  
 :warning: Please note that because the Z9 uses the CoreXY structure, when testing the XY motors, the print head (hotend) will only move left and right in the X direction.
-#### :one: X ENDSTOP or motor don't work?
+
+### Homing X issue
+If X ENDSTOP and XY motors works well, but when homing X, the print head (hotend housing) can't touch the X ENDSTOP, please refer to the picture below to slightly correct the tongue of the X now switch.    
+![](correct_x_switch.jpg)
+
+### :one: X ENDSTOP or motor don't work?
 - **X ENDSTOP doesn't work?**  
 1. Check X ENDSTOP wiring.    
 2. Check X wiring on the control boad.   
@@ -12,7 +17,7 @@ First please follow the [:movie_camera:**electronics parts auto testing video tu
 2. Check X wiring on the control boad.   
 ![](x_motor_wring.jpg) ![](xy_wiring_board.jpg)
 
-#### :two: Y ENDSTOP or motor don't work?
+### :two: Y ENDSTOP or motor don't work?
 - **Y ENDSTOP doesn't work?**  
 1. Check Y ENDSTOP wiring.    
 2. Check Y wiring on the control boad.   
@@ -23,7 +28,7 @@ First please follow the [:movie_camera:**electronics parts auto testing video tu
 2. Check Y wiring on the control boad.   
 ![](y_motor_wring.jpg) ![](xy_wiring_board.jpg)
 
-#### :three: Z ENDSTOPs or motors don't work?
+### :three: Z ENDSTOPs or motors don't work?
 :loudspeaker:Because the Z axis has 2 sets of drive system (the left and the right), so if you find a problem with the Z, you can swap the wiring on the left and right to confirm whether the problem is from the control board side or the motor/ENDSTOP side.   
 :warning: For Z axis, the two sets (left and right) of ENDSTOPS + Motor must be matched. If you exchange one of them (for example, the left and right ENDSTOP wiring is exchanged but the motor wiring is not ), it will also cause the Z axis to fail to home.  
 - **ZL/ZR ENDSTOPs don't work?**  
@@ -34,7 +39,3 @@ First please follow the [:movie_camera:**electronics parts auto testing video tu
 1. Check Z(L/R) motor wiring.    
 2. Check Z(L/R) Motor wiring on the control boad.   
 ![](Z_motor_wring.jpg) ![](Z_wiring_board.jpg)
-
-### Homing X issue
-If X ENDSTOP and XY motors works well, but when homing X, the print head (hotend housing) can't touch the X ENDSTOP, please refer to the picture below to slightly correct the tongue of the X now switch.    
-![](correct_x_switch.jpg)
