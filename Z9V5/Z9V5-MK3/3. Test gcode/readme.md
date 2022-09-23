@@ -10,7 +10,7 @@
 
 ### Multi colors test gcode files
 #### [4 Colors Test :arrow_down:](./4%20Color/M4_4C_Test.zip)
-![](./4%20Color/M4_4C_Test.jpg)
+![](./4%20Color/M4_4C_test.jpg)
 #### [4 Colors Owl :arrow_down:](./4%20Color/M4_4C_owl.zip)
 ![](./4%20Color/M4_4C_owl.jpg)
 #### [4 Colors Dog :arrow_down:](./4%20Color/M4_4C_Dog.zip)
