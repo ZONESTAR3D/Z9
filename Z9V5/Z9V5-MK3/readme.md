@@ -40,14 +40,15 @@
 
 ## [2.Slicing](./2.%20Slicing/)
 Slicing software and user guide:
-- [PrusaSlicer(Recommended)](./2.%20Slicing/PrusaSlicer/readme.md)
-- [Cura](./2.%20Slicing/Cura/readme.md)
+- [**PrusaSlicer(Recommended)**](./2.%20Slicing/PrusaSlicer/readme.md)  
+- [**Cura**](./2.%20Slicing/Cura/readme.md)  
+[[**View the newest slicing guide[**](https://github.com/ZONESTAR3D/Slicing-Guide)
 
 ## [3.Test gcode](./3.%20Test%20gcode/readme.md)
-**Some Test gcode files.** [View Detail](./3.%20Test%20gcode/readme.md)  
+**Some Test gcode files.** [[**View detail[**](./3.%20Test%20gcode/readme.md)  
 
 ## [4.FAQ](./4.%20FAQ/readme.md)
-**Troubleshooting and FAQ files.** [View Detail](./3.%20Test%20gcode/readme.md)  
+**Troubleshooting and FAQ files.** [[**View detail[**](./3.%20Test%20gcode/readme.md)  
 
 
 ## [5.Firmware](./5.%20Firmware/readme.md)
