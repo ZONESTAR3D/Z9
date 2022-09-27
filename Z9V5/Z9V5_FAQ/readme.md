@@ -23,7 +23,7 @@
 - [**Auto shut down when printing from SD card**](./Issue_auto_shut_down/readme.md)
 - [**Auto pause when printing from SD card**](./Issue_auto_pause/readme.md)
 <!-- - [**Not extruding at the start of the print**](./Issue_not_extrusion_at_start/readme.md) -->
-<!-- - [**Print not sticking to bed**](./Issue_not_sticking_to_bed/readme.md) -->
+<!-- - [**Prints not sticking to bed**](./Issue_not_sticking_to_bed/readme.md) -->
 <!-- - [**Bed auto leveling issue**](./Issue_bed_auto_leveling/readme.md) -->
 <!-- - [**Filament run out sensor issue**](./Issue_FROD/readme.md) -->
 <!-- - [**Filament clogged issue**](./Issue_M4hotend_clogged/readme.md) -->

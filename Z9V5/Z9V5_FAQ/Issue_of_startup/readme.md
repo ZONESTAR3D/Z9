@@ -1,7 +1,7 @@
 ## The printer can't start up
-:loudspeaker: First of all , We hope you know that the startup mode of this machine may be different from that of your previous machines. Esspecially please pay attention to that you need to press and ***hold the DC button for a few seconds*** until you see the ZONESTAR logo on the LCD screen.
+:loudspeaker: First of all , We hope you know that the startup mode of this machine may be different from that of your previous machines. Esspecially please pay attention to that you need to ***press and hold the DC button for about 5 seconds*** until you see the ZONESTAR logo on the LCD screen. :movie_camera: [**Turn On / Turn Off the printer**](https://youtu.be/xTlMHtxkGoY)
 ![](./PowerON.jpg)
-:movie_camera: [**Turn On / Turn Off the printer**](https://youtu.be/xTlMHtxkGoY)
+
 
 ----
 ### To choose the solution according to the status of your printer.
