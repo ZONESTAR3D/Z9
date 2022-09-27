@@ -19,7 +19,7 @@
 - [**Stepping motor(s) does not work properly**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_of_stepping_motor/readme.md)
 - [**Heating issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_heating/readme.md)
 - [**Logo Backlight issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_of_Backlight/readme.md)
-- [**Not read SD card issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_not read_sdcard/readme.md)
+- [**Not read SD card issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_not_read_sdcard/readme.md)
 - [**Crash when connecting USB in Cura**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/issue_of_connect_USB_in_Cura/readme.md)
 
 ### The printer works, but there are some problems when printing
