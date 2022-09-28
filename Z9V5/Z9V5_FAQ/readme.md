@@ -18,7 +18,7 @@
 - [**Stepping motor(s) does not work properly**](./Issue_of_stepping_motor/readme.md)
 - [**Heating issue**](./Issue_heating/readme.md)
 - [**Logo Backlight issue**](./Issue_of_Backlight/readme.md)
-- [**Not read SD card issue**](./Issue_not read_sdcard/readme.md)
+- [**Not read SD card issue**](./Issue_not_read_sdcard/readme.md)
 - [**Crash when connecting USB in Cura**](./issue_of_connect_USB_in_Cura/readme.md)
 - [**Auto shut down when printing from SD card**](./Issue_auto_shut_down/readme.md)
 - [**Auto pause when printing from SD card**](./Issue_auto_pause/readme.md)
