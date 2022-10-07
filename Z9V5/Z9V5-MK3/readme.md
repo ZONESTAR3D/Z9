@@ -24,7 +24,7 @@
 [**Download all documents from cloudisk**](https://drive.google.com/drive/folders/1RVgikxUJRgfEJVoiqJeyVjZAX_1Jkg27)   
 
 --------
-# Documents
+# :file_folder: Documents
 ## [1.Installation and User Guide](./1.%20Installation%20and%20User%20Guide/)
 **Included:**  
 1. Installation and quick user guide  
@@ -92,35 +92,55 @@ Slicing software and user guide. [**View the newest slicing guide**](https://git
 
 ------
 ## Z9V5 upgrade kit / parts
-### Automatic Repeat Printing Module (Only for Z9 series)
+### WiFi :+1::+1:
+By upgrading this item, you can remote control your 3d printer by PC or mobile.    
+- [:book: **User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi)  
+- [:gift: **Sell link 1**](https://bit.ly/3rB7mx1) [:gift: **link 2**](https://www.aliexpress.com/item/1005002378551489.html)  
+
+### 4-IN-1-OUT Non-Mix hotend :+1::+1:
+This hotend is good at printing multi colors 3d prints.
+- [:book: **User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend/User_guide/readme.md)
+- [:gift: **Sell link 1**](https://bit.ly/39qDtKp) [:gift: **link 2**](https://www.aliexpress.com/item/1005002951777699.html)   
+
+### The 6th Version 4-IN-1-OUT Mix hotend :+1::+1:
+The newest version 4-IN-1-OUT mix color hotend, it
+- Support Flow Rate (up to 15mm<sup>3</sup>/s).
+- Support Maximum operating temperature (up to 260 degree). 
+- Support more types of filaments. PLA/PLA+/ABS/ASA/PETG/PVDF.
+- Less strings issue.
+- [:book: **User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6/readme.md)   
+- [:gift: **Sell link 1**](https://bit.ly/3QhWJtf) [:gift: **link 2**](https://www.aliexpress.us/item/3256804361331443.html)  
+
+### Direct drive extruder :+1:
+By upgrading this project, you can print flexible materials (such as TPU filament).  
+!!ONLY SUPPORT ONE COLOR!!
+- [:book: **User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct%20Drive%20Extrruder)   
+- [:gift: **Sell link 1**](https://bit.ly/3CA0QvV) [:gift: **link 2**](https://www.aliexpress.com/item/1005002847644867.html)  
+
+### High flow Hotend :+1:
+By upgrading this project, the machine can print faster and support more types of high temperature filaments.    
+!!ONLY SUPPORT ONE COLOR!!
+- [:gift: **Sell link 1**](https://bit.ly/3RF7ciRl) [:gift: **link 2**](https://www.aliexpress.com/item/1005002829919346.html)  
+
+### Automatic Repeat Printing Module
 By upgrading this module to make your 3D printer capable of continuous automatic mass production.  
-[**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing)   
-[**Sell Link**](https://www.aliexpress.com/item/1005003767078457.html)   
+[:book: **User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing)   
+[:gift: **Sell Link**](https://www.aliexpress.com/item/1005003767078457.html)   
 
 ### Laser engine
 By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point.  
-- [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser%20Engraving)  
-- [**Sell link**](https://www.aliexpress.com/item/4001309902136.html)  
-### WiFi
-By upgrading this item, you can remote control your 3d printer.    
-- [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi)  
-- [**Sell link**](https://www.aliexpress.com/item/1005002378551489.html)  
-### Direct drive extruder
-By upgrading this project, you can print flexible materials (such as TPU filament). Of course, it also has other advantages and disadvantages of the "direct drive" extruders, such as having less strings issue, better flow, more supporting materials, etc., Also because of the heavier weight of the extruder, the printing speed must be lower.  
-- [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct%20Drive%20Extrruder)   
-- [**Sell link**](https://www.aliexpress.com/item/1005002847644867.html)   
+- [:book: **User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser%20Engraving)  
+- [:gift: **Sell link**](https://www.aliexpress.com/item/4001309902136.html)  
+
 ### Hotends
+[:book:**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)  
 Each type of hot end has its advantages and disadvantages, you can choose different hotends according to different requirement:    
-- **High-speed and high-temperature Hotend (single color)**: It can support higher  printing speed and higher temperature consumables (up to 300 degrees when using stainless steel nozzles), and can be used to print PVC and PC.  
+- **High-speed and high-temperature Hotend (single color)**: It can support higher printing speed and higher temperature consumables (up to 300 degrees when using stainless steel nozzles), and can be used to print PVC and PC.  
 - **3-IN-3-OUT Hotend**: It can support printing different typs of filaments in one 3d prints, such as PLA+PVA.  
 - **3-IN-2-OUT Hotend**: It can be regarded as a combination of 2-IN-1-OUT and a single-color hot end, which can simultaneously achieve the needs of color mixing and printing of different materials.    
-We will launch more hot ends in the future, so stay tuned. If you have any suggestions, please don't hesitate to let us know at any time.   
-- [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)   
-- [**4-IN-1-OUT Non-Mixing hotend**](https://www.aliexpress.com/item/1005002951777699.html)   
-- [**High Speed Printing hotend**](https://www.aliexpress.com/item/1005002829919346.html)  
-- [**3-IN-1-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
-- [**3-IN-2-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
-- [**3-IN-3-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
-### Bed leveling sensor
-- [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor)  
+- [:gift: **3-IN-1-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
+- [:gift: **3-IN-2-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
+- [:gift: **3-IN-3-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
+
+
 
