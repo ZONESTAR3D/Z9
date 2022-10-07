@@ -103,6 +103,25 @@ Please download the slicing software and install to your PC, and then read the g
 
 ------
 ## Optional upgrade kit / parts
+### WiFi wireless control module :+1::+1:
+By upgrading this item, you can remote control your 3d printer.    
+:book: [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi)  
+<!-- :movie_camera: [**Video tutorial**]() -->
+
+### Mix color hotend :+1::+1:
+By upgrading this item, your printer can support gradient color printing and printing with more than 4 colors 3d objects. 
+:book:  [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6/readme.md)
+
+### Direct drive extruder :+1:
+By upgrading this project, you can print flexible materials (such as TPU filament). 
+!!ONLY SUPPORT ONE COLOR!!  
+:book: [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct%20Drive%20Extrruder)   
+:movie_camera: [**Video tutorial**](https://youtu.be/7aF-C7VgDZY)
+
+### High flow Hotend :+1:
+By upgrading this project, the machine can print faster and support more types of high temperature filaments.   
+!!ONLY SUPPORT ONE COLOR!!
+
 ### Automatic Repeat Printing Module
 By upgrading this module to make your 3D printer capable of continuous automatic mass production.  
 :book: [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing)   
@@ -111,16 +130,6 @@ By upgrading this module to make your 3D printer capable of continuous automatic
 By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. Higher power laser modules can improve engraving speed or support materials with higher melting point.  
 :book: [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser%20Engraving)  
 <!-- :movie_camera: [**Video tutorial**]() -->
-
-### WiFi wireless control module
-By upgrading this item, you can remote control your 3d printer.    
-:book: [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi)  
-<!-- :movie_camera: [**Video tutorial**]() -->
-
-### Direct drive extruder
-By upgrading this project, you can print flexible materials (such as TPU filament). Of course, it also has other advantages and disadvantages of the "direct drive" extruders, such as having less strings issue, better flow, more supporting materials, etc., Also because of the heavier weight of the extruder, the printing speed must be lower.  
-:book: [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct%20Drive%20Extrruder)   
-:movie_camera: [**Video tutorial**](https://youtu.be/7aF-C7VgDZY)
 
 ### More types of Hotend / extruder
 Each type of hot end has its advantages and disadvantages, you can choose different hotends according to different requirement.
