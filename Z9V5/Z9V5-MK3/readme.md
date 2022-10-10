@@ -58,7 +58,8 @@ Slicing software and user guide. [**View the newest slicing guide**](https://git
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
 
 ## 6.Video tutorial  
-**NOTE: The video tutorial may be a little different with your machine because of firmware version is different, for reference only**     
+:warning: **NOTE: The video tutorial may be a little different with your machine because of firmware version is different, for reference only**     
+- :movie_camera: [***All video tutorials***](https://youtube.com/playlist?list=PLbvlwbqXvSC_Ue49X_mEBViiTigqgsl08)
 ### Installation and operation      
 - :movie_camera: [***Installaltion guide***](https://youtu.be/i57R1NDj2d4)    
 - :movie_camera: [***How to load filament (one color)***](https://youtu.be/W1_XiT4g9kg)  
