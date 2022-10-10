@@ -67,7 +67,7 @@ G-code is information, or instructions that 3d printer requires in order to prin
   :warning: If you're sure that the filament is enough, do not pass the filament through the **Filament Run Out Sensor**.       
   :warning: If the position of the pause after detecting the filament run out is just on the surface of the prints, the pause may cause some obvious defects on the prints.  
        
-- **Power losss recovery.** If your power supply network has frequent power outages, you can enable the automatic power losss recovery function before start printing. When the power goes out and it resumed, you can press the DC switch to turn on the power of the machine, and then the machine will automatically detect the printing breakpoint and provide you with whether you need to continue printing. For how to use, please refer to  [:movie_camera: **Video tutorial**](https://youtu.be/SK95C-6OpB4)   
+- **Power losss recovery.** If your power supply network has frequent power outages, you can enable the automatic power losss recovery function before start printing. When the power goes out and it resumed, you can press the DC switch to turn on the power of the machine, and then the machine will automatically detect the printing breakpoint and provide you with whether you need to continue printing. For how to use, please refer to  [:movie_camera: **Video tutorial**](https://youtu.be/f-PpasByiiE)   
   :warning: Breakpoints data and gcode files will be stored on the SD, must keep the SD card in socket when turn on the machine after power resumed.       
   :warning: Power losss recovery feature may introduce some imperfections on the prints when printing is resumed.
 

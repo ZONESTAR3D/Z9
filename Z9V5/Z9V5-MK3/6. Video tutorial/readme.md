@@ -13,6 +13,7 @@
 [***Auto Retract Feature***](https://youtu.be/4HVIGxZfM80)  
 [***Filament Runout***](https://youtu.be/viTvzIskwY8)  
 [***Print done auto shutdown***](https://youtu.be/hXzHtXrX1X0)  
+[***Powe lost recovery***](https://youtu.be/f-PpasByiiE)
 
 ## Cura Slicing guide video toturial list
 [***Install and setup Cura***](https://youtu.be/h2GynyUo7wQ)  

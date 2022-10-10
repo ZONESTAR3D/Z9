@@ -10,7 +10,7 @@
 - :movie_camera: [**Bed auto leveling**](https://youtu.be/Zoyl6PybsUk)
 - :movie_camera: [**Power auto shutdown after print finished**](https://youtu.be/SJLpmJL-tG4)
 - :movie_camera: [**Filament run out detect**](https://youtu.be/QCJ-6L6ze1w)   
-- :movie_camera: [**Power losss recovery**](https://youtu.be/SK95C-6OpB4) 
+- :movie_camera: [**Power losss recovery**](https://youtu.be/f-PpasByiiE) 
 ### FAQ
 - :movie_camera: [**How to replace nozzle**](https://youtu.be/N3-aCQg5XYI)
 - :movie_camera: [**Machine auto test**](https://youtu.be/Mf92BlmKA0A)

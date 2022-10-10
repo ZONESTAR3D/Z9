@@ -71,6 +71,7 @@ Slicing software and user guide. [**View the newest slicing guide**](https://git
 - :movie_camera: [***Auto Retract Feature***](https://youtu.be/4HVIGxZfM80)  
 - :movie_camera: [***Filament Runout***](https://youtu.be/viTvzIskwY8)  
 - :movie_camera: [***Print done auto shutdown***](https://youtu.be/hXzHtXrX1X0)  
+- :movie_camera: [***Powe lost recovery***](https://youtu.be/f-PpasByiiE)
 
 ### Slicing guide (by Cura)  
 - :movie_camera: [***Install and setup Cura***](https://youtu.be/h2GynyUo7wQ)  
