@@ -43,13 +43,11 @@ Slicing software and user guide. [**View the newest slicing guide**](https://git
 - [**PrusaSlicer(Recommended)**](./2.%20Slicing/PrusaSlicer/readme.md)  
 - [**Cura**](./2.%20Slicing/Cura/readme.md)  
 
-
 ## [3.Test gcode](./3.%20Test%20gcode/readme.md)
 **Some Test gcode files.** [**View detail**](./3.%20Test%20gcode/readme.md)  
 
 ## [4.FAQ](./4.%20FAQ/readme.md)
 **Troubleshooting and FAQ files.** [**View detail**](./4.%20FAQ/readme.md)  
-
 
 ## [5.Firmware](./5.%20Firmware/readme.md)
 - [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5)  
@@ -68,7 +66,7 @@ Slicing software and user guide. [**View the newest slicing guide**](https://git
 - :movie_camera: [***Gradient Mixing Color Printing***](https://youtu.be/agj3J1HBDt8)  
 - :movie_camera: [***Random Mixing Color Printing***](https://youtu.be/qvT_BX4C2Rk)  
 
-### Advanced features
+### [Advanced features](./1.%20Installation%20and%20User%20Guide/Advance%20Features/readme.md)
 - :movie_camera: [***Auto Retract Feature***](https://youtu.be/4HVIGxZfM80)  
 - :movie_camera: [***Filament Runout***](https://youtu.be/viTvzIskwY8)  
 - :movie_camera: [***Print done auto shutdown***](https://youtu.be/hXzHtXrX1X0)  
