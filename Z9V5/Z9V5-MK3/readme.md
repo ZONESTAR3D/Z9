@@ -26,17 +26,16 @@
 --------
 # :file_folder: Documents
 ## [1.Installation and User Guide](./1.%20Installation%20and%20User%20Guide/)
-**Included:**  
-1. Installation and quick user guide  
-2. LCD screen menu description  
-3. Installation video tutorial  
-4. Wiring Diagram  
-5. Operature guide for mixing color printer    
-6. USB driver  
-7. How to load and unload filament guide  
-8. Print from PC guide  
-9. Advanced features guide  
-10. Bed auto leveling feature guide  
+- Installation and quick user guide  
+- LCD screen menu description  
+- Installation video tutorial  
+- Wiring Diagram  
+- Operature guide for mixing color printer    
+- USB driver 
+- [How to load filament guide](./1.%20Installation%20and%20User%20Guide/How%20to%20load%20filament.pdf)  
+- [Print from PC guide](./1.%20Installation%20and%20User%20Guide/Print%20from%20PC/Print%20from%20PC.pdf)  
+- [Advanced features guide](./1.%20Installation%20and%20User%20Guide/Advance%20Features/readme.md)  
+- [Bed auto leveling feature guide](./1.%20Installation%20and%20User%20Guide/Bed%20Auto%20Leveling%20Feature/Auto%20leveling%20feaure%20user%20guide(Z9V5Pro-ZL%20Sensor).pdf)  
 
 ## [2.Slicing](./2.%20Slicing/)
 Slicing software and user guide. [**View the newest slicing guide**](https://github.com/ZONESTAR3D/Slicing-Guide).   
