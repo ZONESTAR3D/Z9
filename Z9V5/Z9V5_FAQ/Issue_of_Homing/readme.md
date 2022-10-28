@@ -35,10 +35,12 @@ Follow the [:movie_camera:**electronics parts auto testing video tutorial**](htt
 :warning: For Z axis, the two sets (left and right) of ENDSTOPS + Motor must be matched. If you exchange one of them (for example, the left and right ENDSTOP wiring is exchanged but the motor wiring is not ), it will also cause the Z axis to fail to home.  
 - **ZL/ZR ENDSTOPs don't work?**  
 1. Check Z ENDSTOPs wiring (Both the left and right).    
-2. Check the Z ENDSTOPs PCBA  (Both the left and right). :warning: Please pay attention to check the Z limit switch circuit board for damage or accidental poor soldering.   
+2. Check the Z ENDSTOPs PCBA  (Both the left and right).    
+:warning: Please pay attention to check the Z limit switch circuit board for damage or accidental poor soldering.   
 ![](Z_endstop_wring.jpg) ![](Z_endstop.jpg)
 - **ZL/ZR Motor don't work?**  
-1. Check Z(L/R) motor wiring.    
-2. Check Z(L/R) Motor wiring on the control boad.   
-![](Z_motor_wring.jpg) ![](Z_wiring_board.jpg)
+1. **Check ZL/ZR motor wiring. **  
+![](Z_motor_wring.jpg)  
+2. **Check ZL/ZR Motor wiring on the control boad.**   
+![](Z_wiring_board.jpg)
 
