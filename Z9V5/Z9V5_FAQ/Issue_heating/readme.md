@@ -5,10 +5,14 @@ First, turn on the power and observe the current temperature display on the LCD 
 > 
     1: hot end(nozzle) temperature       2: hotbed temperature
 Normally, the current temperature of the hot end and hot bed should be approximately the same as room temperature. 
-- **Hot end (or hot bed) shows 0℃**: If the current temperature of the hot end (or hot bed) shows 0 degrees, it means that the temperature sensor of the hot end ( or hot bed) is disconnected, please check whether the wiring is well connected.   
-- **Hot end shows round of 100℃**: If the temperature of the hot end shows a high temperature (about 100℃), but the nozzle is actually cool, then it is very likely that you have connected the temperature sensor of the hot end to the fan by mistake, please pay attention to check the wiring of the hot end.   
-
-![](./Hotbed_wiring.jpg)           ![](./Hotend_wiring.jpg)     
+#### 1.1 Hot bed shows 0℃: 
+If the current temperature of hot bed shows 0 degrees, it means that the temperature sensor of the hot bed is disconnected, please check whether the wiring is well connected.   
+![](./Hotbed_wiring.jpg)
+#### 1.2 Hot end shows 0℃
+If the current temperature of the hot end shows 0 degrees, it means that the temperature sensor of the hot end is disconnected, please check whether the wiring is well connected.   
+#### 1.3 Hot end shows round of 100℃
+If the temperature of the hot end shows a high temperature (about 100℃), but the nozzle is actually cool, then it is very likely that you have connected the temperature sensor of the hot end to the fan by mistake, please pay attention to check the wiring of the hot end.   
+![](./Hotend_wiring.jpg)     
         
  
 ### 2. Hot end issue
@@ -45,7 +49,7 @@ Please refer to 2.2.2.
 - 3.1.2 [:link: Open the control box](../How_to_open_the_control_box.jpg) and discounect the temperature sensor wire from the control board. If it was fixed, replace a new temperature sensor wire. If it wasn't fixed, replace a new control board.
 
 #### 3.2 When heating the hot bed, the temperature does not rise.
-- 3.2.1 Check if the power wire of hot bed connect well.
+- 3.2.1 Check if [:point_up: the power wire of hot bed](#11-hot-bed-shows-0℃) is connected well.
 - 3.2.2 [:link: Open the control box](../How_to_open_the_control_box.jpg) and check if the power wire of hot bed connect well with the control board.
 - 3.2.2 [:link: Open the control box](../How_to_open_the_control_box.jpg) and check if the [:point_up: LED3](#21-when-heating-the-hot-end-the-temperature-does-not-rise) will light when heating the hot bed, if not, it means the MOSFET of the control boad is damaged and need to be replaced.
 
