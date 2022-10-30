@@ -40,7 +40,7 @@ Please refer to 2.2.2.
 
 ### 3. Hot bed issue
 #### 3.1 LCD shows hotbed max temperature after power on.
-![](./hotbed_max_Temperature.jpg）
+![](./hotbed_max_temperature.jpg)   
 - 3.1.1 Disconnect the wire of the hotbed temperature sensor and try again. If it was fixed, replace a new temperature sensor.
 - 3.1.2 [:link: Open the control box](../How_to_open_the_control_box.jpg) and discounect the temperature sensor wire from the control board. If it was fixed, replace a new temperature sensor wire. If it wasn't fixed, replace a new control board.
 
