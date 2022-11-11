@@ -1,4 +1,8 @@
 ## Summary of Updates for ZONESTAR Z9V5
+### Updates in 2022-11-11
+- **Z9V5Pro-MK4** Release firmware V1.2.0_beta :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/beta)
+- **Z9V5Pro-MK3** Release firmware V3.2.0_beta :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
+
 ### Updates in 2022-09-27
 - **Z9V5Pro-MK3** Release firmware V3.1.0_beta :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
 
