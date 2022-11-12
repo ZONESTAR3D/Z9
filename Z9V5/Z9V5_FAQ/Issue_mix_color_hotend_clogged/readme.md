@@ -47,5 +47,8 @@ We launched the 6th version of 4-IN-1-OUT mix color hot end, which greatly reduc
 - [:book: More Informware of 4-IN-1-OUT Mix Color Hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend)
 - [:book: FAQ of M4V3 & M4V4](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V3_V4/FAQ.md)
 
+--------
+## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .
+
 
 

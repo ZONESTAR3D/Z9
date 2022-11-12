@@ -6,3 +6,6 @@
 ## :loudspeaker: :warning: Disconnect AC Power Before Checking.:warning:     
 ![](./AC_connector_wires.jpg)
 ### 4. If you have enabled the "gradient color mixing" or "random color mixing" feature, please turn it off first and check if the problem can be fixed. If it can be fixed, please upload the newest firmware ([Download the newsst firmware](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin)) to the control board and check again.
+
+--------
+## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .

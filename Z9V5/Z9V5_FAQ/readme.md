@@ -38,5 +38,6 @@
 <!-- - [**Scars on top surface**]() -->
 <!-- - [**Infill showing on exterior of print**]() -->
 <!-- - [**Weak infill**]() -->
+
 --------
-## :email: If you have any unsolvable problems, please contact our technical support team : support@zonestar3d.com
+## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .

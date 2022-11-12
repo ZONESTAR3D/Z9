@@ -57,3 +57,6 @@ Please refer to 2.2.2.
 - 3.3.1 Do not put the fan or air conditioner outlet toward the machine.
 - 3.3.2 If the temperature of the room is low (<20 ℃), try to wrap around the machine.
 
+--------
+## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .
+

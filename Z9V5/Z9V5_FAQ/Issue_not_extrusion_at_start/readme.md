@@ -7,4 +7,7 @@ Refer to this [:movie_camera:**electronics parts auto testing video tutorial**](
     - Check if [the extruder motor drivers](../motor_drivers.jpg) work well (To exchange with another extruder motor driver for testing).
   - :heavy_check_mark: **If yes**, [:point_right: go to next step](#step-2)
 
-### Step 2. 
+### Step 2. *(Waiting for supplement..)*
+
+--------
+## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .

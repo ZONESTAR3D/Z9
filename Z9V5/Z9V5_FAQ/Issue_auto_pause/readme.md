@@ -3,3 +3,6 @@
 :warning: You need to through **all four filaments** to pass **filament run out sensors (FROD)** if you used Run-out.   
 :warning: When the filament is detected, the FROD LED will light up. Check if all LEDs light up. 
 ### 2. Copy another gcode file and test again.
+
+--------
+## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .

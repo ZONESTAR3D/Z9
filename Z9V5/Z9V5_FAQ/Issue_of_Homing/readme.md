@@ -44,3 +44,5 @@ Follow the [:movie_camera:**electronics parts auto testing video tutorial**](htt
 2. **Check ZL/ZR Motor wiring on the control boad.**   
 ![](Z_wiring_board.jpg)
 
+--------
+## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .

@@ -49,12 +49,5 @@ Please try to download the firmware and upload it to your printer again. [:arrow
 ### Contact our support team.
 If you still haven't fixed the question after did above 5 steps, contact our tech-support team [:email: support@zonestar3d.com](support@zonestar3d.com).
 
-
-
-
-
-
-
-
-
-
+--------
+## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .

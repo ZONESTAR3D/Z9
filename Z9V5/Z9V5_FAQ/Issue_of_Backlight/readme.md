@@ -7,3 +7,6 @@
 ![](./1.jpg)
 #### 4. Check if the LED5 light will light up, if not, it means the MOSFET of the control board is damaged and need to be replaced.
 ![](../LEDs.jpg)
+
+--------
+## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .

@@ -15,3 +15,6 @@ This is because the resistance of the extruder is too large (when pushing the fi
 :warning: ***1. Power off before adjustment. 2. The maximum adjustment angle shall not exceed 30 degrees.***
 ![](../How_to_open_the_control_box.jpg)   
 ![](./Adjuse_Driver_Current.jpg)
+
+--------
+## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .
