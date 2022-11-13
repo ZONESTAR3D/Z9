@@ -29,7 +29,7 @@
 <!-- - [**Print not sticking to bed**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_not_sticking_to_bed/readme.md) -->
 <!-- - [**Bed auto leveling issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_bed_auto_leveling/readme.md) -->
 <!-- - [**Filament run out sensor issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_FROD/readme.md) -->
-- [**Filament clogged issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_E4hotend/readme.md)
+- [**Filament clogged issue**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend/FAQ/readme.md)
 
 ### Printing quality is not good
 - [**How to fix extruder insufficient discharge issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_of_Extruder_insufficient_discharge/readme.md)
