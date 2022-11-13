@@ -24,12 +24,12 @@
 
 ### The printer works, but there are some problems when printing
  [**Auto shut down when printing from SD card**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_auto_shut_down/readme.md)
-<!-- - [**Auto pause when printing from SD card**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_auto_pause/readme.md) -->
-<!-- - [**Not extruding at the start of the print**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_not_extrusion_at_start/readme.md) -->
-<!-- - [**Print not sticking to bed**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_not_sticking_to_bed/readme.md) -->
-<!-- - [**Bed auto leveling issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_bed_auto_leveling/readme.md) -->
-<!-- - [**Filament run out sensor issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_FROD/readme.md) -->
-<!-- - [**Filament clogged issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_M4hotend_clogged/readme.md) -->
+- [**Auto pause when printing from SD card**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_auto_pause/readme.md)
+- [**Not extruding at the start of the print**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_not_extrusion_at_start/readme.md)
+- [**Print not sticking to bed**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_not_sticking_to_bed/readme.md)
+- [**Bed auto leveling issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_bed_auto_leveling/readme.md)
+- [**Filament run out sensor issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_FROD/readme.md)
+- [**Filament clogged issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_M4hotend_clogged/readme.md)
 
 ### Printing quality is not good
 - [**How to fix extruder insufficient discharge issue**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ/Issue_of_Extruder_insufficient_discharge/readme.md)
