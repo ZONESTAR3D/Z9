@@ -93,8 +93,8 @@ Please download the slicing software and install to your PC, and then read the g
 ### 6. FAQ
 - :movie_camera: [**How to replace nozzle**](https://youtu.be/N3-aCQg5XYI)
 - :movie_camera: [**Machine auto test**](https://youtu.be/Mf92BlmKA0A)
-- :movie_camera: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)
-For more FAQ, please refer to [**here**](./6.FAQ/readme.md)
+- :movie_camera: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)    
+##### For more FAQ, please refer to [**here**](./6.FAQ/readme.md)
 
 ### 7. Others
 #### [Print parts stl files](./7.Others/Parts_stl_file/readme.md)
