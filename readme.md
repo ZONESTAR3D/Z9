@@ -10,8 +10,9 @@
 [![](./lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=ko)
 [![](./lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=ja)
 [![](./lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=ar)
+[![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
-----------
+----
 ### About ZONESTAR Z9 series 3d printer
 The main features of Z9 include:  
 1. Used **Aluminum profile frame** structure makes the machine  stronger and more stable. The profiles screw is directly fixed, which is more accurate than using profile connectors.  
@@ -20,8 +21,8 @@ The main features of Z9 include:
 4. **Dule drive z-axis** design is adopted to simplify leveling and improve the stability of the printing platform.  
 5. **Elastic replaceable hotend** design is adopted. Fast heat exchange end (extruder) can be selected according to different printing material requirements.   More details, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)
 
-------
-## Z9V5 
+----
+## :file_folder:[Z9V5](./Z9V5.jpg)
 #### [:book: Documents](./Z9V5/readme.md)
 **Z9V5** is the latest version of Z9 series. Compared with **Z9M4**, the main upgrades include:  
 1. Higher pre assembly ratio and faster installation.  
@@ -59,8 +60,9 @@ The main features of Z9 include:
 3. Bed leveling sensor used PL-08N.
 4. Optimized structure on top assembly, filament run out sensor case.
 
-## Z9M4 
-#### [:book:Documents](./Z9M4/)    
+----
+## :file_folder:[Z9M4](./Z9M4/) 
+#### [:book:Documents](./Z9M4/readme.md)    
 **Z9M4** is a version of Z9 series launched in 2020. Compared with Z9FM3, the main upgrades include:  
 1. Upgrade to 4 extruders  
 2. Upgrade to 4-IN-1-OUT hotend  
@@ -68,8 +70,8 @@ The main features of Z9 include:
 **NOTE: Z9M4 is stopped produce since April 2021**  
 ![Z9M4](Z9M4.jpg)
 
-## Z9M3 
-#### [:book:Documents](./Z9M3/)
+----
+## :file_folder:[Z9M3](./Z9M4/)  
 **Z9M3** is a version of Z9 series launched in 2019.  it has produced two versions, Z9T/Z9F. Compared with Z9M2, the main upgrades include:  
 1. Upgrade to 3 extruders  
 2. Upgrade to 3-IN-1-OUT hotend  
@@ -77,6 +79,7 @@ The main features of Z9 include:
 **NOTE: Z9M3 is stopped produce since April 2020**  
 ![Z9FM3](Z9M3.jpg)  
 
+----
 ## Z9M2 
 **Z9M2** launched in 2018, it is the first verison of Z9 series. it has produced two versions, Z9 and Z9S. Z9 use a H-BOT structure and Z9S used a Core-XY structure, and after Z9S, all of the Z9 series are used Core-XY structure.
 
