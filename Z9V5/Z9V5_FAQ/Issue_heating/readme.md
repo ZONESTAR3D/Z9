@@ -34,21 +34,28 @@ If the hotend temperature is raise, but it can't be reached to the setting tempe
 
 - 2.2.1 **If hot end will not be heated to more than 150℃:** Check the temperature sensor on the side of hotend, it may be drop out from the heat block. ***In this case, the hot end will not be heated to more than 150℃ usually.*
 ![](sensorhotenddrop.jpg)
-- 2.2.2 **If hot end can be heating to 200℃, but it is unstable** 
-  - Check the cooling FAN installation, if it is blowed inside to the housing, please change to blowed outside.
-![](./coolingfan.jpg)
-  - [Upload the newest firmware to the printer](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5) and do once ***Control>>Configre>>Hotend PID>>PID auto tune:***,  set the value to 200 if you printed PLA or 235 if you print PETG/ABS, and then wait until it finished. [:movie_camera: **Video Tutorial**](./PID_Auto_Tune.gif)
-  
-  - If you have did the above 2 steps but the question can't be fixed, please repleace a new cartridge heaters and try again. 
+- 2.2.2 **If hot end can be heating to 200℃, but it is unstable**, please refer to the [**section 2.3**].(#23-the-temperature-of-the-hot-end-is-unstable-jumping-up-and-down) 
 
 #### 2.3 The temperature of the hot end is unstable, jumping up and down
-Please refer to 2.2.2.
+  - Check the cooling FAN installation, if it is blowed inside to the housing, please change to blowed outside.
+![](./coolingfan.jpg)
+  - [Upload the newest firmware to the printer](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5) and do once ***Control>>Configre>>Hotend PID>>PID auto tune: 200 {200 for printing PLA or 240 for printing PETG/ABS}***, and wait until it done. [:movie_camera: **Video Tutorial**](./PID_Auto_Tune.gif). Here are some PID parameters we measured for your reference:    
+
+  |  HOTEND TYPE  |  Temperature |      P       |     I     |     D     |
+  |:-------------:|:------------:|:------------:|:---------:|:---------:|
+  |    M4V4       |     200℃    |     17.4     |    0.51   |    148.6  |
+  |    M4V4       |     240℃    |     21.9     |    0.67   |    178.2  |
+  |    M4V6       |     200℃    |     14.5     |    0.71   |    75.5   |
+  |    M4V6       |     240℃    |     15.7     |    0.77   |    80.4   |
+  |     E4        |     200℃    |     12.8     |    0.61   |    70.2   |
+  |     E4        |     240℃    |              |           |           |
+  - If you did the above two steps but the question can't be solved, please [**contact with our support team**](#contact-with-our-support-team) or repleace a new cartridge heater and try again. 
 
 ### 3. Hot bed issue
 #### 3.1 LCD shows hotbed max temperature after power on.
 ![](./hotbed_max_temperature.jpg)   
 - 3.1.1 Disconnect the wire of the hotbed temperature sensor and try again. If it was fixed, replace a new temperature sensor.
-- 3.1.2 [:link: Open the control box](../How_to_open_the_control_box.jpg) and discounect the temperature sensor wire from the control board. If it was fixed, replace a new temperature sensor wire. If it wasn't fixed, replace a new control board.
+- 3.1.2 [:link: Open the control box](../How_to_open_the_control_box.jpg) and discounect the temperature sensor wire from the control board. If it was fixed, replace a new temperature sensor wire. If it wasn't solved, replace a new control board.
 
 #### 3.2 When heating the hot bed, the temperature does not rise.
 - 3.2.1 Check if [:point_up: the power wire of hot bed](#11-hot-bed-shows-0℃) is connected well.
@@ -60,5 +67,6 @@ Please refer to 2.2.2.
 - 3.3.2 If the temperature of the room is low (<20 ℃), try to wrap around the machine.
 
 --------
-## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .
+## Contact with our support team
+:email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .
 
