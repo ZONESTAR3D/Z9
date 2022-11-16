@@ -34,10 +34,12 @@ If the hotend temperature is raise, but it can't be reached to the setting tempe
 
 - 2.2.1 **If hot end will not be heated to more than 150℃:** Check the temperature sensor on the side of hotend, it may be drop out from the heat block. ***In this case, the hot end will not be heated to more than 150℃ usually.*
 ![](sensorhotenddrop.jpg)
-- 2.2.2 **If hot end can be heating to 200℃, but can't be heating to 240 ℃.** 
-  - Adjust the PID parameter from the LCD MENU (***Control>>Configre>>Hotend PID>>***), only need to change **PID Tune P**, **PID Tune I** and **PID Tune D**, and then do **"Control>>Store Settings"**. and then heating again. The below settings for reference.
-![](./PIDsettings.jpg)
-  - The power of the heater is less than what the machine needs, to repleace a new heater and try again. 
+- 2.2.2 **If hot end can be heating to 200℃, but it is unstable** 
+  - Check the cooling FAN installation, if it is blowed inside to the housing, please change to blowed outside.
+![](./coolingfan.jpg)
+  - [Upload the newest firmware to the printer](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5) and do once ***Control>>Configre>>Hotend PID>>PID auto tune:***,  set the value to 200 if you printed PLA or 235 if you print PETG/ABS, and then wait until it finished. [:movie_camera: **Video Tutorial**](./PID_Auto_Tune.gif)
+  
+  - If you have did the above 2 steps but the question can't be fixed, please repleace a new cartridge heaters and try again. 
 
 #### 2.3 The temperature of the hot end is unstable, jumping up and down
 Please refer to 2.2.2.
