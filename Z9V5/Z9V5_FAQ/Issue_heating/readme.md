@@ -48,7 +48,7 @@ If the hotend temperature is raise, but it can't be reached to the setting tempe
   |    M4V6       |     200℃    |     14.5     |    0.71   |    75.5   |
   |    M4V6       |     240℃    |     15.7     |    0.77   |    80.4   |
   |     E4        |     200℃    |     12.8     |    0.61   |    70.2   |
-  |     E4        |     240℃    |              |           |           |
+  |     E4        |     240℃    |     10.1     |    0.45   |    56.0   |
   - If you did the above two steps but the question can't be solved, please [**contact with our support team**](#contact-with-our-support-team) or repleace a new cartridge heater and try again. 
 
 ### 3. Hot bed issue
