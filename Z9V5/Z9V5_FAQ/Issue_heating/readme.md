@@ -37,19 +37,22 @@ If the hotend temperature is raise, but it can't be reached to the setting tempe
 - 2.2.2 **If hot end can be heating to 200℃, but it is unstable**, please refer to the [**section 2.3**].(#23-the-temperature-of-the-hot-end-is-unstable-jumping-up-and-down) 
 
 #### 2.3 The temperature of the hot end is unstable, jumping up and down
-  - Check the cooling FAN installation, if it is blowed inside to the housing, please change to blowed outside.
+  - **Step 1**: Check the cooling FAN installation, if it is blowed inside to the housing, please change to blowed outside.
 ![](./coolingfan.jpg)
-  - [Upload the newest firmware to the printer](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5) and do once ***Control>>Configre>>Hotend PID>>PID auto tune: 200 {200 for printing PLA or 240 for printing PETG/ABS}***, and wait until it done. [:movie_camera: **Video Tutorial**](./PID_Auto_Tune.gif). Here are some PID parameters we measured for your reference:    
+  - **Step 2**: [Upload the newest firmware to the printer](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5) and do once  ***Control>>Restore Defaults"***, and then heating again.
 
+##### If you did the above two steps but the question can't be solved, do the below steps: ***Control>>Configre>>Hotend PID>>PID auto tune: 200 {200 for printing PLA or 240 for printing PETG/ABS}***, and wait until it done. [:movie_camera: **Video Tutorial**](./PID_Auto_Tune.gif). Here are some PID parameters we measured for your reference:   
   |  HOTEND TYPE  |  Temperature |      P       |     I     |     D     |
   |:-------------:|:------------:|:------------:|:---------:|:---------:|
+  |   Common      |              |     22.2     |    1.08   |    114.0  |
   |    M4V4       |     200℃    |     17.4     |    0.51   |    148.6  |
   |    M4V4       |     240℃    |     21.9     |    0.67   |    178.2  |
   |    M4V6       |     200℃    |     14.5     |    0.71   |    75.5   |
   |    M4V6       |     240℃    |     15.7     |    0.77   |    80.4   |
   |     E4        |     200℃    |     12.8     |    0.61   |    70.2   |
   |     E4        |     240℃    |     10.1     |    0.45   |    56.0   |
-  - If you did the above two steps but the question can't be solved, please [**contact with our support team**](#contact-with-our-support-team) or repleace a new cartridge heater and try again. 
+  
+##### If you did all the above steps but the question can't be solved, please [**contact with our support team**](#contact-with-our-support-team) or repleace a new cartridge heater and try again. 
 
 ### 3. Hot bed issue
 #### 3.1 LCD shows hotbed max temperature after power on.
