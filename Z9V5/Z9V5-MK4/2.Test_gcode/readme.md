@@ -8,10 +8,6 @@
 A test gcode file to check the best printing temperature of your filament (190~235 degree)    
 [:arrow_down: **Download gcode file**](./E4_4C/Z9E4_4CTest.zip)    
 
-### 1 Color 3DBenchy
-A classic printing quanlity test file, one color    
-[:arrow_down: **Download gcode file**](./E4_4C/Z9E4_4CTest.zip)    
-
 ### 1 Color dog
 A classic printing quanlity test file, one color    
 [:arrow_down: **Download gcode file**](./E4_4C/Z9E4_4CTest.zip)    
