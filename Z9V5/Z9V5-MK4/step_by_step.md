@@ -1,3 +1,22 @@
+### Choose Language (Translated by google)
+[![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=es)
+[![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=fr)
+[![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=de)
+[![](../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=it)
+[![](../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=pl)
+[![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=el)
+[![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=ko)
+[![](../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=id)
+[![](../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=th)
+[![](../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=vi)
+[![](../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=iw)
+[![](../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=ar)
+[![](../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=tr)
+[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK4/step_by_step.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
+
 ## Step by Step Guide
 If you're a beginner with 3D printers, with so much documentation to read, you might not know where to start. Don't worry, we'll go into the details of these documents next step by step. In a word, you need to do 4 steps **Install the machine - Printing test file - Slicing your own 3d file - Printing your 3d file**.      
 First at all, please download the documents and save to your PC from [:arrow_down: this link](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4#download-z9v5-mk4-files).
