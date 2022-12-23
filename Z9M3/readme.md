@@ -19,9 +19,9 @@
 
 -----
 ### [:file_folder: The 3rd Z9M3 Documents](./Z9T/)
-[:arrow_down: **Download all The 3rd Z9M3 Documents in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9M3%2FZ9T)  
+[:arrow_down: **Download the 3rd Z9M3 Documents in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9M3%2FZ9T)  
 ### [:file_folder: The 4th Z9M3 Documents](./Z9F/)
-[:arrow_down: **Download all The 4th Z9M3 Documents in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9M3%2FZ9F)  
+[:arrow_down: **Download the 4th Z9M3 Documents in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9M3%2FZ9F)  
 
 
 
