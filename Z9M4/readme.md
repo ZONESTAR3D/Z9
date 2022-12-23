@@ -52,7 +52,7 @@
 
 ## 7. Firmware
 - [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9M4)  
-- [** Firmware source code** ](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
+- [**Firmware source code** ](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
 
 ## Video tutorial  
 **NOTE: The video tutorial may be a little different with your machine because of firmware version is different, for reference only**     
