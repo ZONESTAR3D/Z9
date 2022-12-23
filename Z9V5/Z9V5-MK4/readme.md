@@ -44,6 +44,7 @@
 - :book: [**LCD screen menu description**](./1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.pdf)
 - :movie_camera: [**Installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI)
 - :art: [**Wiring diagram**](./1.Installation_and_User_Guide/Z9V5Pro_Wiring_Diagram.jpg)
+- :book: [**E4 Hotend user guide**](https://bit.ly/3dIaaF5)
 - :file_folder: [**Advanced features guide**](./1.Installation_and_User_Guide/Advances_Feature/)
 
 ### 2. Test Gcode
