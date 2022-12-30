@@ -19,7 +19,7 @@
 [![](../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ?_x_tr_sl=en&_x_tr_tl=tr)
 [![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
---------
+-----
 ## FAQ for Z9V5
 - [**The machine can't start up**](./Issue_of_startup/readme.md)
 - [**Homing issue**](./Issue_of_Homing/readme.md)
@@ -47,5 +47,5 @@
 <!-- - [**Infill showing on exterior of print**]() -->
 <!-- - [**Weak infill**]() -->
 
---------
+-----
 ## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .

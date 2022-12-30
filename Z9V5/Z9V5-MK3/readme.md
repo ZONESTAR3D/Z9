@@ -6,7 +6,9 @@
 [![](../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK3?_x_tr_sl=en&_x_tr_tl=it)
 [![](../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK3?_x_tr_sl=en&_x_tr_tl=pl)
 [![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK3?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK3?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK3?_x_tr_sl=en&_x_tr_tl=el)
+
 [![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK3?_x_tr_sl=en&_x_tr_tl=ja)
 [![](../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK3?_x_tr_sl=en&_x_tr_tl=ko)
 [![](../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK3?_x_tr_sl=en&_x_tr_tl=id)
@@ -17,7 +19,7 @@
 [![](../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK3?_x_tr_sl=en&_x_tr_tl=tr)
 [![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK3?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
---------
+-----
 # :warning:NOTICE
 ## Before using the 3d printer, please:  
 1. Carefully to read the pages (from 17~20) in the "installation and quick user guide".  
@@ -29,7 +31,7 @@
 [**Download all documents from Github**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK3)   
 [**Download all documents from cloudisk**](https://drive.google.com/drive/folders/1RVgikxUJRgfEJVoiqJeyVjZAX_1Jkg27)   
 
---------
+-----
 # :file_folder: Documents
 ## [1.Installation and User Guide](./1.%20Installation%20and%20User%20Guide/)
 - Installation and quick user guide  
@@ -52,7 +54,8 @@ Slicing software and user guide. [**View the newest slicing guide**](https://git
 **Some Test gcode files.** [**View detail**](./3.%20Test%20gcode/readme.md)  
 
 ## [4.FAQ](./4.%20FAQ/readme.md)
-**Troubleshooting and FAQ files.** [**View detail**](./4.%20FAQ/readme.md)  
+**Troubleshooting and FAQ files.** [**View detail**](./4.%20FAQ/readme.md)    
+**[Z9V5Pro-FAQ](../Z9V5_FAQ/readme.md)**     
 
 ## [5.Firmware](./5.%20Firmware/readme.md)
 - [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3)  
@@ -95,7 +98,7 @@ Slicing software and user guide. [**View the newest slicing guide**](https://git
 ## [7.Others](./7.%20Others/)
 **Print parts stl files, user Guide for improve features etc.**
 
-------
+-----
 ## Z9V5 upgrade kit / parts
 ### WiFi :+1::+1:
 By upgrading this item, you can remote control your 3d printer by PC or mobile.    
