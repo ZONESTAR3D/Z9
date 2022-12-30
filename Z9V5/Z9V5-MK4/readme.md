@@ -91,7 +91,7 @@ Please download the slicing software and install to your PC, and then read the g
 :star2: **For the newest slicing guide and more slicing software user guide, please click here :point_right: [slicing guide](https://github.com/ZONESTAR3D/Slicing-Guide)**
 
 ### 5. Firmware
-- [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/Z9V5-MK4)  
+- [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4)  
 - [**Firmware source code**](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
 #### :pencil: What is bin file and source code?
 > **Firmware bin file** is the exact memory that is written to the embedded flash.  

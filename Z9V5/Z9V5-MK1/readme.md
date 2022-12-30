@@ -58,7 +58,8 @@
 **Included troubleshooting and FAQ files**
 
 ## 6. Firmware
-- [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5)  
+- [**Firmware bin file for Z9V5**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5)  
+- [**Firmware bin file for Z9V5Pro**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro)  
 - [**Firmware source code**](https://github.com/ZONESTAR3D/source-code-for-3d-printer)  
 > **Firmware bin file** is the exact memory that is written to the embedded flash.  
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
