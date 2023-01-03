@@ -80,7 +80,7 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 Please download the slicing software and install to your PC, and then read the guide or video tutorial to study how to slicing.
 - [:arrow_down: **Download Slicing Software**](https://github.com/ZONESTAR3D/Slicing-Guide)
 - [:movie_camera: **How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)  
-- [**:book: PrusSlicer User Manual**](./4.Slicing/readme.md)  [**:blue_book: pdf file**](./4.Slicing/readme.pdf)  
+- [**:book: PrusaSlicer User Manual**](./4.Slicing/readme.md)  [**:blue_book: pdf file**](./4.Slicing/readme.pdf)  
 - [:movie_camera: **Slicing guide - for one color printing**](https://youtu.be/SgyXD-kQIeo4)  
 - [:movie_camera: **Slicing guide - for multi colors printing**](https://youtu.be/AIKrszmxvE4)    
 :star2: **For the newest slicing guide and more slicing software user guide, please [:point_right: click here](https://github.com/ZONESTAR3D/Slicing-Guide)**
