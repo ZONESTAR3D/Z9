@@ -35,7 +35,7 @@
 ### :book: Contents
 - [**Installation and operation guide**](#1-installation-and-user-guide)  
 - [**Test gcode files**](#2-test-gcode)
-- [**Video tutorial**](#-3video-tutorial)
+- [**Video tutorial**](#3-video-tutorial)
 - [**Slicing software user guide and slicing software download link**](#4-slicing)
 - [**Control board firmware ,source code, firmware uploadling guide and download link**](#5-firmware)
 - [**FAQ, Maintenance manual, etc.**](#6-faq)
