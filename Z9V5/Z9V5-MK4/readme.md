@@ -35,14 +35,15 @@
 ### :book: Contents
 - [**Installation and operation guide**](#1-installation-and-user-guide)  
 - [**Test gcode files**](#2-test-gcode)
-- [**Video tutorial for installation, operation and step-by-Step guide**](#-3video-tutorial)
+- [**Video tutorial**](#-3video-tutorial)
 - [**Slicing software user guide and slicing software download link**](#4-slicing)
 - [**Control board firmware ,source code, firmware uploadling guide and download link**](#5-firmware)
 - [**FAQ, Maintenance manual, etc.**](#6-faq)
 - [**Print parts stl files, introduction to upgradeable functions, etc.**](#7-others)
 
 ### 1. Installation and User Guide
-- :book: [**Installation and user guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf)
+- :book: [**Step-by-Step Guide**](./step_by_step.md)
+- :blue_book: [**Installation and user guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf)
 - :book: [**LCD screen menu description**](./1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md)
 - :movie_camera: [**Installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI)
 - :art: [**Wiring diagram**](./1.Installation_and_User_Guide/Z9V5Pro_Wiring_Diagram.jpg)
