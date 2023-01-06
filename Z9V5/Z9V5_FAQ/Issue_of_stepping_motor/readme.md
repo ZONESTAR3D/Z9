@@ -6,8 +6,9 @@
 - **[:art: Check if the motor wires are connected well on motor side](XYZMotors_wiring.jpg).**
 - **[:art: Open the bottom control box](../How_to_open_the_control_box.jpg) and [:art: check if the motor wires are connected well on control board side](MotorENDSTOP_wiring.jpg).**
 - **Replace the motor wire and check again.**   
-:warning: Please note that because the Z9 is a Corexy structure, if one of the XY motors does not work, the print head can only move in the 45 degree direction.    
-As shown in the following figure, if you find that the print head can only move from left front to right rear (as indicated by the red arrow in the picture) when moving the XY axis through the menu, then the X motor cannot work. If you find that the print head can only move from front right to rear left (as indicated by the blue arrow in the picture) when moving the XY axis through the menu, then the Y motor cannot work.   
+:warning: Please note that because the Z9 is a Corexy structure, if one of the XY motors does not work, the print head can only move in the 45 degree direction. As shown in the following figure:
+- If the print head only move from left-front to right-rear (**as indicated by the red arrow**) when moving the X/Y axis on the LCD menu (**"Prepare>>Move"**), then it reveals that the X motor doesn't work. 
+- f the print head only move from right-front to left-rear (**as indicated by the blue arrow**) when moving the X/Y axis on the LCD menu (**"Prepare>>Move"**), then it reveals that the Y motor doesn't work.   
 ![](./XYMotor_Issue.jpg)
  
 ### Z axis motors don't work
