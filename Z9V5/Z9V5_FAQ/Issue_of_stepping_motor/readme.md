@@ -3,12 +3,12 @@
 
 -----
 ### List of reference pictures (click the text below to view)
-- <a id="fig1"> **[:art: How to open the upper control box](../Upper_box_mounted_screws.jpg)**</a>
-- <a id="fig2"> **[:art: How to open the bottom control box](../How_to_open_the_control_box.jpg)**</a>
-- <a id="fig3"> **[:art: Z9V5Pro Wiring Diagram](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK2/1.%20Installation%20and%20User%20Guide/Z9V5Pro%20Wiring%20Diagram.jpg)** </a>
-- <a id="fig4"> **[:art: Wiring of the motors on the control board side](./MotorENDSTOP_wiring.jpg)** </a>
-- <a id="fig5"> **[:art: Wiring of the XYZ motors on the Motor Side](./XYZMotors_wiring.jpg)** </a>
-- <a id="fig6"> **[:art: Wiring of the Extruders motors on the Motor Side](./ExtruderMotors_wiring.jpg)** </a>
+- **[:art: How to open the upper control box](../Upper_box_mounted_screws.jpg)**
+- **[:art: How to open the bottom control box](../How_to_open_the_control_box.jpg)**
+- **[:art: Z9V5Pro Wiring Diagram](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK2/1.%20Installation%20and%20User%20Guide/Z9V5Pro%20Wiring%20Diagram.jpg)** </a>
+- **[:art: Wiring of the motors on the control board side](./MotorENDSTOP_wiring.jpg)**
+- **[:art: Wiring of the XYZ motors on the Motor Side](./XYZMotors_wiring.jpg)**
+- **[:art: Wiring of the Extruders motors on the Motor Side](./ExtruderMotors_wiring.jpg)**
 
 -----
 ### X & Y axis motors don't work
@@ -30,5 +30,12 @@ As shown in the following figure, if you find that the print head can only move 
 - **[:art: Open the upper control box](#fig1) and [:art: check the motor wires are connected well on the motors side](#fig6).**
 - **Replace the motor wire and check again.**   
 
+-----
+### Pictures
+<a id="fig1"> ![](../Upper_box_mounted_screws.jpg)</a>
+<a id="fig2"> ![](../How_to_open_the_control_box.jpg)</a>
+<a id="fig3"> ![](./MotorENDSTOP_wiring.jpg)</a>
+<a id="fig4"> ![](./XYZMotors_wiring.jpg)</a>
+<a id="fig5"> ![](./ExtruderMotors_wiring.jpg)</a>
 -----
 ## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .
