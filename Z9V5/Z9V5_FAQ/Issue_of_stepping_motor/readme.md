@@ -2,15 +2,6 @@
 #### :warning: Power off the printer first before connecting or disconnecting the motor cables and open the control box.
 
 -----
-### List of reference pictures (click the text below to view)
-- **[:art: How to open the upper control box](../Upper_box_mounted_screws.jpg)**
-- **[:art: How to open the bottom control box](../How_to_open_the_control_box.jpg)**
-- **[:art: Z9V5Pro Wiring Diagram](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK2/1.%20Installation%20and%20User%20Guide/Z9V5Pro%20Wiring%20Diagram.jpg)** </a>
-- **[:art: Wiring of the motors on the control board side](./MotorENDSTOP_wiring.jpg)**
-- **[:art: Wiring of the XYZ motors on the Motor Side](./XYZMotors_wiring.jpg)**
-- **[:art: Wiring of the Extruders motors on the Motor Side](./ExtruderMotors_wiring.jpg)**
-
------
 ### X & Y axis motors don't work
 - **[:art: Check if the motor wires are connected well on motor side](#fig5).**
 - **[:art: Open the bottom control box](#fig2) and [:art: check if the motor wires are connected well on control board side](#fig4).**
