@@ -1,28 +1,34 @@
-## Stepping motor don't work
-:warning: Power off the printer first before connecting or disconnecting the motor cables.
+## Stepping motors don't work
+#### :warning: Power off the printer first before connecting or disconnecting the motor cables and open the control box.
 
-### Wiring of the motors and ENDSTOPs on the control board side
-![](./MotorENDSTOP_wiring.jpg)
+-----
+### List of reference pictures (click the text below to view)
+- <a id="fig1"> **[:art: How to open the upper control box](../Upper_box_mounted_screws.jpg)**</a>
+- <a id="fig2"> **[:art: How to open the bottom control box](../How_to_open_the_control_box.jpg)**</a>
+- <a id="fig3"> **[:art: Z9V5Pro Wiring Diagram](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK2/1.%20Installation%20and%20User%20Guide/Z9V5Pro%20Wiring%20Diagram.jpg)** </a>
+- <a id="fig4"> **[:art: Wiring of the motors on the control board side](./MotorENDSTOP_wiring.jpg)** </a>
+- <a id="fig5"> **[:art: Wiring of the XYZ motors on the Motor Side](./XYZMotors_wiring.jpg)** </a>
+- <a id="fig6"> **[:art: Wiring of the Extruders motors on the Motor Side](./ExtruderMotors_wiring.jpg)** </a>
 
-### X&Y motors 
-- Check the motor wire on motor side.  
-![](./x_motor_wring.jpg)  ![](./y_motor_wring.jpg)  
-- Check the motor wire on control board side.  Please refer to the picture of [:point_up: Wiring on control board side](#wiring-of-the-motors-and-endstops-on-the-control-board-side)
-- Check the motor wires.   
-:star2: Tips: First loosen the belt on the top, then try to exchange the wiring of X and Y motors, and then move X on the LCD menu to check whether the problem is from the motor side or the control board side.   
-:warning: Please note that because the Z9 is a Corexy structure, the X and Y motors will rotate at the same time when the print head moves along the X axis or Y axis.
+-----
+### X & Y axis motors don't work
+- **[:art: Check if the motor wires are connected well on motor side](#fig5).**
+- **[:art: Open the bottom control box](#fig2) and [:art: check if the motor wires are connected well on control board side](#fig4).**
+- **Replace the motor wire and check again.**   
+:warning: Please note that because the Z9 is a Corexy structure, if one of the XY motors does not work, the print head can only move in the 45 degree direction.    
+As shown in the following figure, if you find that the print head can only move from left front to right rear (as indicated by the red arrow in the picture) when moving the XY axis through the menu, then the X motor cannot work. If you find that the print head can only move from front right to rear left (as indicated by the blue arrow in the picture) when moving the XY axis through the menu, then the Y motor cannot work.   
+![](./XYMotor_Issue.jpg)
+ 
+### Z axis motors don't work
+- **[:art: Check if the motor wiring are connected well on motor side](#fig5).**
+- **[:art: Open the bottom control box](#fig2) and [:art: check if the motor wiring are connected well on control board side](#fig2).**
+- **Replace the motor wire and check again.**   
+:star2: Tips: Try to exchange the wiring of Z-L and Z-R motors, and then move Z axis on the LCD menu (**"Prepare>>Move"**) to check the problem is from the motor side or the control board side.
 
-### ZL or ZR motors
-- Check the motor wiring well on motor side.
-![](./zl_motor_wring.jpg)  ![](./zr_motor_wring.jpg)    
-- Check the motor wiring well on control board side. Please refer to the picture of [:point_up: Wiring on control board side](#wiring-of-the-motors-and-endstops-on-the-control-board-side)
-- Check the motor wires.   
-:star2: Tips: Try to exchange the wiring of Z-L and Z-R motors, and then move Z on the LCD menu to check whether the problem is from the motor side or the control board side.
+### Extruder motors don't work
+- **[:art: Open the bottom control box](#fig2) and [:art: check if the motor wires are connected well on control board side](#fig4).**
+- **[:art: Open the upper control box](#fig1) and [:art: check the motor wires are connected well on the motors side](#fig6).**
+- **Replace the motor wire and check again.**   
 
-### Extruder motors
-- Check the motor wires connection on control board side. Please refer to the picture of [:point_up: Wiring on control board side](#wiring-of-the-motors-and-endstops-on-the-control-board-side)
-- Open the upper control box [:point_right:How to open the upper control box](../Upper_box_mounted_screws.jpg) and check the motor wires connection on the motors side.
-![](./zl_motor_wring.jpg)  ![](./zr_motor_wring.jpg)   
-
---------
+-----
 ## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .
