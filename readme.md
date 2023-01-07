@@ -29,8 +29,7 @@ The main features of Z9 include:
 5. **Elastic replaceable hotend** design is adopted. Fast heat exchange end (extruder) can be selected according to different printing material requirements.   More details, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)
 
 ----
-## :file_folder:[Z9V5](./Z9V5.jpg)
-#### [:book: Documents](./Z9V5/readme.md)
+## :file_folder:[Z9V5](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5)
 **Z9V5** is the latest version of Z9 series. Compared with **Z9M4**, the main upgrades include:  
 1. Higher pre assembly ratio and faster installation.  
 2. The appearance is more beautiful.  
