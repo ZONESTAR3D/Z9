@@ -35,16 +35,18 @@ First at all, please download the documents and save to your PC from [:arrow_dow
 - 1.5 **Bed Level - leveling 4 corners of the bed**. Before printing the test file, you need to do a simple bed leveling to set the height between the nozzle and the bed (printing platform), so that the filament can be sticked on the bed well. Please refer to [:movie_camera: **Bed leveling video tutorial**](https://youtu.be/nxzB7ho1kNo) to do it.
 
 ### Step 2. Print test 3d model
-FDM 3D printers can only recognize gcode files, we need to copy the gcode files to the SD card, insert the SD card into the SD card slot of the 3D printer, and then start to print.
-- 2.1 **Prepare gcode file - one color**. Locate the **xyz_cube.gcode** file from your downloaded files or [:arrow_down: download it](./2.Test_gcode/xyz_cube.zip) directly and  unzip it on PC, and then copy the **xyz_cube.gcode** to SD card. Plug the SD card to the SD socket of machine.
-- 2.2 **Load filament - one color**. Refer to this [:movie_camera: video tutorial](https://youtu.be/6aTF5QnFhi4) to load filament to the extruder and hotend.
-- 2.3 **Print from SD card - one color**. Move item to **Print** item on LCD screen and click the knob and choose **xyz_cube.gcode** file, click knob to start print.
-- 2.4 **Fine tune nozzle height**. Wait the nozzle and hotbed heating, and when starting to print the first layer, double to click the knob of LCD screen to fine turn the distance from the nozzle to the bed, and then wait it to finish.
-- 2.5 **Prepare gcode file**. Locate the **Z9E4_4CTest.gcode** file from your downloaded files or [:arrow_down: download it](./2.Test_gcode/E4_4C/Z9E4_4C_Test.zip) directly and  unzip it on PC, and then copy the **Z9E4_4CTest.gcode** to SD card. Plug the SD card to the SD socket of machine.
-- 2.6 **Load filaments - 4 colors**. Refer to this [:movie_camera: video tutorial](https://youtu.be/FyHrAMytlT8) to load 4 color filaments to the extruders and hotend.
-- 2.7 **Print from SD card - 4 colors**. Move item to **Print** item on LCD screen and click the knob and choose **Z9E4_4CTest.gcode** file, click knob to start print.
+FDM 3D printers can only recognize gcode files, we need to copy the gcode files to the SD card, insert the SD card into the SD card socket of the 3D printer, and then start to print.
+#### Print a one color 3d prints
+- 2.1 **Prepare gcode file**. Locate the **xyz_cube.gcode** file from your downloaded files or [:arrow_down: download it](./2.Test_gcode/xyz_cube.zip) directly and unzip it on PC, and then copy the **xyz_cube.gcode** to SD card. Plug the SD card to the SD socket of machine.
+- 2.2 **Load filament**. Refer to this [:movie_camera: video tutorial](https://youtu.be/6aTF5QnFhi4) to load filament to the extruder and hotend.
+- 2.3 **Print from SD card**. Move item to **Print** item on LCD screen and click the knob and choose **xyz_cube.gcode** file, click knob to start printing.
+- 2.4 **Fine tune nozzle height**. Wait the nozzle and hotbed heating, and when starting to print the first layer, double click the knob of LCD screen to fine tune the distance from the nozzle to the bed, wait until the printing is finished.
+#### Print a 4 color 3d prints
+- 2.5 **Prepare gcode file**. Locate the **Z9E4_4CTest.gcode** file from your downloaded files or [:arrow_down: download it](./2.Test_gcode/E4_4C/Z9E4_4C_Test.zip) directly and unzip it on PC, and then copy the **Z9E4_4CTest.gcode** to SD card. Plug the SD card to the SD socket of machine.
+- 2.6 **Load filaments**. Refer to this [:movie_camera: video tutorial](https://youtu.be/FyHrAMytlT8) to load 4 color filaments to the extruders and hotend.
+- 2.7 **Print from SD card**. Move item to **Print** item on LCD screen and click the knob and choose **Z9E4_4CTest.gcode** file, click knob to start printing.
 - 2.8 **Check Preload**. Wait the nozzle and hotbed heating, and check if the printer can print out 4 colors lines on the side of the hotbed.
-- 2.9 **Fine tune nozzle height**. When the hotend moved to the center of the hotbed, double to click the knob of LCD screen to fine turn the distance from the nozzle to the bed. Wait until the printing is finished.
+- 2.9 **Fine tune nozzle height**. When the hotend moved to the center of the hotbed, double click the knob of LCD screen to fine tune the distance from the nozzle to the bed, wait until the printing is finished.
 
 ### Step 3. Slicing your own 3d model
 Obviously you will have the need to print your own 3D models. The process of converting a 3D model into a gcode file that can be printed on a machine is called slicing. You need to download and install the slicing software, then import the 3D model file (stl, obj, AMF, etc.) and complete the slicing, and finally copy the generated gcode file to the SD card and print it on the machine. Our recommended slicing software is PrusaSlicer. For detailed instructions, please refer to [4. Slicing](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4#download-z9v5-mk4-files).   
@@ -54,8 +56,9 @@ Several of the most famous free 3D model download websites:
 - [youmagine](https://www.youmagine.com/)   
 
 ### Step 4. Printing your own 3d model
-Once you are done slicing, copy the generated gcode file to the SD card, then you can print it in the **step 2**.
+After sliced, copy the generated gcode file to the SD card and then print it following the [**step 2**](#step-2-print-test-3d-model).
 
 ### Step 5. To use advanced features
-After you fully understand all the basic use of the machine, you can try some advanced functions of the machine. For details, please refer to [Advance features](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4#advanced-features).
+After you fully understand all the basic use of the machine, you can try some advanced functions of the machine.   
+For details, please refer to [Advance features](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4#advanced-features).
 
