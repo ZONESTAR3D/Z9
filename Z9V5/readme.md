@@ -68,6 +68,10 @@ Due to the shortage of chips, a small numbers of **Z9V5-MK2** used **ZM3E4V1** c
 - :arrow_down: [**Download all Z9V5-MK1 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK1) 
 
 ----------
+### Troubleshootings
+If you encounter any problems when installing and using the product, please read [**:book: the troubleshooting document**](./Z9V5_FAQ/readme.md) first.
+
+----------
 ### How to downlod file from Github page
 #### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
 #### Step 2: Copy the Github file or direcotry link which you want to download.

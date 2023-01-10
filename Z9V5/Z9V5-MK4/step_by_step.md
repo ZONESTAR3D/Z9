@@ -37,12 +37,12 @@ First at all, please download the documents and save to your PC from [:arrow_dow
 ### Step 2. Print test 3d model
 FDM 3D printers can only recognize gcode files, we need to copy the gcode files to the SD card, insert the SD card into the SD card socket of the 3D printer, and then start to print.
 #### Print a one color 3d prints
-- 2.1 **Prepare gcode file**. Locate the **xyz_cube.gcode** file from your downloaded files or [:arrow_down: download it](./2.Test_gcode/xyz_cube.zip) directly and unzip it on PC, and then copy the **xyz_cube.gcode** to SD card. Plug the SD card to the SD socket of machine.
+- 2.1 **Prepare gcode file**. Locate the **xyz_cube.gcode** file from your downloaded files or [:arrow_down: download xyz_cube ZIP file](./2.Test_gcode/xyz_cube.zip) and unzip it on PC, and then copy the **xyz_cube.gcode** to SD card. Plug the SD card to the SD socket of machine.
 - 2.2 **Load filament**. Refer to this [:movie_camera: video tutorial](https://youtu.be/6aTF5QnFhi4) to load filament to the extruder and hotend.
 - 2.3 **Print from SD card**. Move item to **Print** item on LCD screen and click the knob and choose **xyz_cube.gcode** file, click knob to start printing.
 - 2.4 **Fine tune nozzle height**. Wait the nozzle and hotbed heating, and when starting to print the first layer, double click the knob of LCD screen to fine tune the distance from the nozzle to the bed, wait until the printing is finished.
 #### Print a 4 color 3d prints
-- 2.5 **Prepare gcode file**. Locate the **Z9E4_4CTest.gcode** file from your downloaded files or [:arrow_down: download it](./2.Test_gcode/E4_4C/Z9E4_4C_Test.zip) directly and unzip it on PC, and then copy the **Z9E4_4CTest.gcode** to SD card. Plug the SD card to the SD socket of machine.
+- 2.5 **Prepare gcode file**. Locate the **Z9E4_4CTest.gcode** file from your downloaded files or [:arrow_down: download Z9E4_4C_Test Zip File](./2.Test_gcode/E4_4C/Z9E4_4C_Test.zip) and unzip it on PC, and then copy the **Z9E4_4CTest.gcode** to SD card. Plug the SD card to the SD socket of machine.
 - 2.6 **Load filaments**. Refer to this [:movie_camera: video tutorial](https://youtu.be/FyHrAMytlT8) to load 4 color filaments to the extruders and hotend.
 - 2.7 **Print from SD card**. Move item to **Print** item on LCD screen and click the knob and choose **Z9E4_4CTest.gcode** file, click knob to start printing.
 - 2.8 **Check Preload**. Wait the nozzle and hotbed heating, and check if the printer can print out 4 colors lines on the side of the hotbed.
