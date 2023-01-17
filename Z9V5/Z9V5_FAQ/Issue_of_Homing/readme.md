@@ -1,4 +1,12 @@
-## Homing Issues
+# Homing Issues
+
+-----
+### About electronics parts auto testing
+The Z9V5Pro machine has builted-in an electronics automatic testing program. You can use this program to determine where the problem comes from when any electronic component encounters a problem.    
+To start this program, you need to open the "Info" menu and turn the knob to point the current menu to the "Date: xx-xx-xx" item, and then press the knob five times. For details, please refer to the [:movie_camera:**electronics parts auto testing video tutorial**](https://youtu.be/Mf92BlmKA0A).
+
+-----
+## Check up steps for Homing issue 
 ### Step 1
 If the issue is because the hot end (print head) don't stop movement when homing X or homing all, the reason may be because the print head (the hot end metal case) can't touch the X ENDSTOP while homing X, refer to the picture below to slightly correct the tongue of the X limit switch and try again. If this is not the issue, or the problem has not been solved, please [:point_right: go to step 2](#step-2)    
 ![](correct_x_switch.jpg)
