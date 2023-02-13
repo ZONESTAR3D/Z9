@@ -27,8 +27,13 @@
 
 -----
 ### Pictures
+#### How to open the upper box
 ![](../Upper_box_mounted_screws.jpg)
+#### How to open the control(bottom) box 
 ![](../How_to_open_the_control_box.jpg)
+#### Wiring description of Motors and ENDSTOPs on the control board side
 ![](MotorENDSTOP_wiring.jpg)
+#### X/Y/Z Motors and ENDSTOPs wiring description
 ![](XYZMotors_wiring.jpg)
+#### Extruder Motors wiring description
 ![](ExtruderMotors_wiring.jpg)
