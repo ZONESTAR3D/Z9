@@ -27,10 +27,6 @@
 3. Carefully to read "Operature guide for Mixing Color printer.pdf"  
 ***ATTETION: Incorrect filament loading may cause to clog the hotend, if the hotend is clogged, please refer to the document "FAQ\How to clean the cloged mixing color hotend.pdf" to fix***  
 
-## Download Z9V5-MK2 files
-[**Download all documents in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK2)  
-**If it doesn't work, please refer to** [**here**](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)   
-
 --------
 # Documents
 ## [1.Installation and User Guide](./1.%20Installation%20and%20User%20Guide/)
@@ -134,9 +130,7 @@ We will launch more hot ends in the future, so stay tuned. If you have any sugge
 - [**ZLSensor**](https://www.aliexpress.com/item/1005002865311470.html)  
 - [**3DTouch**](https://www.aliexpress.com/item/1005001464420529.html)  
 
-
-## How to downlod files from Github page
-#### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
-#### Step 2: Copy the Github file or direcotry link which you want to download.
-#### Step 3: Click download button and wait a few seconds, it will start to download automatically. 
-![](https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/download.gif)   
+-----
+## Download Z9V5-MK2 files
+[**Download all documents in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK2)  
+**If it doesn't work, please refer to** [**here**](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)   

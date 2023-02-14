@@ -27,10 +27,6 @@
 3. Carefully to read "Operature guide for Mixing Color printer.pdf"  
 ***ATTETION: Incorrect filament loading may cause to clog the hotend, if the hotend is clogged, please refer to the document "FAQ\How to clean the cloged mixing color hotend.pdf" to fix***  
 
-## Download Z9V5-MK3 files
-[**Download all documents from Github**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK3)   
-[**Download all documents from cloudisk**](https://drive.google.com/drive/folders/1RVgikxUJRgfEJVoiqJeyVjZAX_1Jkg27)   
-
 -----
 # :file_folder: Documents
 ## [1.Installation and User Guide](./1.%20Installation%20and%20User%20Guide/)
@@ -150,5 +146,7 @@ Each type of hot end has its advantages and disadvantages, you can choose differ
 - [:package: **3-IN-2-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
 - [:package: **3-IN-3-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
 
-
-
+-----
+## Download Z9V5-MK3 files
+[**Download all documents from Github**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK3)   
+[**Download all documents from cloudisk**](https://drive.google.com/drive/folders/1RVgikxUJRgfEJVoiqJeyVjZAX_1Jkg27)   
