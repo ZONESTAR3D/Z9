@@ -20,6 +20,11 @@
 [![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 -----
+### Electronics parts auto testing
+The Z9V5Pro machine has builted-in an electronics automatic testing program. You can use this program to determine where the problem comes from when any electronic component encounters a problem.    
+To start this program, you need to open the "Info" menu and turn the knob to point the current menu to the "Date: xx-xx-xx" item, and then press the knob five times. For details, please refer to the [:movie_camera:**electronics parts auto testing video tutorial**](https://youtu.be/Mf92BlmKA0A).
+
+-----
 ## FAQ for Z9V5
 - [**The machine can't start up**](./Issue_of_startup/readme.md)
 - [**Homing issue**](./Issue_of_Homing/readme.md)
