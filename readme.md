@@ -12,7 +12,6 @@
 [![](./lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=ro)
 [![](./lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=sk)
 
-
 [![](./lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=zh-CN)
 [![](./lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=ja)
 [![](./lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9?_x_tr_sl=en&_x_tr_tl=ko)

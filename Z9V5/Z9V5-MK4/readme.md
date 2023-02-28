@@ -1,14 +1,18 @@
 ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=es)
-[![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=fr)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=fr)
 [![](../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=de)
 [![](../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=it)
+[![](../../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=sv)
 [![](../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=el)
+[![](../../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=da)
+[![](../../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=cs)
+[![](../../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=hr)
+[![](../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ro)
+[![](../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=sk)
 
+[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=zh-CN)
 [![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ja)
 [![](../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ko)
 [![](../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=id)
@@ -17,18 +21,20 @@
 [![](../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=iw)
 [![](../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ar)
 [![](../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=el)
+[![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ru)
 
 ------
-## :warning:NOTICE:warning:
-### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md), and following the steps to do step by step.    
-### :loudspeaker: If you are experienced on 3d printer, please also briefly read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md) at least, and ensure that you have known the E4 operating principle of hot end, Precautions and methods for loading filaments to the hotend.
+
+## <font color = red>:warning:NOTICE:warning:</font>
+#### :loudspeaker:If you are a beginner of 3d printer, please carefully read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md), and following the steps to do step by step.  
+#### :loudspeaker: If you are experienced on 3d printer, please also briefly read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md) at least, and ensure that you have known the E4 working principle of hot end and how to load filaments to the hotend correctlly.
+
 
 ------
 ## Download Z9V5-MK4 files
 - :arrow_down: [**Download all documents from github**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK4)  
-<!-- - :arrow_down: [**Download document from cloud disk - google driver**](https://drive.google.com/drive/folders/1WHe4OkeOWdzoYPS0skEaJ-6lydVaQIRK)    -->
-<!-- - :arrow_down: [**Download document from cloud disk - Jianguoyun**](https://www.jianguoyun.com/p/DUr952YQyoP1BxiRhcgEIAA)    -->
 
 ------
 ## Documents
@@ -38,7 +44,7 @@
 - [**Video tutorial of installation and user guide**](#3-video-tutorial)
 - [**Slicing software user guide and slicing software download link**](#4-slicing)
 - [**Control board firmware ,source code, firmware uploadling guide and download link**](#5-firmware)
-- [**FAQ, Maintenance manual, etc.**](#6-faq)
+- [**FAQ and troubleshootings, etc.**](#6-faq)
 - [**Print parts stl files, introduction to upgradeable functions, etc.**](#7-others)
 - [**Advanced features**](#advanced-features)
 - [**Optional upgrade features**](#optional-upgrade-features)
@@ -77,6 +83,12 @@ G-code is information, or instructions that 3d printer requires in order to prin
 ### 4. Slicing
 #### :pencil: What is slicing In 3D Printing?
 Slicing is a piece of software that everyone uses when creating objects and products on a 3D printer. The software gives the printer a path to follow. The slicing software takes your image and converts it into G codes that your 3D printer can understand. These G codes are a type of instruction on how the printer needs to print your design.:page_with_curl: [**Reference 1**](https://loveandrobots.com/what-is-slicing-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://en.wikipedia.org/wiki/Slicer_(3D_printing))     
+#####  <font color = red> :warning: ATTENTION PLEASE</font>
+1. We recommend to use PrusaSlicer to slicing multi color 3d models.
+2. For the E4 hot end, the setting of the retraction length should not exceed 10mm when slicing, otherwise it is easy to block the hot end.
+3. For the E4 hot end, which means that only one filament can be loaded into the nozzle at a time. Therefore, when switching from one color to another, the first filament must be unloaded from the nozzle and then load another filament. The slicing software can be implemented by adding the extruder gcode code. For details, please refer to the ***PrusaSlicer User Manual*** below.
+
+
 Please download the slicing software and install to your PC, and then read the guide or video tutorial to study how to slicing.
 - [:arrow_down: **Download Slicing Software**](https://github.com/ZONESTAR3D/Slicing-Guide)
 - [:movie_camera: **How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)  
@@ -84,6 +96,7 @@ Please download the slicing software and install to your PC, and then read the g
 - [:movie_camera: **Slicing guide - for one color printing**](https://youtu.be/SgyXD-kQIeo4)  
 - [:movie_camera: **Slicing guide - for multi colors printing**](https://youtu.be/AIKrszmxvE4)    
 :star2: **For the newest slicing guide and more slicing software user guide, please [:point_right: click here](https://github.com/ZONESTAR3D/Slicing-Guide)**
+#### ::
 
 ### 5. Firmware
 - [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4)  
