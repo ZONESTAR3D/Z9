@@ -88,7 +88,7 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 2. For the E4 hot end, the setting of the retraction length should not exceed 10mm when slicing, otherwise it is easy to block the hot end.
 3. For the E4 hot end, which means that only one filament can be loaded into the nozzle at a time. Therefore, when switching from one color to another, the first filament must be unloaded from the nozzle and then load another filament. The slicing software can be implemented by adding the extruder gcode code. For details, please refer to the ***PrusaSlicer User Manual*** below.
 
-
+#### Slicing sotware download link and use guide
 Please download the slicing software and install to your PC, and then read the guide or video tutorial to study how to slicing.
 - [:arrow_down: **Download Slicing Software**](https://github.com/ZONESTAR3D/Slicing-Guide)
 - [:movie_camera: **How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)  
@@ -96,7 +96,7 @@ Please download the slicing software and install to your PC, and then read the g
 - [:movie_camera: **Slicing guide - for one color printing**](https://youtu.be/SgyXD-kQIeo4)  
 - [:movie_camera: **Slicing guide - for multi colors printing**](https://youtu.be/AIKrszmxvE4)    
 :star2: **For the newest slicing guide and more slicing software user guide, please [:point_right: click here](https://github.com/ZONESTAR3D/Slicing-Guide)**
-#### ::
+
 
 ### 5. Firmware
 - [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4)  
