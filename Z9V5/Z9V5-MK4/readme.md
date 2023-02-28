@@ -27,7 +27,7 @@
 
 ------
 
-## <font color = red>:warning:NOTICE:warning:</font>
+## :warning:NOTICE:warning:
 #### :loudspeaker:If you are a beginner of 3d printer, please carefully read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md), and following the steps to do step by step.  
 #### :loudspeaker: If you are experienced on 3d printer, please also briefly read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md) at least, and ensure that you have known the E4 working principle of hot end and how to load filaments to the hotend correctlly.
 
@@ -83,7 +83,7 @@ G-code is information, or instructions that 3d printer requires in order to prin
 ### 4. Slicing
 #### :pencil: What is slicing In 3D Printing?
 Slicing is a piece of software that everyone uses when creating objects and products on a 3D printer. The software gives the printer a path to follow. The slicing software takes your image and converts it into G codes that your 3D printer can understand. These G codes are a type of instruction on how the printer needs to print your design.:page_with_curl: [**Reference 1**](https://loveandrobots.com/what-is-slicing-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://en.wikipedia.org/wiki/Slicer_(3D_printing))     
-#####  <font color = red> :warning: ATTENTION PLEASE</font>
+#####  :warning: ATTENTION PLEASE
 1. We recommend to use PrusaSlicer to slicing multi color 3d models.
 2. For the E4 hot end, the setting of the retraction length should not exceed 10mm when slicing, otherwise it is easy to block the hot end.
 3. For the E4 hot end, which means that only one filament can be loaded into the nozzle at a time. Therefore, when switching from one color to another, the first filament must be unloaded from the nozzle and then load another filament. The slicing software can be implemented by adding the extruder gcode code. For details, please refer to the ***PrusaSlicer User Manual*** below.
