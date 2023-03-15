@@ -26,9 +26,29 @@
 [![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ?_x_tr_sl=en&_x_tr_tl=ru)
 
 -----
-### Electronics parts auto testing
+### Reference
+In order to find and solve the problem of the product, you may need to use the automatic test function, open the control box to check the wiring or tune the mortor drive current, use a "swap test" to check an electronic component, etc.. Here we list these guides, pictures and video tutorial for you reference.
+#### How to open the control box
+There are two control boxes on the control backplane of the Z9V5 machine.    
+The upper box has the extruder motors and the LED backlight of LOGO inside, and the wires of the shortage detector and the hot end also passes through this box.    
+The lower box has control board and AC power socket, and the connectors of X/Y/Z motors, ENDSTOPs and LCD screen is also inside the box.  
+- [:art: How to open the upper box](./Upper_box_mounted_screws.jpg) 
+- [:movie_camera: How to open the upper box](./Open_the_Upper_Box.mp4) 
+- [:art: How to open the control box](./How_to_open_the_control_box.jpg)
+- [:movie_camera: How to open the control box](./Open_the_Control_Box_of_Z9V5.mp4) 
+
+#### Electronics parts auto testing
 The Z9V5Pro machine has builted-in an electronics automatic testing program. You can use this program to determine where the problem comes from when any electronic component encounters a problem.    
-To start this program, you need to open the "Info" menu and turn the knob to point the current menu to the "Date: xx-xx-xx" item, and then press the knob five times. For details, please refer to the [:movie_camera:**electronics parts auto testing video tutorial**](https://youtu.be/Mf92BlmKA0A).
+To start this program, you need to open the "**Info**" menu and rotate the knob to point to the "**Date: xx-xx-xx**" item, and then press the knob five times. For details, please refer to the [:movie_camera:**electronics parts auto testing video tutorial**](https://youtu.be/Mf92BlmKA0A).
+
+#### About "swap test"
+When we find that there is a functional problem in the machine, and the cause of the problem has multiple possibilities (multiple parts may cause to the same problem), we have the opportunity to use the so-called "**swap test**" to locate the cause of the problem as soon as possible.    
+For example, if the left Z-axis motor does not work, the problem may come from the wiring, stepper motor, motor cable, the motor drive module on the control board or the control board. Because there are two sets of Z-axis drive systems in the machine - left Z drive systems nd right Z drive system - which are identical, we can exchange the same parts/components/wire on the left and right sides one by one to confirm where the  problem comes from.    
+The parts in the machine that can carry out the exchange test include:
+- X/Y motor and limit switch.
+- ZL/ZR motor and limit switch
+- 4 sets of extruder motors
+- Heating tube and temperature sensor of hot bed and hot end.
 
 -----
 ## FAQ for Z9V5

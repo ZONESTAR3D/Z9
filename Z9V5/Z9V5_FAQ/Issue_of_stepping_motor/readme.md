@@ -6,16 +6,17 @@
 - **[:art: Check if the motor wires are connected well on motor side](XYZMotors_wiring.jpg).**
 - **[:art: Open the bottom control box](../How_to_open_the_control_box.jpg) and [:art: check if the motor wires are connected well on control board side](MotorENDSTOP_wiring.jpg).**
 - **Replace the motor wire and check again.**   
-:warning: Please note that because the Z9 is a Corexy structure, if one of the XY motors does not work, the print head can only move in the 45 degree direction. As shown in the following figure:
-- If the print head only move from left-front to right-rear (**as indicated by the red arrow**) when moving the X/Y axis on the LCD menu (**"Prepare>>Move"**), then it reveals that the X motor doesn't work. 
-- f the print head only move from right-front to left-rear (**as indicated by the blue arrow**) when moving the X/Y axis on the LCD menu (**"Prepare>>Move"**), then it reveals that the Y motor doesn't work.   
+:warning: Please note that because the Z9 is a **Corexy structure** (about more Corexy structure, please refer to [**here**](http://corexy.com/)), if one of the X and Y motors does not work, the print head can only move in the 45 degree direction. As shown in the following figure:
+- If the print head only move from left-front to right-rear (**as indicated by the red arrow**) when moving the X/Y axis on the LCD menu (**"Prepare>>Move X (Move Y)"**), then it reveals that the X motor doesn't work. 
+- If the print head only move from right-front to left-rear (**as indicated by the blue arrow**) when moving the X/Y axis on the LCD menu (**"Prepare>>Move X  (Move Y)"**), then it reveals that the Y motor doesn't work.   
 ![](./XYMotor_Issue.jpg)
  
 ### Z axis motors don't work
-- **[:art: Check if the motor wiring are connected well on motor side](XYZMotors_wiring.jpg).**
-- **[:art: Open the bottom control box](../How_to_open_the_control_box.jpg) and [:art: check if the motor wiring are connected well on control board side](MotorENDSTOP_wiring.jpg).**
+- **[:art: Check whether the screws fixing the coupling to the motor shaft are tight](couplingscrews.png).**
+- **[:art: Check whether the motor wire and motor are well connected](XYZMotors_wiring.jpg).**
+- **[:art: Open the bottom control box](../How_to_open_the_control_box.jpg) and [:art: Check whether the motor wire and the control board are well connected](MotorENDSTOP_wiring.jpg).**
 - **Replace the motor wire and check again.**   
-:star2: Tips: Try to exchange the wiring of Z-L and Z-R motors, and then move Z axis on the LCD menu (**"Prepare>>Move"**) to check the problem is from the motor side or the control board side.
+:star2: Tips: Try to exchange the wiring of Z-L and Z-R motors, and then move Z axis on the LCD menu (**"Prepare>>Move Z"**) to check the problem is coming from the motor or the control board.
 
 ### Extruder motors don't work
 - **[:art: Open the bottom control box](../How_to_open_the_control_box.jpg) and [:art: check if the motor wires are connected well on control board side](MotorENDSTOP_wiring.jpg).**
