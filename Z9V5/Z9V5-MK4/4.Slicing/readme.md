@@ -94,7 +94,7 @@ You may need to set these parameters according to the shape of the model and you
 ![](pic/slicing-2.png) ![](pic/slicing-2-1.png)
 ##### :memo: Usually, "split model" is inneed to print multi-color, that is, a 3d model has been split into multiple STL files according to colors, and these files use the same origin coordinate position so that they can be merged correctly.
 ##### :star2: PrusaSlicer has a very powerful new feature. It can painting any 3d model into multi colors. For details, please refer to
-:movie_camera: [**Slicing guide - Convert one color 3d file to multi colors**](https://youtu.be/2LJu4G0T4Zg) 
+:movie_camera: [**Slicing guide - Convert one color 3d file to multi colors**](https://youtu.be/Yx4fKDRGEJ4) 
 #### 5.3 Choose print filament type - PLA and set filament color
 ![](pic/slicing-3.png)
 #### 5.4 Assign extruders to different parts
@@ -115,7 +115,7 @@ In order to obtain better cleaning effect and minimize to waste filament, we can
 ![](pic/slicing-8.png)  
 #### 5.9 Preview the sliced result (gcode file) and then save to gcode file to your PC and then copy to SD card
 ![](pic/slicing-9.png)   
-:star:When previewing the gcode file, you can see that some additional print lines will appear on the side of bed, which are for preloading filament. For detail how to pre-load filament, please refer to "E4 Hotend user guide".
+:star:When previewing the gcode file, you can see that some additional print lines will appear on the side of bed, which are for preloading filament. For detail how to pre-load filament, please refer to [:book:**E4 Hotend user guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend#4-in-1-out-non-mix-color-hotend-user-guide).
 ![](pic/slicingE4-3.png)  
 
 ------
@@ -131,6 +131,7 @@ Default Z9V5-MK4 used a E4 (4-IN-1-OUT Non Color Mixing Hotend) hotend, if you h
 ## 7. Gradient and random mixed color printing
 ### :warning: This feature is for M4 hotend only
 The slicing process of realizing gradient mixed color printing is exactly the same as that of monochrome, but you need to enable the gradient printing function in the LCD menu. For details, please refer to the user manual from the M4 hot end sell page.
+
 
 
 

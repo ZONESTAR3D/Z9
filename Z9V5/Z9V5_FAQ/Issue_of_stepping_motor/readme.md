@@ -9,7 +9,11 @@
 :warning: Please note that because the Z9 is a **Corexy structure** (about more Corexy structure, please refer to [**here**](http://corexy.com/)), if one of the X and Y motors does not work, the print head can only move in the 45 degree direction. As shown in the following figure:
 - If the print head only move from left-front to right-rear (**as indicated by the red arrow**) when moving the X/Y axis on the LCD menu (**"Prepare>>Move X (Move Y)"**), then it reveals that the X motor doesn't work. 
 - If the print head only move from right-front to left-rear (**as indicated by the blue arrow**) when moving the X/Y axis on the LCD menu (**"Prepare>>Move X  (Move Y)"**), then it reveals that the Y motor doesn't work.   
-![](./XYMotor_Issue.jpg)
+
+|   Layout of X/Y drive belts | Movement when X or Y Motor has issue  |
+|:---------------------------:|:-------------------------------------:|
+| ![](./belt.png)             |  ![](./XYMotor_Issue.jpg)             |
+
  
 ### Z axis motors don't work
 - **[:art: Check whether the screws fixing the coupling to the motor shaft are tight](couplingscrews.png).**
