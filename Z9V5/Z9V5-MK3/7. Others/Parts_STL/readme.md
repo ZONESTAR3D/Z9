@@ -3,7 +3,7 @@
 ### M4 hotend fan duck
 Upgrading the hotend fan duck to improve the effeciency of cooling.     
 [:arrow_down: **Download Stl file**](./fan_duct_m4_v3.zip)     
-![](./fan_duct_m4_v3.jpg)
+![](./fan_duct.jpg)
 
 ### Filament Spool Bracket
 Support more types of filament spool.     
