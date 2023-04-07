@@ -25,7 +25,7 @@
 -----
 # Summary of Updates for ZONESTAR Z9V5
 ## Updates in 2023-04-06
--  **:boom: Launched large printing size upgrade kit** :point_right:[View](#💥-large-printing-size-upgrade-kit-up-to-500x500x400mm)
+-  **:boom: Launched large printing size upgrade kit** :point_right:[View](#🆕-large-printing-size-upgrade-kit-up-to-500x500x400mm)
 -  **Release firmware V1.3.0 for Z9V5Pro-MK4** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/beta#release-note)
 -  **Release firmware V3.3.0 for Z9V5Pro-MK3** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta#release-note)
 -  **Release firmware V3.3.0 for Z9V5Pro-MK1(2)** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta#release-note)
@@ -95,7 +95,7 @@
 
 -----
 # Upgrade Parts and Features
-## :boom: Large printing size upgrade kit (up to 500x500x400mm)
+## :new: Large printing size upgrade kit (up to 500x500x400mm)
 New arrival Z9V5Pro 500x500 large printing size upgrade kit. 
 - **:gift: [Buy at our online store](http://bit.ly/3ZMDJI0)**
 
