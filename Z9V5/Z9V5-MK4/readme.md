@@ -164,7 +164,7 @@ If your power supply network has frequent power outages, you can enable the auto
 - **:gift: [Buy at our online store](http://bit.ly/3GbI9Sr) / [Buy at Aliexpress](https://bit.ly/3VkmXOi)**  
 
 ### :cool: Automatic Repeat Printing Module
-#### By upgrading this item, enable your Z9V5 to realize continuous automatic printing (auto small scale mass produce) 3d prints. 
+#### By upgrading this item, the Z9V5 can realize continuous automatic printing 3d prints. 
 - **:book: [User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing)**   
 - **:gift: [Buy at our online store](http://bit.ly/3Gsi5SS) / [Buy at Aliexpress](http://bit.ly/3Iff8Xg)**  
 
@@ -175,3 +175,7 @@ If your power supply network has frequent power outages, you can enable the auto
 - Support higher temperature filament (Max 260 degreeC)     
 - Print different types of filament
 Please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)    
+
+### :boom: Large printing size upgrade kit
+#### By upgrading this item, the build volume of Z9V5Pro will be extended to 500x500x400mm
+- **:gift: [Buy at our online store](http://bit.ly/3ZMDJI0)**

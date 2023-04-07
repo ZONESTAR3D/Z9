@@ -34,9 +34,10 @@ If the hotend temperature is raise, but it can't be reached to the setting tempe
 
 - 2.2.1 **If hot end will not be heated to more than 150℃:** Check the temperature sensor on the side of hotend, it may be drop out from the heat block. ***In this case, the hot end will not be heated to more than 150℃ usually.*
 ![](sensorhotenddrop.jpg)
-- 2.2.2 **If hot end can be heating to 200℃, but it is unstable**, please refer to the [**section 2.3**].(#23-the-temperature-of-the-hot-end-is-unstable-jumping-up-and-down) 
+- 2.2.2 **If hot end can be heating to 200℃, but it is unstable**, please refer to the [**section 2.3**](#23-the-temperature-of-the-hot-end-is-unstable-sometimes-show-a-run-away-issue). 
 
-#### 2.3 The temperature of the hot end is unstable, jumping up and down
+#### 2.3 The temperature of the hot end is unstable, sometimes show a "run away" issue
+![](./runaway.jpg)
   - **Step 1**: Check the cooling FAN installation, if it is blowed inside to the housing, please change to blowed outside.
 ![](./coolingfan.jpg)
   - **Step 2**: [Upload the newest firmware to the printer](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5) and do once  ***Control>>Restore Defaults"***, and then heating again.
