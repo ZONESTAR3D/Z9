@@ -106,30 +106,6 @@ Please download the slicing software and install to your PC, and then read the g
 - **Filament run out detector case [:arrow_down:](./7.Others/FRODV6.zip)**. The case of the Filament run our sensor equipped with the machine is a print part. If it is damaged, you can print one by yourself.     
 
 -----
-## Advanced features
-### Bed auto leveling
-The platform of a 3D printer cannot be completely flat, when you are printing a large size 3d prints, you need to use the bed auto leveling feature to correct the curvature of the print platform.
-- **[:book: User Guide](./1.Installation_and_User_Guide/Advances_Feature/Bed_Auto_Leveling)**    
-- **[:movie_camera: Video tutorial](https://youtu.be/Zoyl6PybsUk)**   
-### Power auto shutdown after print finished
-Usually 3D printing takes a long time, you can enable this feature to let the machine turn off automatically after the printing is finished to save energy.    
-**[:movie_camera: Video tutorial](https://youtu.be/SJLpmJL-tG4)**     
-### Filament run out detect    
-If there is not enough filaments left in the filament roll to complete the current printing, you can enable the ***"run out detect"*** feature. The machine will pause the printing when detected the filament is run out, then you can load a new filament roll and resume the printing. What you need to do is:    
-1. Pass the filament through the **Filament Run Out Sensor**.
-2. Turn on the **run out** feature on LCD screen.      
-**[:movie_camera: Video tutorial](https://youtu.be/QCJ-6L6ze1w)**   
-#### :warning: Notice
-1. If you're sure that the filament is enough, do not pass the filament through the **Filament Run Out Sensor**.         
-2. The printing pause may cause some obvious defects on the prints.   
-### Power losss recovery
-If your power supply network has frequent power outages, you can enable the automatic power losss recovery function before start printing. When the power goes out and it resumed, you can press the DC switch to turn on the power of the machine, and then the machine will automatically detect the printing breakpoint and provide you with whether you need to continue printing.      
-[:movie_camera: **Video tutorial**](https://youtu.be/f-PpasByiiE)    
-#### :warning: Notice 
-1. Breakpoints data and gcode files will be stored on the SD, must keep the SD card in socket before turn on the machine.       
-2. The printing pause may cause some obvious defects on the prints.    
-
------
 ## Optional upgrade features
 ### :+1: WiFi module
 Upgraded this item, you can remote control the 3d printer through PC or Mobile Phone.    

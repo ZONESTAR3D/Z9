@@ -1,39 +1,43 @@
 ### :globe_with_meridians: Choose Language (Translated by google)
-[![](../../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=es)
-[![](../../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=de)
-[![](../../../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=it)
-[![](../../../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../../../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=el)
+[![](../../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=es)
+[![](../../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=fr)
+[![](../../../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=de)
+[![](../../../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=it)
+[![](../../../../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=sv)
+[![](../../../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=pl)
+[![](../../../../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=da)
+[![](../../../../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=cs)
+[![](../../../../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=hr)
+[![](../../../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=ro)
+[![](../../../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](../../../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../../../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../../../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=id)
-[![](../../../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=th)
-[![](../../../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../../../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../../../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../../../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../../../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../../../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../../../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=ko)
+[![](../../../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=id)
+[![](../../../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=th)
+[![](../../../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=vi)
+[![](../../../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=iw)
+[![](../../../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=ar)
+[![](../../../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=tr)
+[![](../../../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=el)
+[![](../../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 -----
-## ZONESTAR Z9V5Pro advance features
+## Advance features
 ### Contents
-- [**Bed auto leveling Feature**](#1automatic-bed-leveling)
-- [**Power Auto Shutdown Feature**](#2power-auto-shutdown)
-- [**Filament Run Out Detect Feature**](#3filament-run-out-detect)
-- [**Power Loss Recovery Feature**](#4power-loss-recovery)
-- [**WiFi wireless control feature**](#5wifi-wireless-control)
+- [**Bed auto leveling Feature**](#bed-auto-leveling)
+- [**Power Auto Shutdown Feature**](#power-auto-shutdownwn)
+- [**Filament Run Out Detect Feature**](#filament-run-out-detect)
+- [**Power Loss Recovery Feature**](#power-loss-recovery)
 
-### 1.Automatic Bed Leveling
-:book: Most beds appear quite flat and even, but even when the bed is flat, there may be irregularities due to tape or other matter on the surface.  
-Automatic Bed Leveling helps improve the quality of printing and bed adhesion by taking several measurements of the bed surface and then adjusting all movement to follow the tilt or contours of the bed.   
+### Bed Auto Leveling
+:book: Most beds appear quite flat and even, but even when the bed is flat, there may be irregularities due to tape or other matter on the surface. Bed Automatic Leveling helps improve the quality of printing and bed adhesion by taking several measurements of the bed surface and then adjusting all movement to follow the tilt or contours of the bed.   
 #### Steps of turn on bed auto leveling feature:
-:movie_camera: [**Bed Auto Leveling**](https://youtu.be/Zoyl6PybsUk)  
-:arrow_down:[![](gcode.jpg)**leveling test gcode file**](./Bed_Auto_Leveling/level_test_310.zip)  
+- **[:movie_camera: Video tutorial](https://youtu.be/Zoyl6PybsUk)**   
+- **:arrow_down:[![](gcode.jpg)leveling test gcode file](./Bed_Auto_Leveling/level_test_310.zip)**  
 ##### :loudspeaker: If you have not done the auto leveling test before, or you have executed restore defaults, or you have upgraded the firmware, or the auto leveling data is incorrect. You need to redo these steps.   
 - :one: Turn on Automatic Bed Leveling on LCD MENU ***Control>>Configre>>Auto Leveling***  
 - :two: Do ***Prepare>>Bed Leveling>>Point 1 ~ Point 4*** and adjust the bed mounted screws to level the bed first.   
@@ -46,17 +50,18 @@ Automatic Bed Leveling helps improve the quality of printing and bed adhesion by
   - If most of the measured values are bigger than zero and the average value < -0.2 (***as shown in Figure 3***), please reduce the ***Preobe Z offset*** (new value = previous value + average value of measured (<0>)) and do this steps again.  
 ![](./pic/Bed_leveling_1.jpg)  
 
+### Power auto shutdown
+Usually 3D printing takes a long time, you can enable this feature to let the machine turn off automatically after the printing is finished to save energy.    
+**[:movie_camera: Video tutorial](https://youtu.be/SJLpmJL-tG4)**  
 
-### 2.Power Auto Shutdown
-:movie_camera: [**Power Auto Shutdown**](https://youtu.be/SJLpmJL-tG4)
-
-### 3.Filament Run Out Detect
-The machine is equipped with 4 filament run out sensors. With these sensors, the printer can pause the printing while one 
-of the filament spools used up, and when you load a new roll filament, you can continue to print.   
-- :movie_camera: [**Filament Run Out Detect**](https://youtu.be/QCJ-6L6ze1w) 
-#### **:bulb: Please note:**   
-- This function only works when printing from SD card.
-- If you can confirm that your current printing will not run out of consumables, it is recommended not to enable this function and do not pass the consumables through the shortage detector.
+### Filament Run Out Detect
+If there is not enough filaments left in the filament roll to complete the current printing, you can enable the ***"run out detect"*** feature. The machine will pause the printing when detected the filament is run out, then you can load a new filament roll and resume the printing. What you need to do is:    
+1. Pass the filament through the **Filament Run Out Sensor**.
+2. Turn on the **run out** feature on LCD screen.      
+**[:movie_camera: Video tutorial](https://youtu.be/QCJ-6L6ze1w)**   
+#### :warning: Notice
+1. If you're sure that the filament is enough, do not pass the filament through the **Filament Run Out Sensor**.         
+2. The printing pause may cause some obvious defects on the prints. 
 #### Introduction of Filament Run Out Sensor
 ![](pic/FROD1.jpg)
 - **LED:** Filament detection indicator light, it will light up when the filament is inserted.
@@ -66,14 +71,9 @@ of the filament spools used up, and when you load a new roll filament, you can c
 #### Wiring diagram of Filament Run Out Sensors
 ![](pic/FRODwiring.jpg)
 
-### 4.Power Loss Recovery
-:movie_camera: [**Power losss recovery**](https://youtu.be/SK95C-6OpB4)  
-
-
-### 5.WiFi Wireless Control
-:warning: WiFi module is an optional feature, you need to [**buy a WiFi module (V2.1)**](https://www.aliexpress.com/item/1005002378551489.html) and install it to the control board before using the feature.    
-:book:[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/WiFi/WiFi_User_Guide.md)
-
-
-
-
+### Power Loss Recovery
+If your power supply network has frequent power outages, you can enable the automatic power losss recovery function before start printing. When the power goes out and it resumed, you can press the DC switch to turn on the power of the machine, and then the machine will automatically detect the printing breakpoint and provide you with whether you need to continue printing.    
+[:movie_camera: **Video tutorial**](https://youtu.be/f-PpasByiiE)     
+#### :warning: Notice 
+1. Breakpoints data and gcode files will be stored on the SD, must keep the SD card in socket before turn on the machine.       
+2. The printing pause may cause some obvious defects on the prints.    
