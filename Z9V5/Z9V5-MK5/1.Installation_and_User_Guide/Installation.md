@@ -27,7 +27,7 @@
 
 -----
 # Z9V5-MK5 installation guide
-## [:clapper: Installation video tutorial]()
+## [:clapper: Installation video tutorial](https://youtu.be/TGHUVzV1Pg4)
 ## :warning:ATTENTION:warning: 
 ### :beginner: Please strictly follow the standard operation when installation.
 ### :children_crossing: Please put the printer away from the reach of kids.

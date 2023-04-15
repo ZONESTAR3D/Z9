@@ -27,7 +27,7 @@
 
 -----
 # Z9V5-MK5 wiring guide
-## [:clapper: Wiring video tutorial](https://youtu.be/tQQNLDOpdQU)
+## [:clapper: Wiring video tutorial]()
 ## About the electronics parts
 #### Please refer to the following figure to understand the location and name of the electronic components of the machine.
 ![](./Wiring/1.jpg)

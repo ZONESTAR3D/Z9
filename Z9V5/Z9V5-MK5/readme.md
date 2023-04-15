@@ -49,11 +49,11 @@
 #### Installation guide    
   - [:book: Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Installation.md) 
   - [:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Installation.pdf) 
-  - [:clapper: Video tutorial]()
+  - [:clapper: Video tutorial](https://youtu.be/TGHUVzV1Pg4)
 #### Wiring guide    
-  - [:book: Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/wiring.md)
-  - [:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/wiring.pdf)
-  - [:clapper: Video tutorial]() 
+  - [:book: Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Wiring.md)
+  - [:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Wiring.pdf)
+  - [:clapper: Video tutorial](https://youtu.be/tQQNLDOpdQU) 
   - [:art: Wiring diagram](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Z9V5Pro_Wiring_Diagram.jpg)
 
 ## 2. Operation Guide
@@ -62,13 +62,13 @@ After completing the installation and wiring, please take a look the below guide
 - [:book: Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md).
 - [:book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.pdf).
 #### Print first works
-And then read the below guide and follow the steps to level the bed, load filaments and print your first work from SD card, to understand how to use this 3D printer.
+Read the below guide and follow the steps to level the bed, load filaments and print your first work from SD card.
 - [:book: Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Operation.md)
 - [:book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Operation.pdf)
 #### :page_with_curl: More features
 You can also read the following documents to gain a deeper understanding of the extruder (hot end and print head) used by your machine, as well as some advanced features of the machine.
 - [:book: M4V6 Hotend introduction](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6)
-- [:book: Mix color feature use guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/mix_feature.md)
+- [:book: Mix color feature use guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Mix_Feature.md)
 - [:book: Advance features use guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features.md)
 
 ## 3. Test G-code file
