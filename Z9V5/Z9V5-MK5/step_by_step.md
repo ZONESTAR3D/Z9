@@ -30,9 +30,9 @@
 ## Step by Step Guide
 If you're a beginner with 3D printers, with so much documentation to read, you might not know where to start. Don't worry, we'll go into the details of these documents next step by step. In a word, what you need to do is the following 5 steps: **Install the machine - Level the bed- Load filaments - Printing test file - Slicing and print your own 3d file**.      
 ### Step 1. Install the machine
-- 1.1 **Installation**. Refer to the [:blue_book: **installation guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf) and [ :movie_camera: **installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI) to complete the installation of the machine. The Z9V5 has a high pre-assembled ratio, so installation is very simple. 
+- 1.1 **Installation**. Refer to the [:blue_book: **installation guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf) and [ :clapper: **installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI) to complete the installation of the machine. The Z9V5 has a high pre-assembled ratio, so installation is very simple. 
 - 1.2 **Wiring**. the process of wiring is basically to insert the plug into the corresponding socket. What you need to pay attention is to make sure the plug is fully inserted into the socket. Especially for those 2PIN docking sockets that sometimes make poor contact. In addition, for the wiring of the print head (hot end), please note that there are several sockets of the same type but different colors, please pay attention to plug them according to the color of the socket.
-- 1.3 **Power ON**. When wiring is complete, you can [:movie_camera: **turn on Z9V5**](https://youtu.be/xTlMHtxkGoY). Please note in particular that the Z9V5 has 2 power switches. the one is ***AC switch***(the red switch on the back of the machine) and another is ***DC switch***(a round metal push button switch on the front of the machine control box), you need to turn on the AC switch first and then **press and hold** the DC switch for a few seconds to turn on Z9V5.
+- 1.3 **Power ON**. When wiring is complete, you can [:clapper: **turn on Z9V5**](https://youtu.be/xTlMHtxkGoY). Please note in particular that the Z9V5 has 2 power switches. the one is ***AC switch***(the red switch on the back of the machine) and another is ***DC switch***(a round metal push button switch on the front of the machine control box), you need to turn on the AC switch first and then **press and hold** the DC switch for a few seconds to turn on Z9V5.
 - 1.4 **Simply Test**. After power on, you can operate the menu on the LCD screen ([**LCD Menu description**](./1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md)) to verify whether the machine can work normally. Usually this involves several steps:
   - 1.4.1 **Prepare>>Auto Home>>Home All**. This step is to make the print head of the machine return to the origin.
   - 1.4.2 **Prepare>>Temperature>>Preheat PLA**. This step is to check the hot end and the hot bed can be heated normally.In this step, when the temperature of the nozzle exceeds 60 degrees, you should see a fan on the right side of the print head (hot end) spin up, this is the hot end cooling fan. 
@@ -43,7 +43,7 @@ If you're a beginner with 3D printers, with so much documentation to read, you m
 - **Bed Level - leveling 4 corners of the bed**. Before start printing, you need to do a simple bed leveling to set the height between the nozzle and the bed (printing platform), so that the filament can be sticked on the bed well. Please refer to [:movie_camera: **Bed leveling video tutorial**](https://youtu.be/nxzB7ho1kNo) to do it.
 
 ### Step 3. Load filaments
-Refer to this [:movie_camera: video tutorial]() to load all 4 filaments to the extruders and hot end.     
+Refer to this [:clapper: video tutorial]() to load all 4 filaments to the extruders and hot end.     
 #### :warning:ATTETION PLEASE:warning: 
 1. **You need load all 4 filaments to the hot end whatever you print one color or multi color 3d prints.**
 2. **Ensure the filament has been loaded to the bottom of the hot end, otherwise it may cause blockage the hot end.**
@@ -64,7 +64,7 @@ FDM 3D printers can only recognize gcode files, we need to copy the gcode files 
 - Firstly you need to download the slicing software and install it on your computer, and set the parameters of your machine in the slicing software or load the preset file of your machine which set by the 3d printer manufacture.   
 - Next, you need to run the slicing software, and may also need to set some slicing setting according to the characteristics of your 3D model file and then do slicing, after finished, copy the generated gcode file to the SD card and print it on your 3d printer.    
 - Our recommended slicing software is *PrusaSlicer*, for instructions on how to download, install and use *PrusaSlicer*, please refer to [***PrusaSlicer Use Guide***](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer).     
-:warning: Attention Please: Default Z9V5Pro-MK5 equpied with a M4 (4-IN-1-OUT mix Color) hot end, so please operate according to Section 6 when slicing.     
+:warning: Attention Please: Default Z9V5Pro-MK5 equpied with a M4 (4-IN-1-OUT mix Color) hot end, please pay attention to choose the printer preset when slicing.     
 After sliced, copy the generated gcode file to the SD card and then print it following the [**step 4**](#step-4-print-test-3d-model).
 
 -----

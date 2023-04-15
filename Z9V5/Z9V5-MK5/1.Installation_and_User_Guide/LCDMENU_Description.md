@@ -1,28 +1,48 @@
 ### :globe_with_meridians: Choose Language (Translated by google)
-[![](../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=es)
-[![](../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=de)
-[![](../../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=it)
-[![](../../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=el)
+[![](../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=es)
+[![](../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=fr)
+[![](../../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=de)
+[![](../../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=it)
+[![](../../../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=sv)
+[![](../../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=pl)
+[![](../../../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=da)
+[![](../../../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=cs)
+[![](../../../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=hr)
+[![](../../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=ro)
+[![](../../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](../../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=id)
-[![](../../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=th)
-[![](../../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=ko)
+[![](../../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=id)
+[![](../../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=th)
+[![](../../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=vi)
+[![](../../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=iw)
+[![](../../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=ar)
+[![](../../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=tr)
+[![](../../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=el)
+[![](../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
+
+-----
+## Introduction of the DWIN LCD Control Panel 
+[:blue_book: View PDF file](./LCDMENU_Description.pdf).
+
+-----
+## Brief of the Control Panel 
+![](./LCD_MENU/0.jpg)
+### Intruduction of menu
+  >
+    1. Title bar          2. Menu bar       3. Status bar         4. Control knob
+    5. Printing Menu      6. Prepare Menu   7. Setup Menu         6. Information Menu
+### Operation of the knob
+- **Press:**                  Execute command / Enter menu.
+- **Rotate clockwise:**       Increase the value / Move to the next menu item.
+- **Rotate anti-clockwise:**  Decrease the value / Move to the pervious menu item.
 
 -----
 ## LCD Menu Description 
-:blue_book:[Watch PDF](./LCD_DWIN_MENU_Description.pdf)
-
 ### Main Menu
 ![](./LCD_MENU/1.png)
   >
@@ -132,6 +152,7 @@
 *Display only when “Control>> Configure >>Hotend type: mixing”, see “Control>>Configure"
 
 ### Tune Menu
+:warning: Tune menu only display when printing from SD card.
 ![](./LCD_MENU/9.png)
 ##### Tune Menu Description
 
@@ -147,4 +168,4 @@
 | Configure        |Tune ON/OFF parts of configurations features, refer to “Control>> Configure” Menu       |
 
 ---
-### :blue_book: [How to upgrade firmware of DWIN LCD Screen](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN-Upgrade-firmware.pdf)
+### :blue_book: [How to upgrade firmware of DWIN LCD Screen](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#update-image-data-of-dwin-lcd)
