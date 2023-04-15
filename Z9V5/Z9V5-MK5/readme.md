@@ -34,7 +34,7 @@
 ------
 # [Documents](http://bit.ly/3KLDI2J)
 ## :book: Contents
-- [**Installation guide**](#1-installation-and-user-guide)  
+- [**Installation guide**](#1-installation-guide)  
 - [**Operation guide**](#2-operation-guide)  
 - [**Test gcode files**](#3-test-g-code-file)
 - [**Slicing software**](#4-slicing)
@@ -54,7 +54,7 @@
   - [:book: Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Wiring.md)
   - [:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Wiring.pdf)
   - [:clapper: Video tutorial](https://youtu.be/tQQNLDOpdQU) 
-  - [:art: Wiring diagram](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Z9V5Pro_Wiring_Diagram.jpg)
+  - [:art: Wiring diagram](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Wiring/Z9V5Pro_Wiring_Diagram.jpg)
 
 ## 2. Operation Guide
 #### Introduction to LCD Control Panel
@@ -92,6 +92,7 @@ G-code is information, or instructions that 3d printer requires in order to prin
 **[:pencil: What is slicing In 3D Printing?](https://en.wikipedia.org/wiki/Slicer_(3D_printing))**             
 A slicer is toolpath generation software used in the majority of 3D printing processes for the conversion of a 3D object model to specific instructions for the printer. In particular, the conversion from a model in STL format to printer commands in g-code format in fused filament fabrication and other similar processes.     
 #### Please download the slicing software and install to your PC, and then read the guide or video tutorial to study how to slicing.
+- [:book: **Slicing software use guide**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK5/4.Slicing/readme.md)
 - [:arrow_down: **Download slicing software**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2)
 - [:clapper: **How to download and install slicing software**](https://youtu.be/vCv0S4L7u30)  
 - [:clapper: **Slicing guide - one color**](https://youtu.be/g-YSgV44Rik)  
