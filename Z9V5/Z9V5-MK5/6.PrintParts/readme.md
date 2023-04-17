@@ -19,8 +19,8 @@ Support more types of filament spool.
 ![](FRODV6.jpg)
 
 ### hotend fan duct  
-- :arrow_down:[**M4 hotend fan duct**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/6.PrintParts/fan_duct_m4_v4.zip)   
-![](fan_duck.jpg)  
+- :arrow_down:[**M4V6 hotend fan duct**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/6.PrintParts/fanduct_m4v6.zip)   
+![](fanduct_m4v6.jpg)  
 
 ### Made by customers
 - [**Z9V5 Spool Holder by MichaW**](https://www.thingiverse.com/thing:4977619)

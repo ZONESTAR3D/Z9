@@ -47,11 +47,11 @@
 ## 1. Installation Guide
 #### First, please refer to the following documents and videos to complete the installation and wiring of the machine.
 #### Installation guide    
-  - [:book: Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Installation.md) 
+  - [:book: Online Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Installation.md) 
   - [:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Installation.pdf) 
   - [:clapper: Video tutorial](https://youtu.be/TGHUVzV1Pg4)
 #### Wiring guide    
-  - [:book: Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Wiring.md)
+  - [:book: Online Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Wiring.md)
   - [:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Wiring.pdf)
   - [:clapper: Video tutorial](https://youtu.be/tQQNLDOpdQU) 
   - [:art: Wiring diagram](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Wiring/Z9V5Pro_Wiring_Diagram.jpg)
@@ -59,12 +59,12 @@
 ## 2. Operation Guide
 #### Introduction to LCD Control Panel
 After completing the installation and wiring, please take a look the below guide to know how to use the control panel, and understand the functions of LCD menu generally.
-- [:book: Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md).
-- [:book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.pdf).
+- [:book: Online Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md).
+- [:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.pdf).
 #### Print first works
 Read the below guide and follow the steps to level the bed, load filaments and print your first work from SD card.
-- [:book: Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Operation.md)
-- [:book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Operation.pdf)
+- [:book: Online Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Operation.md)
+- [:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Operation.pdf)
 #### :page_with_curl: More features
 You can also read the following documents to gain a deeper understanding of the extruder (hot end and print head) used by your machine, as well as some advanced features of the machine.
 - [:book: M4V6 Hotend introduction](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6)
@@ -90,14 +90,10 @@ G-code is information, or instructions that 3d printer requires in order to prin
  
 ## 4. Slicing
 **[:pencil: What is slicing In 3D Printing?](https://en.wikipedia.org/wiki/Slicer_(3D_printing))**             
-A slicer is toolpath generation software used in the majority of 3D printing processes for the conversion of a 3D object model to specific instructions for the printer. In particular, the conversion from a model in STL format to printer commands in g-code format in fused filament fabrication and other similar processes.     
-#### Please download the slicing software and install to your PC, and then read the guide or video tutorial to study how to slicing.
-- [:book: **Slicing software use guide**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK5/4.Slicing/readme.md)
-- [:arrow_down: **Download slicing software**](https://github.com/ZONESTAR3D/Slicing-Guide/releases/tag/PrusaSlicer2.4.2)
-- [:clapper: **How to download and install slicing software**](https://youtu.be/vCv0S4L7u30)  
-- [:clapper: **Slicing guide - one color**](https://youtu.be/g-YSgV44Rik)  
-- [:clapper: **Slicing guide - 4 colors**](https://youtu.be/2IHiP2r7KNk)    
-- [:clapper: **Slicing guide - Covert 3d model to multi color**](https://youtu.be/Yx4fKDRGEJ4)    
+A slicer is toolpath generation software used in the majority of 3D printing processes for the conversion of a 3D object model to specific instructions for the printer. In particular, the conversion from a model in STL format to printer commands in g-code format in fused filament fabrication and other similar processes.   
+#### Slicing software use guide  
+- **[:book: Online document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/4.Slicing)**
+- **[:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/4.Slicing)**
 
 ## 5. Firmware
 **:pencil: What is firmware bin file and source code?**    
@@ -109,7 +105,7 @@ You can download firmware bin file or source code from the below link
 
 ## 6. Troubleshooting
 If you have any problems installing and using the printer, please try to find a solution from the online troubleshooting document first. If you cannot solve this problem, please contact us.      
-**[:arrow_right: Z9V5 Troubleshooting](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ)**
+**[:book: Z9V5 Troubleshooting](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ)**
 
 ## 7. Print Parts
 There are several components on the machine that are printed, and we have also prepared some upgrades for you. If you like, you can download and print them and then install them on your machine.
