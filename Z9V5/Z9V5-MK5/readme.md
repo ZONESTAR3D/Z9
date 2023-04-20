@@ -47,11 +47,11 @@
 ## 1. Installation Guide
 #### First, please refer to the following documents and videos to complete the installation and wiring of the machine.
 #### Installation guide    
-  - [:book: Online Document](Installation) 
+  - [:book: Online Document][Installation]
   - [:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Installation.pdf) 
   - [:clapper: Video tutorial](https://youtu.be/TGHUVzV1Pg4)
 #### Wiring guide    
-  - [:book: Online Document](Wiring)
+  - [:book: Online Document][Wiring]
   - [:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Wiring.pdf)
   - [:clapper: Video tutorial](https://youtu.be/tQQNLDOpdQU) 
   - [:art: Wiring diagram](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Wiring/Z9V5Pro_Wiring_Diagram.jpg)
@@ -59,17 +59,17 @@
 ## 2. Operation Guide
 #### Introduction to LCD Control Panel
 After completing the installation and wiring, please take a look the below guide to know how to use the control panel, and understand the functions of LCD menu generally.
-- [:book: Online Document](LCD_MENU).
+- [:book: Online Document][LCD_MENU].
 - [:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.pdf).
 #### Print first works
 Read the below guide and follow the steps to level the bed, load filaments and print your first work from SD card.
-- [:book: Online Document](Operation)
+- [:book: Online Document][Operation]
 - [:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Operation.pdf)
 #### :page_with_curl: More features
 You can also read the following documents to gain a deeper understanding of the extruder (hot end and print head) used by your machine, as well as some advanced features of the machine.
-- [:book: M4V6 Hotend introduction](M4V6)
-- [:book: Mix color feature use guide](Mix_Feature)
-- [:book: Advance features use guide](Advance_Features)
+- [:book: M4V6 Hotend introduction][M4V6]
+- [:book: Mix color feature use guide][Mix_Feature]
+- [:book: Advance features use guide][Advance_Features]
 
 ## 3. Test G-code file
 **:pencil: What Is G-code In 3D Printing?**    
@@ -92,7 +92,7 @@ G-code is information, or instructions that 3d printer requires in order to prin
 **[:pencil: What is slicing In 3D Printing?](https://en.wikipedia.org/wiki/Slicer_(3D_printing))**             
 A slicer is toolpath generation software used in the majority of 3D printing processes for the conversion of a 3D object model to specific instructions for the printer. In particular, the conversion from a model in STL format to printer commands in g-code format in fused filament fabrication and other similar processes.   
 #### Slicing software use guide  
-- **[:book: Online document](slicing)**
+- **[:book: Online document][slicing]**
 - **[:blue_book: PDF file](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/4.Slicing/Slicing.pdf)**
 
 ## 5. Firmware
@@ -119,7 +119,7 @@ There are several components on the machine that are printed, and we have also p
 -----
 ## Optional upgrade features
 We have developed some scalable features for the machine. If you are interested in these features, please click the below link to know more detailed.    
-**[:arrow_right:Optional upgrade features](OptionalFeatures)**.
+**[:arrow_right:Optional upgrade features][OptionalFeatures]**.
 
 -----
 [Installation]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Installation.md
