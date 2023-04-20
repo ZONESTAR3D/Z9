@@ -30,10 +30,10 @@
 ## Step by Step Guide
 If you're a beginner with 3D printers, with so much documentation to read, you might not know where to start. Don't worry, we'll go into the details of these documents next step by step. In a word, what you need to do is the following 5 steps: **Install the machine - Level the bed- Load filaments - Printing test file - Slicing and print your own 3d file**.      
 ### Step 1. Install the machine
-- 1.1 **Installation**. Refer to the [:blue_book: **installation guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf) and [ :clapper: **installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI) to complete the installation of the machine. The Z9V5 has a high pre-assembled ratio, so installation is very simple. 
+- 1.1 **Installation**. Refer to the [:blue_book: **installation guide**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Installation.pdf) and [ :clapper: **installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI) to complete the installation of the machine. The Z9V5 has a high pre-assembled ratio, so installation is very simple. 
 - 1.2 **Wiring**. the process of wiring is basically to insert the plug into the corresponding socket. What you need to pay attention is to make sure the plug is fully inserted into the socket. Especially for those 2PIN docking sockets that sometimes make poor contact. In addition, for the wiring of the print head (hot end), please note that there are several sockets of the same type but different colors, please pay attention to plug them according to the color of the socket.
 - 1.3 **Power ON**. When wiring is complete, you can [:clapper: **turn on Z9V5**](https://youtu.be/xTlMHtxkGoY). Please note in particular that the Z9V5 has 2 power switches. the one is ***AC switch***(the red switch on the back of the machine) and another is ***DC switch***(a round metal push button switch on the front of the machine control box), you need to turn on the AC switch first and then **press and hold** the DC switch for a few seconds to turn on Z9V5.
-- 1.4 **Simply Test**. After power on, you can operate the menu on the LCD screen ([**LCD Menu description**](./1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md)) to verify whether the machine can work normally. Usually this involves several steps:
+- 1.4 **Simply Test**. After power on, you can operate the menu on the LCD screen ([**LCD Menu description**][LCD_MENU]) to verify whether the machine can work normally. Usually this involves several steps:
   - 1.4.1 **Prepare>>Auto Home>>Home All**. This step is to make the print head of the machine return to the origin.
   - 1.4.2 **Prepare>>Temperature>>Preheat PLA**. This step is to check the hot end and the hot bed can be heated normally.In this step, when the temperature of the nozzle exceeds 60 degrees, you should see a fan on the right side of the print head (hot end) spin up, this is the hot end cooling fan. 
   - 1.4.3 **Prepare>>Temperature>>FAN**. After pressing the knob and setting the fan speed (set to 255), you should now be able to turn the fan on the left side up as well.   
@@ -72,3 +72,7 @@ After sliced, copy the generated gcode file to the SD card and then print it fol
 - [thingiverse](https://www.thingiverse.com/)  
 - [printables](https://www.printables.com/)  
 - [youmagine](https://www.youmagine.com/)   
+
+
+-----
+[LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/LCDMENU_Description.md

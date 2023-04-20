@@ -29,7 +29,7 @@
 # Z9V5-MK5 operation guide
 Before starting printing, you must adjust the distance between the nozzle and the hot bed film (it called "Leveling the bed"), and load the  filaments into the extruder and hot end.
 ## Leveling the bed
-#### [:clapper:Video Tutorial]()
+#### [:clapper:Video Tutorial](https://youtu.be/nxzB7ho1kNo)
 #### :warning: **For FDM3D printers, the distance between the nozzle and the hot bed is very important when printing the first layer.** If the distance is too close, the filaments cannot flow out of the nozzle, and even damage the nozzle and the hot bed. If the distance is too far, the filaments cannot pasted on the hot bed, the next layers cannot be stacked correctly and cause printing fail.
 - Step 1. Power on the 3d printer and then do “Prepare>>Auto Home>>Home All” on LCD MENU, wait the hotend go to the HOME position. 
 - Step 2. Tighten the hand nuts under the bed to move down the bed to the lowest position (Fig 1).
