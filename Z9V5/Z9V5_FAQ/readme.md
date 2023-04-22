@@ -78,5 +78,9 @@ The parts in the machine that can carry out the exchange test include:
 <!-- - [**Infill showing on exterior of print**]() -->
 <!-- - [**Weak infill**]() -->
 
+## Poor printing quality
+- **[44 Common 3D Print Problems](https://www.3dsourced.com/rigid-ink/ultimate-3d-printing-troubleshooting-guide) @3dsourced**
+- **[All Problems & Solutions](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/) @all3DP**
+
 -----
 ## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .
