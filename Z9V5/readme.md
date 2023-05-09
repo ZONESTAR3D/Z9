@@ -47,6 +47,8 @@ You can distinguish MK1/MK2/MK3/MK4 by product serial number. There is a white s
 ### What's different on Z9V5-MK1/MK2/MK3/MK4/MK5
 - **Z9V5-MK5 mainly improves than Z9V5-MK4**:  
 Used M4V6 (the 6th version 4-IN-1-OUT mix color) hotend as default hotend to replace of the E4 hotend.   
+    - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5)    
+    - :arrow_down:[**Download all Z9V5-MK4 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK5)  
 **:warning:[What's different between M4V6 hotend and E4 hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/FAQ_M4E4.md#whats-different-between-e4-and-m4-hotend)**.
 
 - **Z9V5-MK4 mainly improves than Z9V5-MK3**:  
