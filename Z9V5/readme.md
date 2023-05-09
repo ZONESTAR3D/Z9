@@ -50,7 +50,7 @@ Used M4V6 (the 6th version 4-IN-1-OUT mix color) hotend as default hotend to rep
 **:warning:[What's different between M4V6 hotend and E4 hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/FAQ_M4E4.md#whats-different-between-e4-and-m4-hotend)**.
 
 - **Z9V5-MK4 mainly improves than Z9V5-MK3**:  
-1. Use E4 (4-IN-1-OUT non mix color) hotend as default hotend to replace of the M4 hotend.
+1. Use E4 (4-IN-1-OUT non mix color) hotend as default hotend to replace of the M4V4 (the 4th version 4-IN-1-OUT mix color) hotend.
 2. Use magnetic hot bed sticker to replace hot bed glass.
 3. Bed leveling sensor used PL-08N.
 4. Optimized structure on top assembly, filament run out sensor case, etc..    
