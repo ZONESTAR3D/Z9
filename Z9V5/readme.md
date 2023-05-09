@@ -12,7 +12,7 @@
 [![](../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ro)
 [![](../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ru)
 [![](../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ja)
 [![](../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ko)
 [![](../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=id)
@@ -23,10 +23,11 @@
 [![](../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=tr)
 [![](../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=el)
 [![](../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 -----
-### Documents link for ZONESTAR Z9V5 3D Printer
+### Documents link for User Manual of ZONESTAR Z9V5 3D Printer 
+#### [:file_folder: Z9V5Pro-MK5](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5)
 #### [:file_folder: Z9V5Pro-MK4](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4)
 #### [:file_folder: Z9V5Pro-MK3](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3)
 #### [:file_folder: Z9V5Pro-MK2](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2)
@@ -34,15 +35,20 @@
 #### [:file_folder: Z9V5](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1)
 
 -----
-### How to distinguish Z9V5-MK1/MK2/MK3/MK4
+### How to distinguish Z9V5-MK1/MK2/MK3/MK4/MK5
 You can distinguish MK1/MK2/MK3/MK4 by product serial number. There is a white sticker on the power supply, which indicates the product serial number.  
 ![](Z9V5_SN.jpg)
 - **Z9V5-MK1:** Serial Number is **xxxxxxxxxx**   
 - **Z9V5-MK2:** Serial Number is **V1-xxxxxxxxxx** and **V2-xxxxxxxxxx**    
 - **Z9V5-MK3:** Serial Number is **MK3-xxxxxxxxxx**  
 - **Z9V5-MK4:** Serial Number is **MK4-xxxxxxxxxx**  
+- **Z9V5-MK5:** Serial Number is **MK5-xxxxxxxxxx**  
 
-### What's different on Z9V5-MK1/MK2/MK3/MK4
+### What's different on Z9V5-MK1/MK2/MK3/MK4/MK5
+- **Z9V5-MK5 mainly improves than Z9V5-MK4**:  
+Used M4V6 (the 6th version 4-IN-1-OUT mix color) hotend as default hotend to replace of the E4 hotend.   
+**:warning:[What's different between M4V6 hotend and E4 hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/FAQ_M4E4.md#whats-different-between-e4-and-m4-hotend)**.
+
 - **Z9V5-MK4 mainly improves than Z9V5-MK3**:  
 1. Use E4 (4-IN-1-OUT non mix color) hotend as default hotend to replace of the M4 hotend.
 2. Use magnetic hot bed sticker to replace hot bed glass.
@@ -73,11 +79,11 @@ Due to the shortage of chips, a small numbers of **Z9V5-MK2** used **ZM3E4V1** c
 - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1) 
 - :arrow_down: [**Download all Z9V5-MK1 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK1) 
 
-----------
+-----
 ### Troubleshootings
-If you encounter any problems when installing and using the product, please read [**:book: the troubleshooting document**](./Z9V5_FAQ/readme.md) first.
+If you have any problem when installing and using Z9V5, please read the [**:book:"Document of Z9V5 Troubleshootings"**](./Z9V5_FAQ/readme.md) to see if you can find a solution.
 
-----------
+-----
 ### How to downlod file from Github page
 #### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
 #### Step 2: Copy the Github file or direcotry link which you want to download.
