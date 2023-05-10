@@ -3,7 +3,7 @@
 ![](./Hotbed_wiring.jpg)  ![](./Hotend_wiring.jpg)  
 
 -----
-## 1. Check the startup temperature
+## 1. Check the temperature after the machine startup
 First, turn on the power and watch the current temperature display on the LCD display. If the hot bed or hot end (nozzle) is still hot, wait for them to get cool.  
 ![](./LCD_screen.jpg)  
 > 
