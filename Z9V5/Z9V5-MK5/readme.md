@@ -29,7 +29,8 @@
 ## :warning:NOTICE:warning:
 ### :loudspeaker:If you are a beginner of 3d printer, please carefully read the [:book: Step-by-Step Guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/step_by_step.md), and following the steps to do step by step.  
 ### :loudspeaker: If you are experienced on 3d printer, please also briefly read the [:book: Step-by-Step Guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/step_by_step.md) at least, and ensure that you have known how to load filaments to the hot end correctlly.
-### :loudspeaker: You need to load all the 4 filaments to the hotend whether printing one or multi color 3d prints, incorrect operationa may block the mix color hotend. If the hot end blockage caused by incorrect operation, it is not covered by the warranty. For how to load filaments, please refer to [this guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/readme.md#load-filaments)
+### :loudspeaker: You need to load all the 4 filaments to the hotend whether printing one or multi color 3d prints, incorrect operationa may block the mix color hotend. If the hot end blockage caused by incorrect operation, it is not covered by the warranty. For how to load filaments, please refer to [this guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/readme.md#load-filaments).
+### :loudspeaker: DONOT pull out the "inner PTFE tubes" (the 4 white tubes with black fittings) from the M4V6 hot end.
 
 ------
 # [Documents](http://bit.ly/3KLDI2J)
