@@ -32,7 +32,7 @@
 :book: Most beds appear quite flat and even, but even when the bed is flat, there may be irregularities due to tape or other matter on the surface.  
 Automatic Bed Leveling helps improve the quality of printing and bed adhesion by taking several measurements of the bed surface and then adjusting all movement to follow the tilt or contours of the bed.   
 #### Steps of turn on bed auto leveling feature:
-:movie_camera: [**Bed Auto Leveling**](https://youtu.be/Zoyl6PybsUk)  
+:clapper: [**Bed Auto Leveling**](https://youtu.be/Zoyl6PybsUk)  
 :arrow_down:[![](gcode.jpg)**leveling test gcode file**](./Bed_Auto_Leveling/level_test_310.zip)  
 ##### :loudspeaker: If you have not done the auto leveling test before, or you have executed restore defaults, or you have upgraded the firmware, or the auto leveling data is incorrect. You need to redo these steps.   
 - :one: Turn on Automatic Bed Leveling on LCD MENU ***Control>>Configre>>Auto Leveling***  
@@ -48,12 +48,12 @@ Automatic Bed Leveling helps improve the quality of printing and bed adhesion by
 
 
 ### 2.Power Auto Shutdown
-:movie_camera: [**Power Auto Shutdown**](https://youtu.be/SJLpmJL-tG4)
+:clapper: [**Power Auto Shutdown**](https://youtu.be/SJLpmJL-tG4)
 
 ### 3.Filament Run Out Detect
 The machine is equipped with 4 filament run out sensors. With these sensors, the printer can pause the printing while one 
 of the filament spools used up, and when you load a new roll filament, you can continue to print.   
-- :movie_camera: [**Filament Run Out Detect**](https://youtu.be/QCJ-6L6ze1w) 
+- :clapper: [**Filament Run Out Detect**](https://youtu.be/QCJ-6L6ze1w) 
 #### **:bulb: Please note:**   
 - This function only works when printing from SD card.
 - If you can confirm that your current printing will not run out of consumables, it is recommended not to enable this function and do not pass the consumables through the shortage detector.
@@ -67,13 +67,8 @@ of the filament spools used up, and when you load a new roll filament, you can c
 ![](pic/FRODwiring.jpg)
 
 ### 4.Power Loss Recovery
-:movie_camera: [**Power losss recovery**](https://youtu.be/SK95C-6OpB4)  
-
+:clapper: [**Power losss recovery**](https://youtu.be/SK95C-6OpB4)  
 
 ### 5.WiFi Wireless Control
 :warning: WiFi module is an optional feature, you need to [**buy a WiFi module (V2.1)**](https://www.aliexpress.com/item/1005002378551489.html) and install it to the control board before using the feature.    
-:book:[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/WiFi/WiFi_User_Guide.md)
-
-
-
-
+:book:[User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi)
