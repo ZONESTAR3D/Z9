@@ -120,18 +120,13 @@ In order to obtain better cleaning effect and minimize to waste filament, we can
 
 ------
 ## :warning: ATTETION PLEASE
-Default Z9V5-MK4 used a E4 (4-IN-1-OUT Non Color Mixing Hotend) hotend, if you have upgrade a M4 (4-IN-1-OUT Mixing Color Hotend), please refer to the below steps to slicing
+Default Z9V5-MK4 used a E4 (4-IN-1-OUT **Non-Mix Color** Hotend) hotend, **if you have upgrade a M4 (4-IN-1-OUT Mix Color Hot end)**, please refer to the below steps to slicing
 ## 6. Slicing muti-color for M4 hotend 
 #### 6.1 choose printer presets "Z9 + M4 hotend"
 ![](pic/slicingM4-1.png)
-#### 6.2 the other steps for E4 hotend and M4 hotend is the same, please refer to [](#5-slicing-muti-color-for-e4-hotend)
-:star:For M4 hotend, there is a bigger store room in the hot end, so we have to use bigger purging volume on wipe tower.  
-![](pic/slicingM4-2.png) 
-
-## 7. Gradient and random mixed color printing
-### :warning: This feature is for M4 hotend only
-The slicing process of realizing gradient mixed color printing is exactly the same as that of monochrome, but you need to enable the gradient printing function in the LCD menu. For details, please refer to the user manual from the M4 hot end sell page.
+#### 6.2 the other steps for E4 hotend and M4 hotend is the same, please refer to [here](#5-slicing-muti-color-for-e4-hotend)
 
 
-
+-----
+## About the newest slicing guide of PrusaSlicer, please refer to [**here**](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer).
 
