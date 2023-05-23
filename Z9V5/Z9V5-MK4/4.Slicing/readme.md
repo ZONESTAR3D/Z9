@@ -27,15 +27,16 @@
 
 -----
 # PrusaSlicer slicing guide for ZONESTAR 3D Printer 
+
+-----
 ## :book: Contents
 1. [Download PrusaSlicer](#1-download-prusaslicer)
 2. [Run PrusaSlicer and choose the printer ](#2-run-prusaslicer-and-choose-the-printer)
 3. [Choose system presets](#3-choose-system-presets)
 4. [Slicing one color](#4-slicing-one-color)
 5. [Slicing muti-color for E4 hotend](#5-slicing-muti-color-for-e4-hotend)
-6. [Slicing muti-color for M4 hotend](#6-slicing-muti-color-for-m4-hotend)
-5. [Gradient and random mixed color printing](#7-gradient-and-random-mixed-color-printing)
 
+-----
 ## 1. Download PrusaSlicer
 #### For windows system (win 7/8/10/11) 
 - :movie_camera: [**Download and install slicing software**](https://youtu.be/SgyXD-kQIeo)
