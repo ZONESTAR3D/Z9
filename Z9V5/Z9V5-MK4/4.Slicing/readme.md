@@ -27,6 +27,7 @@
 
 -----
 # PrusaSlicer slicing guide for ZONESTAR 3D Printer 
+#### :warning:NOTE: About the newest slicing guide of PrusaSlicer, please refer to [**here**](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer).
 
 -----
 ## :book: Contents
@@ -122,7 +123,3 @@ In order to obtain better cleaning effect and minimize to waste filament, we can
 -----
 ## :warning: ATTETION PLEASE :warning:
 Default Z9V5-MK4 used a E4 (4-IN-1-OUT **Non-Mix Color** Hotend) hotend, **if you have upgraded a Mixing Color Hot end**, please refer to [**here**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer/PrusaSlicerGuide_M4.md) to slicing.
-
------
-## About the newest slicing guide of PrusaSlicer, please refer to [**here**](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer).
-
