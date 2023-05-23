@@ -97,7 +97,7 @@
 
 ## :fireworks: Congratulate! 
 After completing the above steps, the machine installation is announced to be completed, next you can arrange the wiring.      
-[**:point_right: Go to wiring guide**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/wiring.md).
+[**:point_right: Go to wiring guide**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Wiring.md).
 
 
 
