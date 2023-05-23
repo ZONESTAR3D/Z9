@@ -52,6 +52,9 @@
 -----
 ### 1. Installation and User Guide
 - :book: [**Step-by-Step Guide**](./step_by_step.md)
+- :book: [**Installation Guide**](./1.Installation_and_User_Guide/Installation.md)
+- :book: [**Wiring Guide**](./1.Installation_and_User_Guide/Wiring.md)
+- :book: [**Operation Guide**](./1.Installation_and_User_Guide/Operation.md)
 - :blue_book: [**Installation and user guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf)
 - :book: [**LCD screen menu description**](./1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md)
 - :movie_camera: [**Installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI)
