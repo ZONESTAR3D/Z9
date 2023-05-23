@@ -18,14 +18,15 @@ If the current temperature of hot bed shows 0 degrees, it means that the tempera
 
 ### 1.2 Hot end shows 0℃
 If the current temperature of the hot end shows 0 degrees, it means that the temperature sensor of the hot end is disconnected, please check:
-- Is the wiring is connected well? (Refer to the wiring picture above).
-- Is the temperature sensor damaged. You can connect the hot end temperature sensor to hot bed connecor and then watch the current hotbed temperaure on LCD screen, if the LCD screen can show correct temperature, it means the temperature sensor of hot end is okay.
-- Open the control box and check if the hot end temperature sensor wire is disconnected from the control board.
-- Check if the hot end extension cable is damaged.
+- Is the wiring is connected well? (Refer to the wiring picture above).     
+- Is the temperature sensor damaged. You can connect the hot end temperature sensor to hot bed connecor and then watch the current hotbed temperaure on LCD screen, if the LCD screen can show correct temperature, it means the temperature sensor of hot end is okay.     
+- Open the control box and check if the hot end temperature sensor wire is disconnected from the control board.     
+- Check if the hot end extension cable is damaged.       
+:pushpin:A simple way to determine whether the problem is from the thermistor of the hot end (Temperature is damaged or its wire is broken) or the control board side (extension cable is broken or disconnected with the control board): Short the 2 pins of the temperature sensor connector of the extension cable and check if the LCD screen will prompt a "MAXTEMP error". If "MAXTEMP error" showed, the problem is from the thermistor, if the LCD screen still shows 0℃, the question comes from the control board side.          
+![](./checkET.jpg)
 
 ### 1.3 Hot end shows round of 150℃
 If the temperature of the hot end shows a high temperature (about 150℃) even if the nozzle is actually cool, then it is very likely that you have connected the temperature sensor of the hot end to the fan by mistake, please pay attention to check the wiring of the hot end.   
-
 
 -----    
 ## 2. Hot end issue
