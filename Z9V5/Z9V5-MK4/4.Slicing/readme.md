@@ -104,7 +104,3 @@ In order to obtain better cleaning effect and minimize to waste filament, we can
 ![](pic/slicing-9.png)   
 :star:When previewing the gcode file, you can see that some additional print lines will appear on the side of bed, which are for preloading filament. For detail how to pre-load filament, please refer to [:book:**E4 Hotend user guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend#4-in-1-out-non-mix-color-hotend-user-guide).
 ![](pic/slicingE4-3.png)  
-
------
-## :warning: ATTETION PLEASE :warning:
-Default Z9V5-MK4 used a E4 (4-IN-1-OUT **Non-Mix Color** Hotend) hotend, **if you have upgraded a Mixing Color Hot end**, please refer to [**here**](https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer/PrusaSlicerGuide_M4.md) to slicing.
