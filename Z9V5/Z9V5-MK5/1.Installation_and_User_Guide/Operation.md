@@ -38,7 +38,7 @@ Before starting printing, you must adjust the distance between the nozzle and th
 ![](./Operation/levelbed.png)
 
 ## Load filaments
-#### [:clapper:Video Tutorial]()
+#### [:clapper:Video Tutorial](https://youtu.be/FyHrAMytlT8)
 This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot end. The extruders and the hot end are connected by a filament guide (PTFE tube). ***Before printing, you need to load all 4 filaments to the extruders and feed them into the bottom of the hot end.*** 
 - Step 1. Do “Prepare>>Auto Home>>Home All” on control panel, and then do “Prepare>>Temperature>> Preheat PLA”, waiting nozzle temperature reached to 190 ℃ (Fig 1).
 - Step 2. Use a diagonal pliers to cut off the head of filament (Fig 2), and then press the handle of the extruder#1 and insert filament, push the filament until you can see the filament in the PTFE guide (Fig 3). Rotate the gear of extruder #1 (Fig 4), watch the filament until it entered bottom of the hot end. 
@@ -57,5 +57,5 @@ This printer is equipped with four extruders and one 4-IN-1-OUT color mixing hot
 ![](./Operation/firstprint.png)
 
 ## :fireworks: Congratulate! 
-After printing this product, you have a basic and complete understanding of how the machine works. Now, you can print other test files or slice your own 3D model and use the machine to print it out.
-Next, it is recommended that you read the user manual for slicing software to install it and understand how to use it,for details, please refer to [**:point_right: Slicing-Guide**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/4.Slicing).
+After printed the first works, you have a basic understanding of how the 3d printer works. Now, you can print other test files or slice your own 3D model and use the machine to print it out.    
+Next, it is recommended that you download and install the slicing software, and read the user guide of  the slicing software to know how to use it,for details, please refer to [**:point_right: Slicing-Guide**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/4.Slicing).
