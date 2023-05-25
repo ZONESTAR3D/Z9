@@ -115,7 +115,7 @@ Please download the slicing software and install to your PC, and then read the g
 ##### For more FAQ, please refer to [**here**](./6.FAQ/readme.md)
 
 ### 7. Others
-#### [Print parts stl files](./7.Others/Parts_stl_file/readme.md)
+#### [Print parts stl files](./7.Others/readme.md)
 
 -----
 ## Advanced features

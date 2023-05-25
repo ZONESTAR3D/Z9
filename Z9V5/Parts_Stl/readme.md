@@ -1,27 +1,42 @@
 ## Parts_Stl
-:arrow_down:[Download all stl files](./Parts_Stl.rar)
-
-### M4 hotend fan duck
-Upgrade the hotend fan duck to improve the effeciency of cooling.  
-![](fan_duck_m4_v3.jpg)
-
-### Filament Spool Bracket
-Support more types of filament spool.  
-![](FilamentSpoolBracket.jpg)
-
 ### Filament run out sensor
-Case of filament run out sensor.   
-![](FRODV6.jpg)
+- :arrow_down:[**Case of filament run out sensor V6**](./FRODV6.zip)    
+![](FRODV6.jpg) ![](FRODV6_A.jpg) ![](FRODV6_B.jpg)
+
+### hotend fan duct 
+The hotend fan duck stl file to improve the effeciency of cooling.    
+- :arrow_down:[**E4 hotend fan duct**](./fanduct_e4.zip)    
+- :arrow_down:[**M4V4 hotend fan duct**](./fanduct_M4V4.zip)   
+- :arrow_down:[**M4V6 hotend fan duct**](./fanduct_m4v6.zip)   
+![](fan_duck.jpg)  ![](fan_duck_m4.jpg)  ![](fanduct_m4v6.jpg)  
+
+### Hotend Cable Bracket
+- :arrow_down:[**Hotend Cable Bracket**](./z9v5_hecable_holder.zip)   
+![](z9v5_hecable_holder.jpg)
+
+### Bracket of ZL-Sensor(Only used on Z9V5Pro-MK3)
+- :arrow_down:[**Bracket to mount ZL-Sensor**](./br_zlsensor.zip)    
+![](br_zlsensor.jpg) ![](br_zlsensor_2.jpg) 
 
 ### Recyclebin
 A box (Installed  on the z-axis aluminum profile at the front left) to collect filament flowed out from the nozzle.     
+- :arrow_down:[**Filament recyclebin box**](Recyclebin.zip)    
 ![](Recyclebin.jpg)
 
-### tool supports 
-Support for the tools.   
+### tool supports  
+- :arrow_down:[**Support for the tools**](./Z9_tool_supports.zip)    
 ![](Z9_tool_supports.jpg)
 
-### ZL snesor bracket
-![](br_zlsensor.jpg)
-![](br_zlsensor_2.jpg)
+### Filament Spool Bracket
+- :arrow_down:[**FilamentSpoolBracket**](./FilamentSpoolBracket.zip)   
+![](FilamentSpoolBracket.jpg)
 
+### Anti-entanglement Filament
+- :arrow_down:[**Anti-entanglement Filament**](./antientanglementfilament.st)   
+![](antientanglementfilament.jpg)
+
+-----
+### Made by customers
+- [**Z9V5 Spool Holder by MichaW**](https://www.thingiverse.com/thing:4977619)
+- [**Z9V5 Purge chute and nozzle clean by AFelix**](https://www.thingiverse.com/thing:4940319)
+- [**Z9V5 Fan duct by Memphisrain**](https://www.thingiverse.com/thing:5754401)

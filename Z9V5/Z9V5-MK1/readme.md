@@ -64,7 +64,7 @@
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
 
 ## [7. Others](./7.%20Others/)
-**Parts stl files for this kit**   
+**[Parts stl files for this kit](./7.%20Others/readme.md)**   
 
 ## 8.Video tutorial  
 **NOTE: The video tutorial may be a little different with your machine because of firmware version is different, for reference only**     

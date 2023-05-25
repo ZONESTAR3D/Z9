@@ -98,7 +98,7 @@ Slicing software and user guide. [**View the newest slicing guide**](https://git
 - :movie_camera: [***Electronics parts auto testing***](https://youtu.be/SJLbP9QYwBE)  
 
 ## [7.Others](./7.%20Others/)
-**Print parts stl files, user Guide for improve features etc.**
+**[Parts stl files for this kit](./7.%20Others/Parts_STL/readme.md)** 
 
 -----
 ## Z9V5 upgrade kit / parts
