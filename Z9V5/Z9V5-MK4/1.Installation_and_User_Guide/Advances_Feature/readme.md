@@ -1,23 +1,23 @@
 ### :globe_with_meridians: Choose Language (Translated by google)
-[![](../../../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=es)
-[![](../../../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../../../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=de)
-[![](../../../../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=it)
-[![](../../../../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../../../../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../../../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=el)
+[![](../../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=es)
+[![](../../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=fr)
+[![](../../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=de)
+[![](../../../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=it)
+[![](../../../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=pl)
+[![](../../../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=el)
 
-[![](../../../../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../../../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../../../../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=id)
-[![](../../../../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=th)
-[![](../../../../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../../../../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../../../../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../../../../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../../../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../../../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=ko)
+[![](../../../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=id)
+[![](../../../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=th)
+[![](../../../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=vi)
+[![](../../../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=iw)
+[![](../../../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=ar)
+[![](../../../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=tr)
+[![](../../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advances_Feature/readme.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 -----
 ## ZONESTAR Z9V5Pro advance features
@@ -29,6 +29,7 @@
 - [**WiFi wireless control feature**](#5wifi-wireless-control)
 
 ### 1.Automatic Bed Leveling
+**[:book:Detail Guide](./Bed_Auto_Leveling/readme.md).**     
 :book: Most beds appear quite flat and even, but even when the bed is flat, there may be irregularities due to tape or other matter on the surface.  
 Automatic Bed Leveling helps improve the quality of printing and bed adhesion by taking several measurements of the bed surface and then adjusting all movement to follow the tilt or contours of the bed.   
 #### Steps of turn on bed auto leveling feature:
