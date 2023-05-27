@@ -142,6 +142,18 @@ By upgrading this item, you can turn your 3D printer into a simple laser engravi
 - [:book: **User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser%20Engraving)  
 - [:package: **Sell link**](https://www.aliexpress.com/item/4001309902136.html)  
 
+### :new: Large printing size upgrade kit
+By upgrading this item, the build volume of Z9V5Pro will be extended to 500x500x400mm
+- **:book: [User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Z9V5_500x500)**  
+- **:gift: [Buy in Offcial online store](http://bit.ly/3ZMDJI0)**
+- **:gift: [Buy in Aliexpress](https://www.aliexpress.us/item/3256805439021576.html)**
+
+### :new: Linear rail upgrade kit
+By upgrading this item, the printing quality and stability will be improved, and it will help improve the flatness of the hot bed.
+- **:book: [User guide](https://bit.ly/3qg5ht9)**  
+- **:gift: [Buy in Offcial online store](https://bit.ly/43qQNVC)**
+- **:gift: [Buy in Aliexpress](https://www.aliexpress.us/item/1005005599988527.html)**
+
 ### Hotends
 [:book:**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)  
 Each type of hot end has its advantages and disadvantages, you can choose different hotends according to different requirement:    

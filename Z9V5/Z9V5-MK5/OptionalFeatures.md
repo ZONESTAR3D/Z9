@@ -22,6 +22,13 @@ Upgraded this item, you can turn the 3D printer into a simple laser engraving ma
 Upgraded this item, the Z9V5 can realize continuous automatic printing 3d prints. 
 - **:book: [User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing)**   
 - **:gift: [Buy at our online store](http://bit.ly/3Gsi5SS) / [Buy at Aliexpress](http://bit.ly/3Iff8Xg)**  
-### :boom: Large printing size upgrade kit
-Upgraded this item, the build volume of Z9V5Pro will be extended to 500x500x400mm.    
-- **:gift: [Buy at our online store](http://bit.ly/3ZMDJI0)**
+### :new: Large printing size upgrade kit
+Upgraded this item, the build volume of Z9V5Pro will be extended to 500x500x400mm
+- **:book: [User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Z9V5_500x500)**  
+- **:gift: [Buy in Offcial online store](http://bit.ly/3ZMDJI0)**
+- **:gift: [Buy in Aliexpress](https://www.aliexpress.us/item/3256805439021576.html)**
+### :new: Linear Rail upgrade kit
+Upgraded this item, the printing quality and stability will be improved, and it will help improve the flatness of the hot bed.
+- **:book: [User guide](https://bit.ly/3qg5ht9)**  
+- **:gift: [Buy in Offcial online store](https://bit.ly/43qQNVC)**
+- **:gift: [Buy in Aliexpress](https://www.aliexpress.us/item/1005005599988527.html)**
