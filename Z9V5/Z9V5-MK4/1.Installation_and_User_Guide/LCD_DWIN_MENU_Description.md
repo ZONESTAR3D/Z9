@@ -1,27 +1,44 @@
 ### :globe_with_meridians: Choose Language (Translated by google)
-[![](../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=es)
-[![](../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=de)
-[![](../../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=it)
-[![](../../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=el)
+[![](../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=es)
+[![](../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=fr)
+[![](../../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=de)
+[![](../../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=it)
+[![](../../../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=sv)
+[![](../../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=pl)
+[![](../../../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=da)
+[![](../../../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=cs)
+[![](../../../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=hr)
+[![](../../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ro)
+[![](../../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=sk)
 
-[![](../../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=id)
-[![](../../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=th)
-[![](../../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ru)
+[![](../../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ja)
+[![](../../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ko)
+[![](../../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=id)
+[![](../../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=th)
+[![](../../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=vi)
+[![](../../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=iw)
+[![](../../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=ar)
+[![](../../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=tr)
+[![](../../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=el)
+[![](../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=pt)
+[![](../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
+
+-----
+## Brief of the Control Panel 
+![](./LCD_MENU/0.jpg)
+### Intruduction of menu
+  >
+    1. Title bar          2. Menu bar       3. Status bar         4. Control knob
+    5. Printing Menu      6. Prepare Menu   7. Setup Menu         6. Information Menu
+### Operation of the knob
+- **Press:**                  Execute command / Enter menu.
+- **Rotate clockwise:**       Increase the value / Move to the next menu item.
+- **Rotate anti-clockwise:**  Decrease the value / Move to the pervious menu item.
 
 -----
 ## LCD Menu Description 
-:blue_book:[Watch PDF](./LCD_DWIN_MENU_Description.pdf)
 
 ### Main Menu
 ![](./LCD_MENU/1.png)
@@ -30,7 +47,7 @@
     4. Machine Settings       5. Machine Information           6. Nozzle Temperature
     7. Hotbed Temperature     8. Printing Speed                9. Current Z position
 
-### Printing status Menu (Hotend Type set to “Non-mixing”)
+### Printing status Menu (Hotend Type set to “Non-mixing�?
 ![](./LCD_MENU/2.png)
   >
     1. Titel                              2. Printing file name and Progress bar      3. Extruder Status and FAN Speed
@@ -38,7 +55,7 @@
     6. Stop Printing                      7. Nozzle Temperature                       8. Hotbed Temperature     
     9. Printing Speed                     10. Current Z position                      12.Status Message Bar
 
-### Printing status Menu (Hotend Type set to “Mixing”)
+### Printing status Menu (Hotend Type set to “Mixing�?
 ![](./LCD_MENU/3.png)
   >
     1. Titel                              2. Printing file name and Progress bar      3. Extruder Mix Rate and Auto Mixing mode
@@ -71,8 +88,8 @@
 |                    |                |                                                                |
 |     Filament       |Preheat nozzle  |  Preheat the nozzle to the setting temperature                 |
 |     Filament       |Extruder        |  Choose which extruder to operate                              |
-|     Filament       |Slowly length   |How long filament be load/unload while did “Slowly Load“ & “lowly Unload”|
-|     Filament       |Quickly length  |How long filament be load/unload while did “Quickly Load “ & “ Quickly Unload“|
+|     Filament       |Slowly length   |How long filament be load/unload while did “Slowly Load�?& “lowly Unload”|
+|     Filament       |Quickly length  |How long filament be load/unload while did “Quickly Load �?& �?Quickly Unload“|
 |     Filament       |Slowly Load     |Load filament slowly                                            |
 |     Filament       |Slowly UnLoad   |Unload filament slowly                                          |
 |     Filament       |Quickly Load    |Load filament quickly                                           |
@@ -82,9 +99,9 @@
 |   Bed Leveling     |Point 2         |Do leveling at the bed corner 2                                 |
 |   Bed Leveling     |Point 3         |Do leveling at the bed corner 3                                 |
 |   Bed Leveling     |Point 4         |Do leveling at the bed corner 4                                 |
-|   Bed Leveling     |Catch Probe Z-offset|Auto Catch the probe Z offset (Display only “Auto levleing” is ON)|
-|   Bed Leveling     |Adjust the probe Z offset|Auto Catch the probe Z offset (Display only “Auto levleing” is ON)|
-|   Bed Leveling     |Auto leveling|Do auto leveling measure (Display only “Auto levleing” is ON)      |
+|   Bed Leveling     |Catch Probe Z-offset|Auto Catch the probe Z offset (Display only “Auto levleing�?is ON)|
+|   Bed Leveling     |Adjust the probe Z offset|Auto Catch the probe Z offset (Display only “Auto levleing�?is ON)|
+|   Bed Leveling     |Auto leveling|Do auto leveling measure (Display only “Auto levleing�?is ON)      |
 |                    |                |                                                                |
 |   Language         | EN/ES/RU/FR/PT | Set menu language                                              |
 |   Disable Steppers |                | Turn off the power supply to motors                            |
@@ -103,6 +120,7 @@
 |                  |Current V-TOOL     |Set current(working) V-TOOL                                                        |  
 | Configre         |Auto Retract       |Set Auto Retraction parameters                                                     |  
 |                  |Runout Sensor      |Turn ON/OFF filament run out detection feature                                     |  
+|                  |Auto Unload        |Auto unload filament when printing is abort (only works on Non-mix color hot end)  |  
 |                  |PowerLoss Recovery |Turn ON/OFF Power lost Recovery feature                                            |  
 |                  |Auto Shutdown      |Turn ON/OFF idel auto shut down feature                                            |  
 |                  |WiFi               |Turn ON/OFF WiFi feature                                                           |  
@@ -117,21 +135,22 @@
 |                  |Acceleration       |Set acceleration limiting parameters                                               |  
 |                  |Jerk               |Set Jerk parameters                                                                |  
 |                  |Step/mm            |Set Steps/mm parameters of stepping motors                                         |  
-| Preheat PLA      |Nozzle Temp        |Set nozzle temperaturewhen do “Preheat PLA” on Prepare menu                        |
-|                  |Bed Temp           |Set Bed temperature when do “Preheat PLA” on Prepare menu                          |
-|                  |Fan Speed          |Set FAN speed when do “Preheat PLA” on Prepare menu                                |
+| Preheat PLA      |Nozzle Temp        |Set nozzle temperaturewhen do “Preheat PLA�?on Prepare menu                        |
+|                  |Bed Temp           |Set Bed temperature when do “Preheat PLA�?on Prepare menu                          |
+|                  |Fan Speed          |Set FAN speed when do “Preheat PLA�?on Prepare menu                                |
 |                  |Store Settings     |Store above settings                                                               |  
-| Preheat ABS      |Nozzle Temp        |Set nozzle temperaturewhen do “Preheat ABS” on Prepare menu                        |
-|                  |Bed Temp           |Set Bed temperature when do “Preheat ABS” on Prepare menu                          |
-|                  |Fan Speed          |Set FAN speed when do “Preheat ABS” on Prepare menu                                |
+| Preheat ABS      |Nozzle Temp        |Set nozzle temperaturewhen do “Preheat ABS�?on Prepare menu                        |
+|                  |Bed Temp           |Set Bed temperature when do “Preheat ABS�?on Prepare menu                          |
+|                  |Fan Speed          |Set FAN speed when do “Preheat ABS�?on Prepare menu                                |
 |                  |Store Settings     |Store above settings                                                               |  
 | Store Settings   |                   |Save the settings                                                                  |  
 | Load Settings    |                   |Load the settings from NVRAM (maybe it has been changed by Gcode command)          |  
 | Restore Default  |                   |Reset NVRAM settings to the factory status                                         |  
 
-*Display only when “Control>> Configure >>Hotend type: mixing”, see “Control>>Configure"
+*Display only when “Control>> Configure >>Hotend type: mixing�? see “Control>>Configure"
 
 ### Tune Menu
+:warning: Tune menu only display when printing from SD card.
 ![](./LCD_MENU/9.png)
 ##### Tune Menu Description
 
@@ -143,8 +162,8 @@
 | Bed Temp         |Set Bed temperature                                                                     |
 | Fan Speed        |Set Extruder FAN Speed                                                                  |
 | Z Offset         |Tune Z offset                                                                           |
-| Mixer            |Set mixer,refer to “Control>> Mixer” Menu (only display while “Hotend type is Mixing”)  |
-| Configure        |Tune ON/OFF parts of configurations features, refer to “Control>> Configure” Menu       |
+| Mixer            |Set mixer,refer to “Control>> Mixer�?Menu (only display while “Hotend type is Mixing�?  |
+| Configure        |Tune ON/OFF parts of configurations features, refer to “Control>> Configure�?Menu       |
 
 ---
-### :blue_book: [How to upgrade firmware of DWIN LCD Screen](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/TFT-LCD/LCD-DWIN/user_guide/LCD-DWIN-Upgrade-firmware.pdf)
+### :blue_book: [How to upgrade firmware of DWIN LCD Screen](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/TFT-LCD/LCD-DWIN#update-image-data-of-dwin-lcd)
