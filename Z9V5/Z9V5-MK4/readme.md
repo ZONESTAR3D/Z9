@@ -60,7 +60,7 @@
 - :clapper: [**Installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI)
 - :art: [**Wiring diagram**](./1.Installation_and_User_Guide/Z9V5Pro_Wiring_Diagram.jpg)
 - :book: [**E4 Hotend user guide**](https://bit.ly/3dIaaF5)
-- :file_folder: [**Advanced features guide**](./1.Installation_and_User_Guide/Advances_Feature/)
+- :file_folder: [**Advanced features guide**](./1.Installation_and_User_Guide/Advance_Features.md)
 
 ### 2. Test Gcode
 #### :pencil: What Is G-code In 3D Printing?
