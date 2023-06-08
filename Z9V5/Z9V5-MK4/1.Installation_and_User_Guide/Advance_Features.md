@@ -65,6 +65,14 @@ You can also add a "M81" gcode command in the "End G-code" of the slicing softwa
 
 -----
 ### Filament Run Out Detect
+#### Introduction of Filament Run Out Sensor
+![](./Advance_Features/FROD1.jpg)
+- **LED:** Filament detection indicator light, it will light up when the filament is inserted.
+- **"IN" Connector:** Connect to  the control board or the previous FROD.
+- **"OUT" Connector:** Connect to the next FROD. Let it suspend if there is not the next one.   
+:bulb:  The filament must be inserted in the direction indicated by the arrow.
+#### Wiring diagram of Filament Run Out Sensors
+![](./Advance_Features/FRODwiring.jpg)
 #### [:clapper: Video tutorial](https://youtu.be/QCJ-6L6ze1w) 
 If there is not enough filaments left in the filament roll to complete the current printing, you can enable the ***"Runout Sensor"*** feature. The machine will pause the printing when detected the filament is run out, then you can load a new filament roll and resume the printing. What you need to do is:    
 1. Pass the filament through the **Filament Run Out Sensor**.
@@ -76,14 +84,7 @@ If there is not enough filaments left in the filament roll to complete the curre
 2. The printing pause may cause some obvious defects on the prints. 
 3. If you need to use the Filament run out detect function, you should insert fine wires on all 4 sensors. If you do not actually use 4 filaments when printing, you can cut a small segment of filaments and insert it into the shortage detection sensor. As shown in the following figure:     
 ![](./Advance_Features/FROD_dummy.png)     
-#### Introduction of Filament Run Out Sensor
-![](./Advance_Features/FROD1.jpg)
-- **LED:** Filament detection indicator light, it will light up when the filament is inserted.
-- **"IN" Connector:** Connect to  the control board or the previous FROD.
-- **"OUT" Connector:** Connect to the next FROD. Let it suspend if there is not the next one.   
-:bulb:  The filament must be inserted in the direction indicated by the arrow.
-#### Wiring diagram of Filament Run Out Sensors
-![](./Advance_Features/FRODwiring.jpg)
+
 
 -----
 ### Power Loss Recovery
