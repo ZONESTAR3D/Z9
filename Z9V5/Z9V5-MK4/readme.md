@@ -57,7 +57,7 @@
 - :book: [**Operation Guide**](./1.Installation_and_User_Guide/Operation.md)
 - :blue_book: [**Installation and user guide**](./1.Installation_and_User_Guide/Z9V5Pro-MK4_Installation_and_User_Guide_EN.pdf)
 - :book: [**LCD screen menu description**](./1.Installation_and_User_Guide/LCD_DWIN_MENU_Description.md)
-- :movie_camera: [**Installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI)
+- :clapper: [**Installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI)
 - :art: [**Wiring diagram**](./1.Installation_and_User_Guide/Z9V5Pro_Wiring_Diagram.jpg)
 - :book: [**E4 Hotend user guide**](https://bit.ly/3dIaaF5)
 - :file_folder: [**Advanced features guide**](./1.Installation_and_User_Guide/Advances_Feature/)
@@ -77,11 +77,11 @@ G-code is information, or instructions that 3d printer requires in order to prin
 ### 3. Video Tutorial  
 **NOTE: The video tutorial may be a little different with your machine because of firmware version is different, for reference only**     
 #### Installation and Operation Guide
-- [:movie_camera: **Installaltion**](https://youtu.be/Xa3Q1m6HbDI) 
-- [:movie_camera: **Turn On / Turn Off the printer**](https://youtu.be/xTlMHtxkGoY)
-- [:movie_camera: **Bed leveling**](https://youtu.be/nxzB7ho1kNo)
-- [:movie_camera: **How to load Filament - for one color printing**](https://youtu.be/6aTF5QnFhi4)
-- [:movie_camera: **How to load Filament - for multi colors printing**](https://youtu.be/FyHrAMytlT8)
+- [:clapper: **Installaltion**](https://youtu.be/Xa3Q1m6HbDI) 
+- [:clapper: **Turn On / Turn Off the printer**](https://youtu.be/xTlMHtxkGoY)
+- [:clapper: **Bed leveling**](https://youtu.be/nxzB7ho1kNo)
+- [:clapper: **How to load Filament - for one color printing**](https://youtu.be/6aTF5QnFhi4)
+- [:clapper: **How to load Filament - for multi colors printing**](https://youtu.be/FyHrAMytlT8)
 
 ### 4. Slicing
 #### :pencil: What is slicing In 3D Printing?
@@ -94,10 +94,10 @@ Slicing is a piece of software that everyone uses when creating objects and prod
 #### Slicing sotware download link and use guide
 Please download the slicing software and install to your PC, and then read the guide or video tutorial to study how to slicing.
 - [:arrow_down: **Download Slicing Software**](https://github.com/ZONESTAR3D/Slicing-Guide)
-- [:movie_camera: **How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)  
+- [:clapper: **How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)  
 - [**:book: PrusaSlicer User Manual**](./4.Slicing/readme.md)  [**:blue_book: pdf file**](./4.Slicing/readme.pdf)  
-- [:movie_camera: **Slicing guide - for one color printing**](https://youtu.be/SgyXD-kQIeo4)  
-- [:movie_camera: **Slicing guide - for multi colors printing**](https://youtu.be/AIKrszmxvE4)    
+- [:clapper: **Slicing guide - for one color printing**](https://youtu.be/SgyXD-kQIeo4)  
+- [:clapper: **Slicing guide - for multi colors printing**](https://youtu.be/AIKrszmxvE4)    
 :star2: **For the newest slicing guide and more slicing software user guide, please [:point_right: click here](https://github.com/ZONESTAR3D/Slicing-Guide)**
 
 
@@ -109,9 +109,9 @@ Please download the slicing software and install to your PC, and then read the g
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
 
 ### 6. FAQ
-- :movie_camera: [**How to replace nozzle**](https://youtu.be/N3-aCQg5XYI)
-- :movie_camera: [**Machine auto test**](https://youtu.be/Mf92BlmKA0A)
-- :movie_camera: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)    
+- :clapper: [**How to replace nozzle**](https://youtu.be/N3-aCQg5XYI)
+- :clapper: [**Machine auto test**](https://youtu.be/Mf92BlmKA0A)
+- :clapper: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)    
 ##### For more FAQ, please refer to [**here**](./6.FAQ/readme.md)
 
 ### 7. Others
@@ -119,22 +119,17 @@ Please download the slicing software and install to your PC, and then read the g
 
 -----
 ## Advanced features
-### Bed auto leveling
-[:movie_camera: **Video tutorial**](https://youtu.be/Zoyl6PybsUk)     
-Bending of the 3D printer's hotbed is unavoidable. When you are printing a print with a large bottom, you need to use the hotbed auto-leveling feature to correct the curvature of the hotbed. For how to use, please refer to [:book: **User Guide**](./1.Installation_and_User_Guide/Advances_Feature/Bed_Auto_Leveling).
-### Power auto shutdown after print finished
-[:movie_camera: **Video tutorial**](https://youtu.be/SJLpmJL-tG4)     
+### Bed auto leveling 
+Bending of the 3D printer's hotbed is unavoidable. When you are printing a print with a large bottom, you need to use the hotbed auto-leveling feature to correct the curvature of the hotbed. For how to use, please refer to [:book: **Detail User Guide**](./1.Installation_and_User_Guide/Advance_Features/Bed_Auto_Leveling).
+### Power auto shutdown after print finished  
 Usually 3D printing takes a long time, you can enable this feature to let the machine turn off automatically after the printing is finished to save energy.
-### Filament run out detect
- [:movie_camera: **Video tutorial**](https://youtu.be/QCJ-6L6ze1w).     
-Sometimes there is not enough filaments left in the filament roll to complete the current printing. At this time, you can pass the filament through the Filament-Run-Out-Detector and enable the **run-out** feature on LCD screen. The machine can detect that the filament are out and pause the printing, and then resume the printing process after you replace a new filament roll. 
-  :warning: If you're sure that the filament is enough, do not pass the filament through the **Filament Run Out Sensor**.       
-  :warning: If the position of the pause after detecting the filament run out is just on the surface of the prints, the pause may cause some obvious defects on the prints.  
+[:book: **Detail User Guide**](./1.Installation_and_User_Guide/Advance_Features.md).
+### Filament run out detect  
+Sometimes there is not enough filaments left in the filament roll to complete the current printing. At this time, you can pass the filament through the Filament Run Out Sensor and enable the **Runout Sensor** feature on LCD screen. The machine can detect that the filament spool are out and pause the printing, and then resume the printing process after you replace a new filament roll.     
+[:book: **Detail User Guide**](./1.Installation_and_User_Guide/Advance_Features.md).
 ### Power losss recovery
-[:movie_camera: **Video tutorial**](https://youtu.be/f-PpasByiiE)    
 If your power supply network has frequent power outages, you can enable the automatic power losss recovery function before start printing. When the power goes out and it resumed, you can press the DC switch to turn on the power of the machine, and then the machine will automatically detect the printing breakpoint and provide you with whether you need to continue printing.    
-  :warning: Breakpoints data and gcode files will be stored on the SD, must keep the SD card in socket when turn on the machine after power resumed.       
-  :warning: Power losss recovery feature may introduce some imperfections on the prints when printing is resumed.
+[:book: **Detail User Guide**](./1.Installation_and_User_Guide/Advance_Features.md).
 
 ------
 ## Optional upgrade features
