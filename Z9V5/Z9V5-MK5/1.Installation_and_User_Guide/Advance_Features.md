@@ -69,13 +69,13 @@ You can also add a "M81" gcode command in the "End G-code" of the slicing softwa
 If there is not enough filaments left in the filament roll to complete the current printing, you can enable the ***"Runout Sensor"*** feature. The machine will pause the printing when detected the filament is run out, then you can load a new filament roll and resume the printing. What you need to do is:    
 1. Pass the filament through the **Filament Run Out Sensor**.
 2. Turn on the **run out** feature on LCD screen.      
-![](./Advance_FeaturesFROD_Filamentin.png)
+![](./Advance_Features/FROD_Filamentin.png)
 #### :warning: Notice
 1. If you're sure that the filament is enough, do not pass the filament through the **Filament Run Out Sensor**.         
-![](./Advance_FeaturesFROD_NoFilament.png)     
+![](./Advance_Features/FROD_NoFilament.png)     
 2. The printing pause may cause some obvious defects on the prints. 
 3. If you need to use the Filament run out detect function, you should insert fine wires on all 4 sensors. If you do not actually use 4 filaments when printing, you can cut a small segment of filaments and insert it into the shortage detection sensor. As shown in the following figure:     
-![](./Advance_FeaturesFROD_dummy.png)     
+![](./Advance_Features/FROD_dummy.png)     
 #### Introduction of Filament Run Out Sensor
 ![](./Advance_Features/FROD1.jpg)
 - **LED:** Filament detection indicator light, it will light up when the filament is inserted.
