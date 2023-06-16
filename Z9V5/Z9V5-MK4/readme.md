@@ -60,6 +60,7 @@
 - :clapper: [**Installation video tutorial**](https://youtu.be/Xa3Q1m6HbDI)
 - :art: [**Wiring diagram**](./1.Installation_and_User_Guide/Z9V5Pro_Wiring_Diagram.jpg)
 - :book: [**E4 Hotend user guide**](https://bit.ly/3dIaaF5)
+- :book: [**Print From PC**](./1.Installation_and_User_Guide/PrintFromPC/readme.md)
 - :file_folder: [**Advanced features guide**](./1.Installation_and_User_Guide/Advance_Features.md)
 
 ### 2. Test Gcode

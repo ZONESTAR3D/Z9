@@ -70,6 +70,7 @@ Read the below guide and follow the steps to level the bed, load filaments and p
 You can also read the following documents to gain a deeper understanding of the extruder (hot end and print head) used by your machine, as well as some advanced features of the machine.
 - [:book: M4V6 Hotend introduction][M4V6]
 - [:book: Mix color feature use guide][Mix_Feature]
+- [:book: Print From PC][PrintFromPC]
 - [:book: Advance features use guide][Advance_Features]
 
 ## 3. Test G-code file
@@ -130,6 +131,7 @@ We have developed some scalable features for the machine. If you are interested 
 [Operation]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Operation.md
 [M4V6]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6
 [Mix_Feature]: https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color
+[PrintFromPC]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/PrintFromPC
 [Advance_Features]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/Advance_Features.md
 [slicing]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/4.Slicing
 [OptionalFeatures]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/OptionalFeatures.md

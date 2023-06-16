@@ -1,2 +1,0 @@
-How to print from PC, please refer to this link:
-[https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/PrintFromPC](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5/1.Installation_and_User_Guide/PrintFromPC)
