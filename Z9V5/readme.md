@@ -26,16 +26,16 @@
 [![](../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
 -----
-### Documents link for User Manual of ZONESTAR Z9V5 3D Printer 
+### Online documents link for ZONESTAR Z9V5Pro 3D Printer 
+#### [:file_folder: Z9V5Pro-MK6](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6)
 #### [:file_folder: Z9V5Pro-MK5](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5)
 #### [:file_folder: Z9V5Pro-MK4](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4)
 #### [:file_folder: Z9V5Pro-MK3](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3)
 #### [:file_folder: Z9V5Pro-MK2](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2)
 #### [:file_folder: Z9V5Pro-MK1](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1)
-#### [:file_folder: Z9V5](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1)
 
 -----
-### How to distinguish Z9V5-MK1/MK2/MK3/MK4/MK5
+### How to distinguish Z9V5-MK1/MK2/MK3/MK4/MK5/MK6
 You can distinguish MK1/MK2/MK3/MK4 by product serial number. There is a white sticker on the power supply, which indicates the product serial number.  
 ![](Z9V5_SN.jpg)
 - **Z9V5-MK1:** Serial Number is **xxxxxxxxxx**   
@@ -43,13 +43,21 @@ You can distinguish MK1/MK2/MK3/MK4 by product serial number. There is a white s
 - **Z9V5-MK3:** Serial Number is **MK3-xxxxxxxxxx**  
 - **Z9V5-MK4:** Serial Number is **MK4-xxxxxxxxxx**  
 - **Z9V5-MK5:** Serial Number is **MK5-xxxxxxxxxx**  
+- **Z9V5-MK6:** Serial Number is **MK6-xxxxxxxxxx**  
 
-### What's different on Z9V5-MK1/MK2/MK3/MK4/MK5
+### What's different on Z9V5-MK1/MK2/MK3/MK4/MK5/MK6
+- **Z9V5-MK6 mainly improves than Z9V5-MK5**:    
+1. Upgrade control board to ZM3E4 V3.0, it's able to support sensor-less home.
+2. X/Y/Z motor drivers replaced to TMC2208.    
+:WARNING:ATTETION PLEASE! Z9V5-MK6 used different firmawre with Z9V5-MK5!     
+    - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6)    
+ 
+
+
 - **Z9V5-MK5 mainly improves than Z9V5-MK4**:  
 Used M4V6 (the 6th version 4-IN-1-OUT mix color) hotend as default hotend to replace of the E4 hotend.   
 **❓[What's different between M4V6 hotend and E4 hotend](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/FAQ_M4E4.md#whats-different-between-e4-and-m4-hotend).**
     - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5)    
-    - :arrow_down:[**Download all Z9V5-MK4 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK5)       
 
 
 - **Z9V5-MK4 mainly improves than Z9V5-MK3**:  
@@ -58,13 +66,14 @@ Used M4V6 (the 6th version 4-IN-1-OUT mix color) hotend as default hotend to rep
 3. Bed leveling sensor used PL-08N.
 4. Optimized structure on top assembly, filament run out sensor case, etc..    
     - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4)    
-    - :arrow_down:[**Download all Z9V5-MK4 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK4)  
+
+
 
 -  **Z9V5-MK3 mainly improves than Z9V5-MK2**:  
 1. Upgraded bed leveling sensor to [**ZLSensor**](https://aliexpress.com/item/1005002865311470.html) from [**PL-08N**](https://www.aliexpress.com/item/2255800409994958.html) bed leveling sensor. ZLSensor can probing the glass directly.  
 2. Upgraded the extruder motor drivers to [**TMC2225**](https://aliexpress.com/item/1005003270721219.html) from [**A4988**](https://www.aliexpress.com/item/2255800771058461.html).
     - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3)
-    - :arrow_down:[**Download all Z9V5-MK3 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK3)   
+
 
 - **Z9V5-MK2 mainly improves than Z9V5-MK1**:  
 1. **Hot end interface** When shipping, the print head (hotend assembly) is separated from the backplane. There are 5 connectors behind the backplane, which can connect the wiring of the hot end without opening the control box. It will help switch between [**different types of hotends**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND) quickly.    
@@ -76,11 +85,10 @@ Used M4V6 (the 6th version 4-IN-1-OUT mix color) hotend as default hotend to rep
 :warning: **NOTE** :warning:   
 Due to the shortage of chips, a small numbers of **Z9V5-MK2** used **ZM3E4V1** control board. Please check the product serial number (a white lable pasted on the power supply). If the product with serial number **V1xxxxxxxx** , it means your machine used a **ZM3E4V1** control board. Basically ZM3E4V1 has the same features with ZM3E4V2.        
     - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2)  
-    - :arrow_down: [**Download all Z9V5-MK2 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK2) 
+
 
 **Z9V5-MK1 is the first version Z9V5**
 - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1) 
-- :arrow_down: [**Download all Z9V5-MK1 files**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK1) 
 
 -----
 ### Troubleshootings
