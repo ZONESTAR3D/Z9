@@ -104,7 +104,7 @@ Firmware source code is the core part of the firmware. Our firmware source code 
 You can download firmware bin file or source code from the below link
 - **[:arrow_right: Download firmware bin file for Z9V5Pro-MK5](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK5)**   
 - **[:arrow_right: Download firmware bin file for Z9V5Pro-MK6](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK6)**   
-:warning: About what's different between Z9V5Pro-MK5 and Z9V5Pro-MK6, please refer to [**here**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5#whats-different-on-z9v5-mkn).   
+:warning: About what's different between Z9V5Pro-MK5 and Z9V5Pro-MK6, please refer to [**here**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5#whats-different-on-z9v5-mk1mk2mk3mk4mk5mk6).   
 - **[:arrow_right: Download firmware source code](https://github.com/ZONESTAR3D/source-code-for-3d-printer)**
 
 ## 6. Troubleshooting
