@@ -46,10 +46,10 @@ You can distinguish MK1/MK2/MK3/MK4 by product serial number. There is a white s
 - **Z9V5-MK6:** Serial Number is **MK6-xxxxxxxxxx**  
 
 -----
-### What's different on Z9V5-MK1 to Z9V5-MK1 
+### What's different on Z9V5-MK1/MK2/MK3/MK4/MK5/MK6
 - **Z9V5-MK6 mainly improves than Z9V5-MK5**:    
-1. Upgrade control board to ZM3E4 V3.0, it's able to support sensor-less home.
-2. X/Y/Z motor drivers replaced to TMC2208.    
+1. Upgrade control board to ZM3E4 V3.0.
+2. X/Y/Z motor drivers replaced to TMC2208 and extruders motor drivers replace to A4988.    
 :WARNING:ATTETION PLEASE! Z9V5-MK6 used different firmawre with Z9V5-MK5!     
     - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6)    
 
