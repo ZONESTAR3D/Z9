@@ -27,7 +27,7 @@
 
 -----
 ### Online documents link for ZONESTAR Z9V5Pro 3D Printer 
-#### [:file_folder: Z9V5Pro-MK6](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6)
+<!-- #### [:file_folder: Z9V5Pro-MK6](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6) -->
 #### [:file_folder: Z9V5Pro-MK5](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5)
 #### [:file_folder: Z9V5Pro-MK4](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4)
 #### [:file_folder: Z9V5Pro-MK3](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3)
@@ -43,13 +43,14 @@ You can distinguish MK1/MK2/MK3/MK4 by product serial number. There is a white s
 - **Z9V5-MK3:** Serial Number is **MK3-xxxxxxxxxx**  
 - **Z9V5-MK4:** Serial Number is **MK4-xxxxxxxxxx**  
 - **Z9V5-MK5:** Serial Number is **MK5-xxxxxxxxxx**  
-- **Z9V5-MK6:** Serial Number is **MK6-xxxxxxxxxx**  
+<!-- - **Z9V5-MK6:** Serial Number is **MK6-xxxxxxxxxx**   -->
 
 -----
-### What's different on Z9V5-MK1/MK2/MK3/MK4/MK5/MK6
-- **Z9V5-MK6 mainly improves than Z9V5-MK5**:    
-1. Upgrade control board to ZM3E4 V3.0.
-2. X/Y/Z motor drivers replaced to TMC2208 and extruders motor drivers replace to A4988.    
+<!-- ### What's different on Z9V5-MK1/MK2/MK3/MK4/MK5/MK6 -->
+<!-- - **Z9V5-MK6 mainly improves than Z9V5-MK5**:     -->
+<!-- 1. Upgrade to Dual Gear Extruders (2x BMG left hand and 2x BMG right hand).-->
+<!-- 2. Upgrade to PEI spring sheet hot bed.-->
+<!-- 3. Upgrade control board to ZM3E4 V3.0. -->
 :WARNING:ATTETION PLEASE! Z9V5-MK6 used different firmawre with Z9V5-MK5!     
     - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6)    
 
