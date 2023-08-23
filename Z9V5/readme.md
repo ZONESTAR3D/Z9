@@ -51,8 +51,8 @@ You can distinguish MK1/MK2/MK3/MK4 by product serial number. There is a white s
 <!-- 1. Upgrade to Dual Gear Extruders (2x BMG left hand and 2x BMG right hand).-->
 <!-- 2. Upgrade to PEI spring sheet hot bed.-->
 <!-- 3. Upgrade control board to ZM3E4 V3.0. -->
-:WARNING:ATTETION PLEASE! Z9V5-MK6 used different firmawre with Z9V5-MK5!     
-    - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6)    
+<!-- :WARNING:ATTETION PLEASE! Z9V5-MK6 used different firmawre with Z9V5-MK5!      -->
+<!--    - :green_book: [**View Documents link**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6)     -->
 
 - **Z9V5-MK5 mainly improves than Z9V5-MK4**:  
 Used M4V6 (the 6th version 4-IN-1-OUT mix color) hotend as default hotend to replace of the E4 hotend.   
