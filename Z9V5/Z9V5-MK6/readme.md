@@ -37,7 +37,7 @@ First, please refer to the following documents and videos to complete the instal
 - [:blue_book: Installation Guide PDF file](./1.Installation/Installation.pdf) 
 - [:clapper: Installation Guide Video tutorial](https://youtu.be/TGHUVzV1Pg4)   
 ### Wiring    
-- [:book: Wiring Guide Online Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/1.Installation/Wiring/Wiring.md) 
+- [:book: Wiring Guide Online Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/1.Installation/Wiring.md) 
 - [:blue_book: Wiring Guide PDF file](./1.Installation/Wiring.pdf) 
 - [:art: Wiring diagram](./1.Installation/Z9V5Pro_Wiring_Diagram.jpg) 
 - [:clapper: Wiring Video tutorial](https://youtu.be/tQQNLDOpdQU)
