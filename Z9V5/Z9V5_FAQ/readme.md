@@ -83,4 +83,5 @@ The parts in the machine that can carry out the exchange test include:
 - **[All Problems & Solutions](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/) @all3DP**
 
 -----
-## :email: If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team : support@zonestar3d.com .
+## If you can't find a solution to solve your problem after readed the FAQ , please contact our technical support team by email. :email: support@zonestar3d.com .
+
