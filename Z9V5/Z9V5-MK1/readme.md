@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK1?_x_tr_sl=en&_x_tr_tl=es)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK1?_x_tr_sl=en&_x_tr_tl=fr)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK1?_x_tr_sl=en&_x_tr_tl=pt)
@@ -17,7 +17,7 @@
 [![](../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK1?_x_tr_sl=en&_x_tr_tl=iw)
 [![](../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK1?_x_tr_sl=en&_x_tr_tl=ar)
 [![](../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK1?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK1?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK1?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
 
 
 --------
@@ -30,7 +30,7 @@
 
 --------
 # Documents
-## [1. Installation and User Guide](./1.%20Installation%20and%20User%20Guide/)
+## [1. Installation and User Guide](./1.Installation%20and%20User%20Guide/)
 **Included:**  
 1. Installation and quick user guide  
 2. LCD screen menu description  
@@ -38,7 +38,7 @@
 4. Wiring Diagram  
 5. Operature guide for mixing color printer    
 
-## [2. Operation Guide](./2.%20Operation%20Guide/)
+## [2. Operation Guide](./2.Operation%20Guide/)
 **Included:**  
 1. USB driver  
 2. How to load and unload filament guide  
@@ -46,13 +46,13 @@
 4. Advanced features guide  
 5. Bed auto leveling feature guide  
 
-## [3. Slicing](./3.%20Slicing/readme.md)
+## [3. Slicing](./3.Slicing/readme.md)
 **Included slicing guide, for the newest slicing guide, please click here [slicing guide](https://github.com/ZONESTAR3D/Slicing-Guide)**
 
-## [4. Test gcode](./4.%20Test%20gcode/readme.md)
+## [4. Test gcode](./4.Test%20gcode/readme.md)
 **Included some testing gcode files**  
 
-## [5. FAQ](./5.%20FAQ/)
+## [5. FAQ](./5.FAQ/)
 **Included troubleshooting and FAQ files**   
 **[Z9V5-FAQ](../Z9V5_FAQ/readme.md)**
 
@@ -63,7 +63,7 @@
 > **Firmware bin file** is the exact memory that is written to the embedded flash.  
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
 
-## [7. Others](./7.%20Others/)
+## [7. Others](./7.Others/)
 **[Parts stl files for this kit](./7.%20Others/readme.md)**   
 
 ## 8.Video tutorial  
@@ -128,7 +128,7 @@ We will launch more hot ends in the future, so stay tuned. If you have any sugge
 - [**3-IN-3-OUT hotend**](https://www.aliexpress.com/item/1005001275429959.html)
 ### Bed leveling sensor
 **NOTE: It is stonger recommend to upgrade to ZL-Sensor if your kit is Z9V5Pro-MK1 and Z9V5Pro-MK2**  
-- [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed%20Leveling%20Sensor)    
+- [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed_Leveling_Sensor)    
 - [**ZLSensor**](https://www.aliexpress.com/item/1005002865311470.html)  
 - [**3DTouch**](https://www.aliexpress.com/item/1005001464420529.html)
 
