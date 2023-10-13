@@ -47,7 +47,7 @@
 5. Bed auto leveling feature guide  
 
 ## [3. Slicing](./3.Slicing/readme.md)
-**Included slicing guide, for the newest slicing guide, please click here [slicing guide](https://github.com/ZONESTAR3D/Slicing-Guide)**
+**For the newest slicing guide, please refer to [here](https://github.com/ZONESTAR3D/Slicing-Guide)**.
 
 ## [4. Test gcode](./4.Test%20gcode/readme.md)
 **Included some testing gcode files**  
