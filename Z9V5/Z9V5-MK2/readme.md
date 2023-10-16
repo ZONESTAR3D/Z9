@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK2?_x_tr_sl=en&_x_tr_tl=es)
 [![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK2?_x_tr_sl=en&_x_tr_tl=fr)
 [![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK2?_x_tr_sl=en&_x_tr_tl=pt)
@@ -17,7 +17,9 @@
 [![](../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK2?_x_tr_sl=en&_x_tr_tl=iw)
 [![](../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK2?_x_tr_sl=en&_x_tr_tl=ar)
 [![](../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK2?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK2?_x_tr_sl=en&_x_tr_tl=zh-CN)
+[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_MK2?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
+
+# User Guide for ZONESTAR Z9V5Pro-MK2 3D Printer 
 
 --------
 # :warning:NOTICE

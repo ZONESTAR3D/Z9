@@ -1,5 +1,5 @@
 
-# Z9V5Pro-MK6 User Manual
+# User Guide for ZONESTAR Z9V5Pro-MK6 3D Printer 
 
 -----
 ### :globe_with_meridians: Translate
