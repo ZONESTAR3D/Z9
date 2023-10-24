@@ -26,7 +26,7 @@
 [![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
 
 
-# User Guide for ZONESTAR Z9V5Pro-MK5 3D Printer 
+# Z9V5Pro-MK5 User Guide
 
 -----
 ### :globe_with_meridians: Translate
@@ -115,9 +115,7 @@ A slicer is toolpath generation software used in the majority of 3D printing pro
 Firmware bin file is the exact memory that is written to the embedded flash.        
 Firmware source code is the core part of the firmware. Our firmware source code is base on [**marlin**](https://www.marlinfw.org).  
 You can download firmware bin file or source code from the below link
-- **[:arrow_right: Download firmware bin file for Z9V5Pro-MK5](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK5)**   
-- **[:arrow_right: Download firmware bin file for Z9V5Pro-MK6](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK6)**   
-:warning: About what's different between Z9V5Pro-MK5 and Z9V5Pro-MK6, please refer to [**here**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5#whats-different-on-z9v5-mk1mk2mk3mk4mk5mk6).   
+- **[:arrow_right: Download firmware bin file](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK5)**    
 - **[:arrow_right: Download firmware source code](https://github.com/ZONESTAR3D/source-code-for-3d-printer)**
 
 ## 6. Troubleshooting
