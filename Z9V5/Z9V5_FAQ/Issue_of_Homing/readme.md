@@ -62,12 +62,13 @@ If your problem is not as the most common problems, please follow the [:movie_ca
 :warning: Please pay attention to check the Z limit switch circuit board for damage or accidental poor soldering.   
 ![](Z_endstop_wring.jpg) ![](Z_endstop.jpg)
 - **ZL/ZR Motor don't work?**  
-1. **Check ZL/ZR motor wiring. **  
+1. **Check if ZL/ZR motor wiring well.**  
 ![](Z_motor_wring.jpg)  
-2. **Check ZL/ZR Motor wiring on the control boad.**   
-![](Z_wiring_board.jpg)
-3. **Check the screws on the coupling which to fix the motor shaft and lead screws.**
+2. **Check the screws on the coupling which to fix the motor shaft with the lead screws, the screws may have been loosened during transportation.**     
 ![](Z_coupling_screw.jpg)
+3. **Check ZL/ZR Motor wiring on the control board.**   
+![](Z_wiring_board.jpg)
+
 
 -----
 ### :email: If you can't find a solution to solve your problem after readed this document, please contact our technical support team : support@zonestar3d.com .
