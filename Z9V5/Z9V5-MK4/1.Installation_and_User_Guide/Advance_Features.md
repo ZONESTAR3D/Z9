@@ -1,4 +1,4 @@
-### :globe_with_meridians: Choose Language (Translated by google)
+<!-- ### :globe_with_meridians: Choose Language (Translated by google)
 [![](../../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advance_Features.md?_x_tr_sl=en&_x_tr_tl=es)
 [![](../../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advance_Features.md?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advance_Features.md?_x_tr_sl=en&_x_tr_tl=fr)
@@ -25,7 +25,7 @@
 [![](../../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advance_Features.md?_x_tr_sl=en&_x_tr_tl=pt)
 [![](../../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/1.Installation_and_User_Guide/Advance_Features.md?_x_tr_sl=en&_x_tr_tl=zh-CN)
 
------
+----- -->
 ## Advance features
 ### Contents
 - [**Bed auto leveling Feature**](#bed-auto-leveling)
@@ -80,10 +80,10 @@ If there is not enough filaments left in the filament roll to complete the curre
 2. Turn on the **run out** feature on LCD screen.      
 ![](./Advance_Features/FROD_Filamentin.png)
 #### :warning: Notice
-1. If you're sure that the filament is enough, do not pass the filament through the **Filament Run Out Sensor**.         
-![](./Advance_Features/FROD_NoFilament.png)     
-2. The printing pause may cause some obvious defects on the prints. 
-3. If you need to use the Filament run out detect function, you should insert fine wires on all 4 sensors. If you do not actually use 4 filaments when printing, you can cut a small segment of filaments and insert it into the shortage detection sensor. As shown in the following figure:     
+1. The printing pause may cause some obvious defects on the prints.    
+2. If you're sure that the filament is enough when printing the current gcode file, do not pass the filament through the **Filament Run Out Sensor** and turn off the **run out** feature on LCD screen.         
+![](./Advance_Features/FROD_NoFilament.png)      
+3. If you need to use the Filament run out detect function, you should insert filaments on all 4 sensors. If you do not actually use 4 filaments when printing, please cut a small filament and insert it into the **Filament Run Out Sensor** of the unused extruders. As shown in the following figure:     
 ![](./Advance_Features/FROD_dummy.png)     
 
 -----
