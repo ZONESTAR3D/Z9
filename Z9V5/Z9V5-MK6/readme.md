@@ -12,12 +12,14 @@ We provide online documentation for files precisely because it is easy to transl
 #### [![](pdf.jpg)PDF file of this page](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/readme.pdf)
 
 ------
-## :warning:WARNING:warning:
-#### :loudspeaker:If you are a beginner of 3d printer, please carefully read the Step-by-Step Guide, and following the steps to do.  If you are experienced on 3d printing, please also briefly read the Step-by-Step Guide and ensure that you have known how to use the mixing color hotend correctlly.
-#### :loudspeaker: All 4 filaments need to be loaded the hotend whatever printing one or multi color properly, incorrect operation may block the mixing color hotend. If the hot end blockage caused by incorrect operation, it is not covered by the warranty.
-#### :loudspeaker: DONOT pull out the "inner PTFE tubes" (the 4 white tubes with black fittings) from the M4V6 hot end.
-- [:book: Step-by-Step Guide Online Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/step_by_step.md) 
-- [:blue_book: Step-by-Step Guide PDF file](./step_by_step.pdf) 
+## :warning: ATTENTION PLEASE :warning:
+#### :loudspeaker: Before using the machine, please read [:book:"Precautions for using M4V6"](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_Precaution.md) carefully.
+#### :loudspeaker: Must load 4 filaments onto the M4V6 hotend simultaneously, incorrect operationa may block the mix color hotend. If the hot end blockage caused by incorrect operation, it is not covered by the warranty. For how to load filaments, please refer to [:book: this guide](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK6/2.Operation/Operation.md#load-filaments).
+#### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [Step-by-Step Guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/step_by_step.md), and following the steps to do.   
+- [:book: **Precautions for using M4V6**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_Precaution.md)
+- [:book: **How to load filaments correctly**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_Precaution.md)
+- [:book: **Step-by-Step Guide**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/step_by_step.md) 
+<!-- - [:blue_book: Step-by-Step Guide PDF file](./step_by_step.pdf)  -->
 
 ------
 ## :book: Contents
