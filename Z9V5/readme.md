@@ -1,31 +1,28 @@
 # User Guide for ZONESTAR Z9V5 3D Printer 
 
 -----
-### :globe_with_meridians: Translate
-We provide online documentation for files precisely because it is easy to translate into languages you are familiar with. Below, we list some common browser translation add-ons for your reference.
+## Contents
+- **[Translate this page](#translate-this-page)**
+- **[User Guide links](#link-to-user-guide-for-z9v5pro-3d-printers)**
+- **[What's different on Z9V5-MK1/MK2/MK3/MK4/MK5/MK6](#whats-different-on-z9v5-mk1mk2mk3mk4mk5mk6)**
+- **[How to distinguish Z9V5-MK1/MK2/MK3/MK4/MK5/MK6](#how-to-distinguish-z9v5-mk1mk2mk3mk4mk5mk6)**
+- **[Troubleshooting Manual](#troubleshooting)**
+
+-----
+### :globe_with_meridians: Translate this page
+We provide online documentation because it is easily translated into a language you are familiar with. Here are some common browser translation plug-ins for your reference.
 - [**Windows Edge Translate Add-on**](https://microsoftedge.microsoft.com/addons/detail/edge-translate/bfdogplmndidlpjfhoijckpakkdjkkil?hl=en-US)    
 - [**Firefox Translations Add-on**](https://support.mozilla.org/en-US/kb/firefox-translations-add-on?redirectslug=firefox-translations&redirectlocale=en-US)
 - [**Google Translate Chrome Extension**](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 
 -----
-### User Guide for Z9V5Pro 3D Printer 
-- :file_folder: **[Z9V5Pro-MK6 User Guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6)**    
-- :file_folder: **[Z9V5Pro-MK5 User Guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5)**    
-- :file_folder: **[Z9V5Pro-MK4 User Guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4)**    
-- :file_folder: **[Z9V5Pro-MK3 User Guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3)**    
-- :file_folder: **[Z9V5Pro-MK2 User Guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2)**    
-- :file_folder: **[Z9V5Pro-MK1 User Guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1)**    
-
------
-### How to distinguish Z9V5-MK1/MK2/MK3/MK4/MK5/MK6
-You can distinguish MK1/MK2/MK3/MK4 by product serial number. There is a white sticker on the power supply, which indicates the product serial number.  
-![](Z9V5_SN.jpg)
-- **Z9V5-MK1:** Serial Number is **xxxxxxxxxx**   
-- **Z9V5-MK2:** Serial Number is **V1-xxxxxxxxxx** and **V2-xxxxxxxxxx**    
-- **Z9V5-MK3:** Serial Number is **MK3-xxxxxxxxxx**  
-- **Z9V5-MK4:** Serial Number is **MK4-xxxxxxxxxx**  
-- **Z9V5-MK5:** Serial Number is **MK5-xxxxxxxxxx**  
-- **Z9V5-MK6:** Serial Number is **MK6-xxxxxxxxxx**  
+### Link to user guide for Z9V5Pro 3D Printers 
+- :file_folder: **Z9V5Pro-MK6: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6**    
+- :file_folder: **Z9V5Pro-MK5: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK5**    
+- :file_folder: **Z9V5Pro-MK4: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4**    
+- :file_folder: **Z9V5Pro-MK3: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK3**    
+- :file_folder: **Z9V5Pro-MK2: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK2**    
+- :file_folder: **Z9V5Pro-MK1: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1**    
 
 -----
 ### What's different on Z9V5-MK1/MK2/MK3/MK4/MK5/MK6
@@ -66,7 +63,16 @@ Due to the shortage of chips, a small numbers of **Z9V5-MK2** used **ZM3E4V1** c
 :file_folder: [**Z9V5-MK1 User Guide**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK1) 
 
 -----
+### How to distinguish Z9V5-MK1/MK2/MK3/MK4/MK5/MK6
+You can distinguish MK1/MK2/MK3/MK4 by product serial number. There is a white sticker on the power supply, which indicates the product serial number.  
+![](Z9V5_SN.jpg)
+- **Z9V5-MK1:** Serial Number is **xxxxxxxxxx**   
+- **Z9V5-MK2:** Serial Number is **V1-xxxxxxxxxx** and **V2-xxxxxxxxxx**    
+- **Z9V5-MK3:** Serial Number is **MK3-xxxxxxxxxx**  
+- **Z9V5-MK4:** Serial Number is **MK4-xxxxxxxxxx**  
+- **Z9V5-MK5:** Serial Number is **MK5-xxxxxxxxxx**  
+- **Z9V5-MK6:** Serial Number is **MK6-xxxxxxxxxx**  
+
+-----
 ### Troubleshooting
-If you have any problem when installing and using Z9V5, please read the [**:book:Document of Z9V5 Troubleshooting**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ/readme.md) to find a solution a solution first.
-
-
+If you have any problem when installing and using Z9V5, please read the [**:book: Z9V5Pro Troubleshooting Manual**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ/readme.md) to find a solution a solution first.
