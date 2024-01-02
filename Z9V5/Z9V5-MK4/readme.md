@@ -135,56 +135,7 @@ If your power supply network has frequent power outages, you can enable the auto
 
 ------
 ## Optional upgrade features
-### :new: Linear rail upgrade kit
-#### By upgrading this item, the printing quality and stability will be improved, and it will help improve the flatness of the hot bed.
-- **:book: [User guide](https://bit.ly/3qg5ht9)**  
-- **:gift: [Buy in Offcial online store](https://bit.ly/43qQNVC) / [Buy in Aliexpress](https://www.aliexpress.us/item/1005005599988527.html)**
+We have developed some scalable features for the machine. If you are interested in these features, please click the below link to know more detailed.    
+**[:arrow_right:Optional upgrade features][OptionalFeatures]**.
 
-### :new: Large printing size upgrade kit
-#### By upgrading this item, the build volume of Z9V5Pro will be extended to 500x500x400mm
-- **:book: [User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Z9V5_500x500)**  
-- **:gift: [Buy in Offcial online store](http://bit.ly/3ZMDJI0) / [Buy in Aliexpress](https://www.aliexpress.us/item/3256805439021576.html)**
-
-### :+1: Mix color hotend
-#### By upgrading this item, Z9V5 can support gradient color printing and printing more than 4 colors 3d objects.   
-- **:book: [User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6/readme.md)**
-- **:gift: [Buy in Offcial online store](https://bit.ly/3QhWJtf) / [Buy in Aliexpress](https://bit.ly/3GD0at8)**   
-
-### :+1: WiFi wireless control module
-#### By upgrading this item, you can remote control your 3d printer by your PC or Mobile Phone.    
-- **:book: [User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/WiFi)**    
-- **:gift: [Buy in Offcial online store](https://bit.ly/3rB7mx1) / [Buy in Aliexpress](https://bit.ly/3i7aX4o)**   
-
-### :fire: Direct drive extruder
-#### By upgrading this item, you can print flexible filaments (such as TPU). 
-- **:book: [User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Direct%20Drive%20Extrruder)**
-- **:gift: [Buy in Offcial online store](https://bit.ly/3CA0QvV) / [Buy in Aliexpress](https://bit.ly/3TZxkGp)**   
-
-### :fire: High flow Hotend
-#### By upgrading this item, the machine can print faster and support more types of high temperature filaments. 
-- **:gift: [Buy in Offcial online store](http://bit.ly/3i2HNUu) / [Buy in Aliexpress](https://bit.ly/3RF7ciR)**  
-
-### :fire: Laser engine
-#### By upgrading this item, you can turn your 3D printer into a simple laser engraving machine. 
-- **:book: [User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Laser%20Engraving)** 
-- **:gift: [Buy in Offcial online store](http://bit.ly/3IbekCr) / [Buy in Aliexpress](http://bit.ly/3G3cJw1)**  
-
-### :cool: PEI Spring Steel Sheet Hotbed Sticker
-#### PEI Spring Steel Sheet Hotbed Sticker is more durable than the original hot bed sticker. With the single side smooth hot bed facing up, it can also make the bottom of the print more smooth.
-- **:gift: [Buy in Offcial online store](http://bit.ly/3GbI9Sr) / [Buy in Aliexpress](https://bit.ly/3VkmXOi)**  
-
-### :cool: Automatic Repeat Printing Module
-#### By upgrading this item, the Z9V5 can realize continuous automatic printing 3d prints. 
-- **:book: [User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Auto_Repeat_Printing)**   
-- **:gift: [Buy in Offcial online store](http://bit.ly/3Gsi5SS) / [Buy in Aliexpress](http://bit.ly/3Iff8Xg)**  
-
-### :cool: More types of Hotend / Extruder
-#### Each type of hot end has its advantages and disadvantages, you can choose different hotends according to different requirement.
-- Fast printing
-- Print flexible filament
-- Support higher temperature filament (Max 260 degreeC)     
-- Print different types of filament
-Please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND)    
-
-
-
+[OptionalFeatures]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4/OptionalFeatures.md
