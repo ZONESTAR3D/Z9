@@ -33,8 +33,8 @@ In order to find and solve the problem of the product, you may need to use the a
 There are two control boxes on the control backplane of the Z9V5 machine.    
 The upper box has the extruder motors and the LED backlight of LOGO inside, and the wires of the shortage detector and the hot end also passes through this box.    
 The lower box has control board and AC power socket, and the connectors of X/Y/Z motors, ENDSTOPs and LCD screen is also inside the box.  
-- **How to open the upper box** [:art: Picture](./Upper_box_mounted_screws.jpg)  [:clapper: Video tutorial](./Open_the_Upper_Box.mp4) 
-- **How to open the control box** [:art: Picture](./How_to_open_the_control_box.jpg) [:clapper: Video tutorial](./Open_the_Control_Box_of_Z9V5.mp4) 
+- **How to open the upper box** [:art: Picture](./Upper_box_mounted_screws.jpg)  [:clapper: Video](https://github.com/ZONESTAR3D/Z9/assets/29502731/f32b4a1c-f125-46b9-b6c7-f7fa09b943cc) 
+- **How to open the control box** [:art: Picture](./How_to_open_the_control_box.jpg) [:clapper: Video](https://github.com/ZONESTAR3D/Z9/assets/29502731/b1a81306-d17e-41e0-80e3-508cc2afe01d) 
 
 ### Electronics parts auto testing
 The Z9V5Pro machine has builted-in an electronics automatic testing program. You can use this program to determine where the problem comes from when any electronic component encounters a problem.    
