@@ -15,15 +15,15 @@
 
 ## Updates in 2023-05-19
 -  **:boom: Launched linear rail upgrade kit** :point_right:[View](#🆕-linear-rail-upgrade-kit)
--  **Release firmware V1.3.2 for Z9V5Pro-MK4** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/beta#release-note)
--  **Release firmware V3.3.2 for Z9V5Pro-MK3** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta#release-note)
--  **Release firmware V3.3.2 for Z9V5Pro-MK1(2)** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta#release-note)
+-  **Release firmware V1.3.2 for Z9V5Pro-MK4** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/beta)
+-  **Release firmware V3.3.2 for Z9V5Pro-MK3** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
+-  **Release firmware V3.3.2 for Z9V5Pro-MK1(2)** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta)
 
 ## Updates in 2023-04-06
 -  **:boom: Launched large printing size upgrade kit** :point_right:[View](https://www.zonestar3dshop.com/products/zonestar-z9v5-500x500mm-large-printing-size-upgrade-kit-parts)
--  **Release firmware V1.3.0 for Z9V5Pro-MK4** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/beta#release-note)
--  **Release firmware V3.3.0 for Z9V5Pro-MK3** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta#release-note)
--  **Release firmware V3.3.0 for Z9V5Pro-MK1(2)** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta#release-note)
+-  **Release firmware V1.3.0 for Z9V5Pro-MK4** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/beta)
+-  **Release firmware V3.3.0 for Z9V5Pro-MK3** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK3/beta)
+-  **Release firmware V3.3.0 for Z9V5Pro-MK1(2)** :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro/beta)
 
 ## Updates in 2022-12-14
 - **Z9V5Pro-MK4** Release firmware V1.2.4 :point_right:[View](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4/released)
