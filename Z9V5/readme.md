@@ -47,7 +47,7 @@ Used M4V6 (the 6th version 4-IN-1-OUT mix color) hotend as default hotend.
 #### :black_circle: Z9V5-MK3 mainly improves than Z9V5-MK2:
 1. Upgraded bed leveling sensor to [**ZLSensor**](https://aliexpress.com/item/1005002865311470.html) from [**PL-08N**](https://www.aliexpress.com/item/2255800409994958.html), ZL-Sensor can probing the glass directly.  
 2. Changed motor drivers: TMC2225 used on driving XYZ motors and extrurder motors..     
-3. Upgraded the M4 hotend from the 3nd version (***M4V3***) to the 4th version(***M4V4***).
+3. Upgraded the M4 hotend from the 3nd version (***M4V3***) to the 4th version(***M4V4***).      
 ![](./MK3.jpg)
 
 #### :black_circle: Z9V5-MK2 mainly improves than Z9V5-MK1:    
