@@ -37,7 +37,7 @@ Start an ["electronic parts automatic testing process" video tutorial][AUTO_TEST
   - Always OFF or ON, **Control board is damaged, please contact us to get a solution** :email: support@zonestar3d.com.
   - Working normally, congratulations on fixing the problem!
  
-### <a id = "keepon"></a> The light of the sensor remains constantly on and will not go out.
+### <a id = "keepon"></a> :rotating_light: The light of the sensor remains constantly on and will not go out.
 1. If your control board is the ZM3E4 V1.0, please check if used a sensor with a rated voltage of 3V (Yellow color).   
 2. If your control board is ZM3E4 V2.0 or later, please check the V_END jumper on the control board has been set to the **5V** position.
 3. Go to [step 2](#step2) and check if the terminals of the sensor and extend wire are properly connected.     
