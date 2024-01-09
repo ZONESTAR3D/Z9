@@ -4,8 +4,8 @@
 :pushpin:Loosen the screws which fixed the sensor and move up / down the sensor to adjust installation height if need.    
 ![](1.jpg)   ![](2.jpg)   
 - Power on the printer and use a metal plate to approach the bottom of the sensor and check if the LED would light up.
-  - :black_circle: No. Refer to [step 2](step2).   
-  - :red_circle: Yes. Refer to [step 5](step5).     
+  - :black_circle: No. Refer to [step 2](#step2).   
+  - :red_circle: Yes. Refer to [step 5](#step5).     
   - :rotating_light: **The light will not go out! Refer to [here](#keepon).**         
 ![](3.jpg)   
 
