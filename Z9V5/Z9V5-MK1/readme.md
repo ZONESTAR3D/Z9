@@ -1,6 +1,7 @@
 # User Guide for ZONESTAR Z9V5Pro-MK1 3D Printer 
+### [:arrow_down: Download All Document](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK1)  
 
---------
+----
 # :warning:NOTICE
 ## Before using the 3d printer, please:  
 1. Carefully to read the pages (from 17~20) in the "installation and quick user guide".  
@@ -8,7 +9,7 @@
 3. Carefully to read "Operature guide for Mixing Color printer.pdf"  
 ***ATTETION: Incorrect filament loading may cause to clog the hotend, if the hotend is clogged, please refer to the document "FAQ\How to clean the cloged mixing color hotend.pdf" to fix***  
 
---------
+----
 # Documents
 ## [1. Installation and User Guide](./1.Installation%20and%20User%20Guide/)
 **Included:**  
@@ -111,8 +112,3 @@ We will launch more hot ends in the future, so stay tuned. If you have any sugge
 - [**User guide**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/Bed_Leveling_Sensor)    
 - [**ZLSensor**](https://www.aliexpress.com/item/1005002865311470.html)  
 - [**3DTouch**](https://www.aliexpress.com/item/1005001464420529.html)
-
------
-## Download Z9V5-MK1 files
-[**Download all the Z9V5-MK1 files in one go**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK1)     
-**If it doesn't work, please refer to** [**here**](https://stackoverflow.com/questions/7106012/download-a-single-folder-or-directory-from-a-github-repo)   

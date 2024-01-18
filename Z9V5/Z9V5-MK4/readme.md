@@ -1,45 +1,13 @@
-<!-- ### :globe_with_meridians: Choose Language (Translated by google)
-[![](../../lanpic/ES.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=es)
-[![](../../lanpic/PT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../lanpic/FR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=fr)
-[![](../../lanpic/DE.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=de)
-[![](../../lanpic/IT.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=it)
-[![](../../lanpic/SW.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=sv)
-[![](../../lanpic/PL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=pl)
-[![](../../lanpic/DK.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=da)
-[![](../../lanpic/CZ.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=cs)
-[![](../../lanpic/HR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=hr)
-[![](../../lanpic/RO.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ro)
-[![](../../lanpic/SK.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=sk)
-
-[![](../../lanpic/RU.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ru)
-[![](../../lanpic/JP.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ja)
-[![](../../lanpic/KR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ko)
-[![](../../lanpic/ID.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=id)
-[![](../../lanpic/TH.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=th)
-[![](../../lanpic/VN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=vi)
-[![](../../lanpic/IL.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=iw)
-[![](../../lanpic/SA.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=ar)
-[![](../../lanpic/TR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=tr)
-[![](../../lanpic/GR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=el)
-[![](../../lanpic/BR.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=pt)
-[![](../../lanpic/CN.png)](https://github-com.translate.goog/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK4?_x_tr_sl=en&_x_tr_tl=zh-CN) -->
-
-# User Guide for ZONESTAR Z9V5Pro-MK4 3D Printer 
+# User Guide for Zonestar Z9V5Pro-MK4 3D Printer 
+### [:arrow_down: Download All Document](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK4)  
 
 -----
 ## :warning:NOTICE:warning:
 #### :loudspeaker:If you are a beginner of 3d printer, please carefully read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md), and following the steps to do step by step.  
 #### :loudspeaker: If you are experienced on 3d printer, please also briefly read the [:point_right: :book: Step-by-Step Guide](./step_by_step.md) at least, and ensure that you have known the E4 working principle of hot end and how to load filaments to the hotend correctlly.
 
-
 -----
-## Download Z9V5-MK4 files
-- :arrow_down: [**Download all documents from github**](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK4)  
-
------
-## Documents
-### :book: Contents
+## :book: Contents
 - [**Installation and operation guide**](#1-installation-and-user-guide)  
 - [**Test gcode files**](#2-test-gcode)
 - [**Video tutorial of installation and user guide**](#3-video-tutorial)
@@ -51,7 +19,7 @@
 - [**Optional upgrade features**](#optional-upgrade-features)
 
 -----
-### 1. Installation and User Guide
+## 1. Installation and User Guide
 - :book: [**Step-by-Step Guide**](./step_by_step.md)
 - :book: [**Installation Guide**](./1.Installation_and_User_Guide/Installation.md)
 - :book: [**Wiring Guide**](./1.Installation_and_User_Guide/Wiring.md)
@@ -64,36 +32,35 @@
 - :book: [**Print From PC**](./1.Installation_and_User_Guide/PrintFromPC/readme.md)
 - :file_folder: [**Advanced features guide**](./1.Installation_and_User_Guide/Advance_Features.md)
 
-### 2. Test Gcode
-#### :pencil: What Is G-code In 3D Printing?
+## 2. Test Gcode
+### :pencil: What Is G-code In 3D Printing?
 G-code is information, or instructions that 3d printer requires in order to print a 3 dimensional object, it is the langurage of the 3d printer can understand. G Code is generated by your slicing software, by translating a standard 3D modelling file such as an STL file into the code that your specific 3D printer will understand.    
 :page_with_curl: [**Reference 1**](https://beginner3dprinting.com/what-is-g-code-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://www.reprap.org/wiki/G-code)     
-#### :book: File list
+### :book: File list
 - [:arrow_down:**xyz_cube.gcode**](./2.Test_gcode/xyz_cube.zip): A simple test gcode file for verifing if the machine is working well.  
 - [:arrow_down:**TempCal_PLA.gcode**](./2.Test_gcode/TempCal_PLA.zip): A test gcode file to check the best printing temperature of your PLA filament
 - [:arrow_down:**3DBenchy.gcode**](./2.Test_gcode/1C/1C_3DBenchy.zip): A classic printing performance test file, one color  
 - [:arrow_down:**dog.gcode**](./2.Test_gcode/1C/1C_dog.zip): A classic printing quanlity test file, one color    
 - [:arrow_down:**Z9E4_4CTest.gcode**](./2.Test_gcode/E4_4C/Z9E4_4CTest.zip): A base 4 colors test file   
-#### [:file_folder:**More test gcode files**](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/E4/readme.md)
+### [:file_folder:**More test gcode files**](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/E4/readme.md)
 
-### 3. Video Tutorial  
+## 3. Video Tutorial  
 **NOTE: The video tutorial may be a little different with your machine because of firmware version is different, for reference only**     
-#### Installation and Operation Guide
+### Installation and Operation Guide
 - [:clapper: **Installaltion**](https://youtu.be/Xa3Q1m6HbDI) 
 - [:clapper: **Turn On / Turn Off the printer**](https://youtu.be/xTlMHtxkGoY)
 - [:clapper: **Bed leveling**](https://youtu.be/nxzB7ho1kNo)
 - [:clapper: **How to load Filament - for one color printing**](https://youtu.be/6aTF5QnFhi4)
 - [:clapper: **How to load Filament - for multi colors printing**](https://youtu.be/FyHrAMytlT8)
 
-### 4. Slicing
-#### :pencil: What is slicing In 3D Printing?
+## 4. Slicing
+### :pencil: What is slicing In 3D Printing?
 Slicing is a piece of software that everyone uses when creating objects and products on a 3D printer. The software gives the printer a path to follow. The slicing software takes your image and converts it into G codes that your 3D printer can understand. These G codes are a type of instruction on how the printer needs to print your design.:page_with_curl: [**Reference 1**](https://loveandrobots.com/what-is-slicing-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://en.wikipedia.org/wiki/Slicer_(3D_printing))     
-#####  :warning: ATTENTION PLEASE
+### :warning: ATTENTION PLEASE
 1. We recommend to use PrusaSlicer to slicing multi color 3d models.
 2. For the E4 hot end, the setting of the retraction length should not exceed 10mm when slicing, otherwise it is easy to block the hot end.
 3. For the E4 hot end, which means that only one filament can be loaded into the nozzle at a time. Therefore, when switching from one color to another, the first filament must be unloaded from the nozzle and then load another filament. The slicing software can be implemented by adding the extruder gcode code. For details, please refer to the ***PrusaSlicer User Manual*** below.
-
-#### Slicing sotware download link and use guide
+### Slicing sotware download link and use guide
 Please download the slicing software and install to your PC, and then read the guide or video tutorial to study how to slicing.
 - [:arrow_down: **Download Slicing Software**](https://github.com/ZONESTAR3D/Slicing-Guide)
 - [:clapper: **How to download and install slicing software**](https://youtu.be/SgyXD-kQIeo)  
@@ -102,22 +69,21 @@ Please download the slicing software and install to your PC, and then read the g
 - [:clapper: **Slicing guide - for multi colors printing**](https://youtu.be/AIKrszmxvE4)    
 :star2: **For the newest slicing guide and more slicing software user guide, please [:point_right: click here](https://github.com/ZONESTAR3D/Slicing-Guide)**
 
-
-### 5. Firmware
+## 5. Firmware
 - [**Firmware bin file**](https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK4)  
 - [**Firmware source code**](https://github.com/ZONESTAR3D/source-code-for-3d-printer)
-#### :pencil: What is bin file and source code?
+### :pencil: What is bin file and source code?
 > **Firmware bin file** is the exact memory that is written to the embedded flash.  
 > **Firmware source code** is the core part of the firmware. The entire firmware can be thought of as different sub modules. It is divided into many sub files. These files are called source files. And, the entire program files are called source file or source code. Now our firmware source code is base on [**marlin**](https://www.marlinfw.org).
 
-### 6. FAQ
+## 6. FAQ
 - :clapper: [**How to replace nozzle**](https://youtu.be/N3-aCQg5XYI)
 - :clapper: [**Machine auto test**](https://youtu.be/Mf92BlmKA0A)
 - :clapper: [**How to adjust the pressure of extruder**](https://youtu.be/UYairVqN7H0)    
-##### For more FAQ, please refer to [**here**](./6.FAQ/readme.md)
+### For more FAQ, please refer to [**here**](./6.FAQ/readme.md)
 
-### 7. Others
-#### [Print parts stl files](./7.Others/readme.md)
+## 7. Others
+### [Print parts stl files](./7.Others/readme.md)
 
 -----
 ## Advanced features

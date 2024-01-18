@@ -79,6 +79,15 @@ You can distinguish MK1/MK2/MK3/MK4 by product serial number. There is a white s
 ### Troubleshooting
 If you have any problem when installing and using Z9V5, please read the [**:book: Z9V5Pro Troubleshooting**][Troubleshooting] to find a solution a solution first.
 
+-----
+### :memo: How to downlod files from Github page?
+![](download.gif)   
 
+
+
+-----
 [FAQ_M4E4]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/FAQ_M4E4.md#whats-different-between-e4-and-m4-hotend
 [Troubleshooting]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ
+
+
+

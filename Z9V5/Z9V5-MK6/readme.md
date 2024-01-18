@@ -1,16 +1,14 @@
 # User Guide for ZONESTAR Z9V5Pro-MK6 3D Printer 
+### [:arrow_down: Download All Document](https://downgit.github.io/#/home?url=https:%2F%2Fgithub.com%2FZONESTAR3D%2FZ9%2Ftree%2Fmain%2FZ9V5%2FZ9V5-MK6)  
 
------
+----
 ### :globe_with_meridians: Translate this page
 We provide online documentation for files precisely because it is easy to translate into languages you are familiar with. Below, we list some common browser translation add-ons for your reference.
 - [**Windows Edge Translate Add-on**](https://microsoftedge.microsoft.com/addons/detail/edge-translate/bfdogplmndidlpjfhoijckpakkdjkkil?hl=en-US)    
 - [**Firefox Translations Add-on**](https://support.mozilla.org/en-US/kb/firefox-translations-add-on?redirectslug=firefox-translations&redirectlocale=en-US)
 - [**Google Translate Chrome Extension**](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
 
------
-#### [![](pdf.jpg)PDF file of this page](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/readme.pdf)
-
-------
+----
 ## :warning: ATTENTION PLEASE
 #### :loudspeaker: Before using the machine, please read [:book:"Precautions for using M4V6"](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_Precaution.md) carefully.
 #### :loudspeaker: Must load 4 filaments onto the M4V6 hotend simultaneously, incorrect operationa may block the mix color hotend. If the hot end blockage caused by incorrect operation, it is not covered by the warranty. For how to load filaments, please refer to [:book: this guide](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK6/2.Operation/Operation.md#load-filaments).
@@ -20,7 +18,7 @@ We provide online documentation for files precisely because it is easy to transl
 - [:book: **Step-by-Step Guide**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/step_by_step.md) 
 <!-- - [:blue_book: Step-by-Step Guide PDF file](./step_by_step.pdf)  -->
 
-------
+----
 ## :book: Contents
 - [**Installation guide**](#1-installation-guide)  
 - [**Operation guide**](#2-operation-guide)  
@@ -31,7 +29,7 @@ We provide online documentation for files precisely because it is easy to transl
 - [**Print parts stl files**](#7-print-parts)
 - [**Optional upgrade features**](#optional-features)
 
------
+----
 ## 1. Installation guide
 First, please refer to the following documents and videos to complete the installation and wiring of the machine.
 ### Installation   
@@ -96,13 +94,13 @@ If you have any problems installing and using the printer, please try to find a 
 ## 7. Print Parts
 There are several components on the machine that are printed, and we have also prepared some upgrades for you. If you like, you can download and print them and then install them on your machine.
 
------
+----
 ## Optional features
 We have introduced some optional features for this machine, you can upgrade these features at any time according to your preferences. If you are interesting in this, please read Optional upgrade features guide to get more detailed information.
 - [:book:Optional upgrade features guide online document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/OptionalFeatures.md)
 - [:blue_book:Optional upgrade features guide pdf file](./OptionalFeatures.pdf)
 
------
+----
 [LINK_M4V6]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6
 [LINK_Mix_Feature]: https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color
 [LINK_Firmware]: https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK6

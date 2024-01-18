@@ -109,16 +109,7 @@ Used M4V6 (the 6th version 4-IN-1-OUT mix color) hotend as default hotend to rep
 ## Z9M2 
 **Z9M2** launched in 2018, it is the first verison of Z9 series. it has produced two versions, Z9 and Z9S. Z9 use a H-BOT structure and Z9S used a Core-XY structure, and after Z9S, all of the Z9 series are used Core-XY structure.
 
+
 ------
-## How to downlod files from Github page
-#### Step 1: Click this link [**https://downgit.github.io/**](https://downgit.github.io/) 
-#### Step 2: Copy the Github file or direcotry link which you want to download.
-#### Step 3: Click download button and wait a few seconds, it will start to download automatically. 
-![](https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/download.gif)   
-
-
-
-
- 
-
-
+### :memo: How to downlod files from Github page?
+![](download.gif)   
