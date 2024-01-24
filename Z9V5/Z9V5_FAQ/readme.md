@@ -52,9 +52,9 @@ The parts in the machine that can carry out the exchange test include:
 - [**LCD screen knob issue**](#lcd-screen-knob-issue)
 
 -----
-## Poor printing quality
-- **[44 Common 3D Print Problems](https://www.3dsourced.com/rigid-ink/ultimate-3d-printing-troubleshooting-guide) @3dsourced**
-- **[All Problems & Solutions](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/) @all3DP**
+## Other references
+- **[44 Common 3D Print Problems](https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/FAQ)**
+- **[All Problems & Solutions (@All3DP.com)](https://all3dp.com/1/common-3d-printing-problems-troubleshooting-3d-printer-issues/)**
 
 -----
 ## LCD screen knob issue
