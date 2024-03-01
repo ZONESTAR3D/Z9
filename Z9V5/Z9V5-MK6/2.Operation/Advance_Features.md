@@ -21,7 +21,11 @@
     - If the measured values are evenly distributed around 0, and the difference between the maximum value and the minimum value is less than 0.4 (***as shown in Figure 1***), we suggest that you do not need to enable the automatic leveling function.   
     - If most of the measured values are bigger than zero and the average value > 0.2 (***as shown in Figure 2***), please add the ***Preobe Z offset*** (new value = previous value + average value of measured (>0)  ) and do this steps again.
     - If most of the measured values are bigger than zero and the average value < -0.2 (***as shown in Figure 3***), please reduce the ***Preobe Z offset*** (new value = previous value + average value of measured (<0>)) and do this steps again.      
-![](./Advance_Features/Bed_leveling_1.jpg)  
+![](./Advance_Features/Bed_leveling_1.jpg)     
+5. After completing the above steps, the automatic leveling function will be enabled, and then you can start printing the gcode file from SD card. However, when print the first the gcode file, it is possible that the nozzle may be slightly away from the hot bed, you need to double-click the knob to slightly adjust the height between the nozzle and the hot bed, about the steps, please refer to [:point_right: ***the step 4 of "Print your "Hellow World" works"***](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK6/2.Operation/Operation.md#print-your-hellow-world-works).
+6. If you turn off the power of the machine and restart it, you need to turn on the bed automatic leveling function manually, that is, set the value of ***"Control>>Configre>>Active autolevel:"*** to ON in the LCD menu.    
+:pushpin: For a more detailed user manual about bed automatic leveling, please refer to:
+https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/Bed_Leveling_Sensor/PL-08N/ABL_LCDDWIN.md
 
 -----
 ### Power auto shutdown
