@@ -25,7 +25,7 @@ PEI Spring Steel Sheet Hotbed Sticker is more durable than the original hot bed 
 
 ### :+1: 4-IN-1-OUT Non-Mix color hotend
 The E4 hot end does not require all four filaments to be loaded simultaneously during printing, and its color prime tower size can also be set smaller than M4 hot end when printing multi color. About what's different between M4 hotend and E4 hotend, please refer to [**here**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND#4-extruders-hotend).     
-- **:book: [User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4%204-IN-1-OUT%20Non-Mixing%20Color%20Hotend)**
+- **:book: [User guide](https://github.com/ZONESTAR3D/Upgrade-kit-guide/tree/main/HOTEND/E4)**
 - **:gift: [Buy in offical online store](https://bit.ly/39qDtKp) / [Buy in Aliexpress](https://www.aliexpress.com/item/3256802765462947.html)**  
 
 ### :+1: Direct drive extruder
