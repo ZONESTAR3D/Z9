@@ -7,10 +7,12 @@
 
 ### hotend fan duct 
 The hotend fan duck stl file to improve the effeciency of cooling.    
-- [:arrow_down:**E4 hotend fan duct**](./fanduct_e4.zip)    
+<!-- - [:arrow_down:**E4 hotend fan duct**](./fanduct_e4.zip)    
 - [:arrow_down:**M4V4 hotend fan duct**](./fanduct_M4V4.zip)   
-- [:arrow_down:**M4V6 hotend fan duct**](./fanduct_m4v6.zip)   
-![](fan_duck.jpg)  ![](fan_duck_m4.jpg)  ![](fanduct_m4v6.jpg)  
+- [:arrow_down:**M4V6 hotend fan duct**](./fanduct_m4v6.zip)    -->
+- [:arrow_down:**Fan duct for E4&M4 hotend**](./fanduct_4c_v7.zip)   
+<!-- ![](fan_duck.jpg)  ![](fan_duck_m4.jpg)  ![](fanduct_m4v6.jpg)   -->
+![](fanduck_4C.jpg)
 
 ### Hotend Cable Bracket
 - [:arrow_down:**Hotend Cable Bracket**](./z9v5_hecable_holder.zip)   
