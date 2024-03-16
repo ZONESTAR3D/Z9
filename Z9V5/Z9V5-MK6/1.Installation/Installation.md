@@ -76,7 +76,7 @@
 -----
 ## :fireworks: Congratulate! 
 Now the machine installation is announced to be completed, next you can arrange to wiring.      
-- [**:book: Wiring Guide Online Document**](./wiring.md).
-- [**:blue_book: Wiring Guide pdf file**](./wiring.pdf).
+- [**:book: Wiring Guide Online Document**](./Wiring.md).
+- [**:blue_book: Wiring Guide pdf file**](./Wiring.pdf).
 
 
