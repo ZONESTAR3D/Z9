@@ -5,7 +5,7 @@
 In a word, from the moment you received the machine to the moment you can print your own 3D model file, there are a total of 5 steps required: **Installation - Leveling the bed - Load filaments - Printing test gcode file - Slicing and print your own 3d file**.      
 
 ### Step 1. Installation
-- 1.1 **Installation**. Refer to the [:blue_book: **installation guide**](./1.Installation/Installation.pdf) and [:clapper: **installation video tutorial**](https://youtu.be/pdr8nLl3T3w) to complete the installation of the machine.
+- 1.1 **Installation**. Refer to the [:book: **installation guide**](./1.Installation/Installation.md) and [:clapper: **installation video tutorial**](https://youtu.be/pdr8nLl3T3w) to complete the installation of the machine.
 - 1.2 **Wiring**. the process of wiring is basically to insert the plug into the corresponding socket. What you need to pay attention is **to make sure the connectors are plug well**, especially for the 2PIN docking sockets. In addition, for the wiring of the print head (hot end), please note that there are several sockets of the same but different colors, please pay attention to plug them according to the color of the socket.
 - 1.3 **Power ON**. When wiring is complete, you can [:clapper: **turn on Z9V5**](https://youtu.be/xTlMHtxkGoY). Please note in particular that the Z9V5 has 2 power switches. the one is ***AC switch***(the red switch on the back of the machine) and another is ***DC switch***(a round metal push button switch on the front of the machine control box), you need to turn on the AC switch first and then **press and hold** the DC switch for about 5 seconds to turn on Z9V5.
 - 1.4 **Simply Test**. After power on, you can operate the menu on the LCD screen ([**LCD Menu description**](./2.Operation/LCDMENU_Description.md)) to verify whether the machine can work normally. Usually this involves several steps:
@@ -19,7 +19,7 @@ Before start printing, you need to do a simple bed leveling to set the height be
 
 ### Step 3. Load filaments
 Refer to this [:clapper: video tutorial](https://youtu.be/KZQdL7Rgy1s) to load all 4 filaments to the extruders and hot end.     
-#### :warning:ATTETION PLEASE:warning: 
+#### :warning: ATTENTION PLEASE :warning: 
 1. **You need load all 4 filaments to the hot end whatever you print one color or multi color 3d prints.**
 2. **Ensure the filaments has been loaded to the bottom of the hot end, otherwise it may cause blockage the hot end.**
 
@@ -39,10 +39,10 @@ Since Z9V5Pro is a 3D printer with 4 extruders, we suggest that you print a one 
 Before printing your own 3D models, you need to convert the 3d model file (a stl/obj/AMF format file which [downloaded from the internet](#famous-free-3d-model-download-websites) or drawing by yourself) to a gcode file, this process is called <u>"**slicing**"</u>. 
 - Firstly you need to download the slicing software and install it on your computer, and set the parameters of your machine in the slicing software or load the preset file of your machine which set by the 3d printer manufacture.   
 - Next, you need to run the slicing software, and may also need to set some parameters according to the characteristics of your 3D model file and then execute slicing. 
-- After slicing finished, copy the generated gcode file to the SD card and following the [:point_up:stpe 4](#step-4-print-test-3d-model) to print it out by your 3d printer.   
-#### *PrusaSlicer* is the slicing software we recommended, please refer to [:point_right:here](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer) to download and install PrusaSlicer software and get the user guide. 
-:warning:**ATTENTION PLEASE**:warning:     
-Default Z9V5Pro-MK6 equipied with a M4 (4-IN-1-OUT mix Color) hot end, please pay attention to choose the printer preset (Z9 + M4 Hotend) when slicing.     
+- After slicing finished, copy the generated gcode file to the SD card and following the [:point_right:Stpe 4](#step-4-print-test-3d-model) to print it out by your 3d printer.   
+#### *PrusaSlicer* is the slicing software we recommended, please refer to [:point_right:here](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer) to download and install PrusaSlicer software and read the user guide. 
+:warning: **ATTENTION PLEASE** :warning:     
+Default Z9V5Pro-MK6 equipied with a M4V6 (4-IN-1-OUT mix Color) hot end, please pay attention to choose the printer preset (Z9 + M4 Hotend) when slicing.     
 
 -----
 ### Famous free 3D model download websites
@@ -52,4 +52,4 @@ Default Z9V5Pro-MK6 equipied with a M4 (4-IN-1-OUT mix Color) hot end, please pa
 
 
 -----
-[LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6//LCDMENU_Description.md
+[LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md

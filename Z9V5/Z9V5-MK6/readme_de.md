@@ -1,124 +1,118 @@
+[M4V6_PRECAUTION]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_Precaution.md
+[Z9V5MK6_STEPBYSTEP]: https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK6/step_by_step.md
+[Z9V5MK6_LOADFILAMENT]: https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK6/2.Operation/Operation.md#load-filaments
+[Z9V5MK6_OPTION]: https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK6/OptionalFeatures.md
+[LINK_M4V6]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6
+[LINK_MIX_FEATURE]: https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/Mixing_Color
+[LINK_FIRMWARE]: https://github.com/ZONESTAR3D/Firmware/blob/master/Z9/Z9V5/bin/Z9V5Pro-MK6
+[LINK_SOURCECODE]: https://github.com/ZONESTAR3D/source-code-for-3d-printer
+[LINK_TROUBLESHOOTING]: https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5_FAQ
+[M4_TEST_GCODE]: https://github.com/ZONESTAR3D/Slicing-Guide/blob/master/PrusaSlicer/test_gcode/M4/readme.md
+[GCODE_REF1]: https://beginner3dprinting.com/what-is-g-code-in-3d-printing/
+[GCODE_REF2]: https://www.reprap.org/wiki/G-code
 
+----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
-[![](./lanpic/EN.png)](./readme.md)
-[![](./lanpic/ES.png)](./readme_es.md)
-[![](./lanpic/PT.png)](./readme_pt.md)
-[![](./lanpic/FR.png)](./readme_fr.md)
-[![](./lanpic/DE.png)](./readme_de.md)
-[![](./lanpic/IT.png)](./readme_it.md)
-[![](./lanpic/RU.png)](./readme_ru.md)
-[![](./lanpic/JP.png)](./readme_jp.md)
-[![](./lanpic/KR.png)](./readme_kr.md)
+[![](../lanpic/EN.png)](./readme.md)
+[![](../lanpic/ES.png)](./readme_es.md)
+[![](../lanpic/PT.png)](./readme_pt.md)
+[![](../lanpic/FR.png)](./readme_fr.md)
+[![](../lanpic/DE.png)](./readme_de.md)
+[![](../lanpic/IT.png)](./readme_it.md)
+[![](../lanpic/RU.png)](./readme_ru.md)
+[![](../lanpic/JP.png)](./readme_jp.md)
+[![](../lanpic/KR.png)](./readme_kr.md)
 
+----
+# Benutzerhandbuch für den ZONESTAR Z9V5Pro-MK6 3D-Drucker
 
------
-# User Guide for ZONESTAR Z9V5Pro-MK6 3D Printer 
-
------
-### :globe_with_meridians: Translate this page
-We provide online documentation for files precisely because it is easy to translate into languages you are familiar with. Below, we list some common browser translation add-ons for your reference.
-- [**Windows Edge Translate Add-on**](https://microsoftedge.microsoft.com/addons/detail/edge-translate/bfdogplmndidlpjfhoijckpakkdjkkil?hl=en-US)    
-- [**Firefox Translations Add-on**](https://support.mozilla.org/en-US/kb/firefox-translations-add-on?redirectslug=firefox-translations&redirectlocale=en-US)
-- [**Google Translate Chrome Extension**](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb)
-
------
-#### [![](pdf.jpg)PDF file of this page](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/readme.pdf)
+----
+## :warning: BITTE ACHTUNG
+#### :loudspeaker: Bevor Sie das Gerät verwenden, lesen Sie bitte [:book:"Vorsichtsmaßnahmen für die Verwendung von M4V6"][M4V6_PRECAUTION] sorgfältig durch.
+#### :loudspeaker: Es müssen 4 Filamente gleichzeitig auf das M4V6-Hotend geladen werden. Bei falscher Bedienung kann das Mischfarben-Hotend blockiert werden. Wenn die Blockierung des heißen Endes auf eine fehlerhafte Bedienung zurückzuführen ist, fällt sie nicht unter die Garantie. Informationen zum Laden von Filamenten finden Sie in [:book: dieser Anleitung][Z9V5MK6_LOADFILAMENT].
+#### :loudspeaker: Wenn Sie ein Anfänger im Umgang mit 3D-Druckern sind, lesen Sie bitte sorgfältig die [:book: Schritt-für-Schritt-Anleitung][Z9V5MK6_STEPBYSTEP] und befolgen Sie die erforderlichen Schritte.
+- [:book: **Vorsichtsmaßnahmen für die Verwendung von M4V6**][M4V6_PRECAUTION]
+- [:book: **So laden Sie Filamente richtig**][Z9V5MK6_LOADFILAMENT]
+- [:book: **Schritt-für-Schritt-Anleitung**][Z9V5MK6_STEPBYSTEP]
 
 ------
-## :warning: ATTENTION PLEASE
-#### :loudspeaker: Before using the machine, please read [:book:"Precautions for using M4V6"](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_Precaution.md) carefully.
-#### :loudspeaker: Must load 4 filaments onto the M4V6 hotend simultaneously, incorrect operationa may block the mix color hotend. If the hot end blockage caused by incorrect operation, it is not covered by the warranty. For how to load filaments, please refer to [:book: this guide](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK6/2.Operation/Operation.md#load-filaments).
-#### :loudspeaker: If you are a beginner of 3d printer, please carefully read the [Step-by-Step Guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/step_by_step.md), and following the steps to do.   
-- [:book: **Precautions for using M4V6**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_Precaution.md)
-- [:book: **How to load filaments correctly**](https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4/M4_V6/M4V6_Precaution.md)
-- [:book: **Step-by-Step Guide**](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/step_by_step.md) 
-<!-- - [:blue_book: Step-by-Step Guide PDF file](./step_by_step.pdf)  -->
-
-------
-## :book: Contents
-- [**Installation guide**](#1-installation-guide)  
-- [**Operation guide**](#2-operation-guide)  
-- [**Test gcode files**](#3-test-g-code-file)
-- [**Slicing software**](#4-slicing)
-- [**Firmware**](#5-firmware)
-- [**Troubleshootings**](#6-troubleshooting)
-- [**Print parts stl files**](#7-print-parts)
-- [**Optional upgrade features**](#optional-features)
+## :book: Inhalt
+- [**Installationsanleitung**](#A1)
+- [**Bedienungsanleitung**](#A2)
+- [**Gcode-Dateien testen**](#A3)
+- [**Slicing-Software**](#A4)
+- [**Firmware**](#A5)
+- [**Fehlerbehebung**](#A6)
+- [**Teile-STL-Dateien drucken**](#A7)
+- [**Optionale Upgrade-Funktionen**](#A8)
 
 -----
-## 1. Installation guide
-First, please refer to the following documents and videos to complete the installation and wiring of the machine.
-### Installation   
-- [:book: Installation Guide Online Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/1.Installation/Installation.md) 
-- [:blue_book: Installation Guide PDF file](./1.Installation/Installation.pdf) 
-- [:clapper: Installation Guide Video tutorial](https://youtu.be/TGHUVzV1Pg4)   
-### Wiring    
-- [:book: Wiring Guide Online Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/1.Installation/Wiring.md) 
-- [:blue_book: Wiring Guide PDF file](./1.Installation/Wiring.pdf) 
-- [:art: Wiring diagram](./1.Installation/Z9V5Pro_Wiring_Diagram.jpg) 
-- [:clapper: Wiring Video tutorial](https://youtu.be/tQQNLDOpdQU)
+## <a id="A1"> 1. Installationsanleitung </a>
+Bitte beachten Sie zunächst die folgenden Dokumente und Videos, um die Installation und Verkabelung der Maschine abzuschließen.
+### Installation
+- [:book: Installationshandbuch Online-Dokument](./1.Installation/Installation.md)
+- [:blue_book: Installationsanleitung PDF-Datei](./1.Installation/Installation.pdf)
+- [:clapper: Installationsanleitung, Video-Tutorial](https://youtu.be/TGHUVzV1Pg4)
+### Verkabelung
+- [:book: Wiring Guide Online Document](./1.Installation/Wiring.md)
+- [:blue_book: Verkabelungsanleitung PDF-Datei](./1.Installation/Wiring.pdf)
+- [:art: Schaltplan](./1.Installation/Z9V5Pro_Wiring_Diagram.jpg)
+- [:clapper: Video-Tutorial zur Verkabelung](https://youtu.be/tQQNLDOpdQU)
 
-## 2. Operation Guide
-### **Introduction to LCD Control Panel**     
-After completing the installation and wiring, please take a look the below guide to know how to use the control panel (LCD Screen), and understand the functions of LCD menu generally.      
-- [:book: LCD Menu Online Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/2.Operation/LCDMENU_Description.md)    
-- [:blue_book: LCD Menu PDF file](./2.Operation/LCDMENU_Description.pdf)    
-#### **Print your first works**     
-Now you can try to print your "Hello word" works, before starting printing, you first need to make a simple correction to the height of the hot bed (it is called "bed leveling"), and then load the filaments into the extruder (please note that regardless of the color of your print, you need to load all 4 filaments into the extruders and hot end). Next, you can insert the SD card into the machine and choose a testing 3D model gcode file in the SD card. For details, please refer to the documents below.     
-- [:book: Operation Guide Online Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/2.Operation/Operation.md) 
-- [:blue_book: Operation Guide PDF file](./2.Operation/Operation.pdf) 
-#### :page_with_curl: More features
-You can also read the following documents to gain a deeper understanding of the extruder (hot end and print head) used by your machine, as well as some advanced features of the machine.      
-- [:book: Mix color feature use guide][LINK_Mix_Feature]     
-- [:book: M4V6 Hotend introduction][LINK_M4V6] 
-- [:book: Print From PC](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/2.Operation/PrintFromPC/readme.md)   
-- [:book: Advance features use guide](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/2.Operation/Advance_Features.md)    
+## <a id="A2"> 2. Bedienungsanleitung </a>
+### **Einführung in das LCD-Bedienfeld**
+Nachdem Sie die Installation und Verkabelung abgeschlossen haben, sehen Sie sich bitte die folgende Anleitung an, um zu erfahren, wie Sie das Bedienfeld (LCD-Bildschirm) verwenden und die Funktionen des LCD-Menüs im Allgemeinen verstehen.
+- [:book: LCD Menu Online Document](./2.Operation/LCDMENU_Description.md)
+- [:blue_book: LCD-Menü-PDF-Datei](./2.Operation/LCDMENU_Description.pdf)
+#### **Drucken Sie Ihre ersten Werke**
+Jetzt können Sie versuchen, Ihre „Hallo Wort“-Werke zu drucken. Bevor Sie mit dem Drucken beginnen, müssen Sie zunächst eine einfache Korrektur der Höhe des heißen Betts vornehmen (dies wird als „Bettnivellierung“ bezeichnet) und dann die Filamente in den Extruder laden (Bitte beachten Sie, dass Sie unabhängig von der Farbe Ihres Drucks alle 4 Filamente in die Extruder und das Hot-End laden müssen.) Als Nächstes können Sie die SD-Karte in das Gerät einlegen und auf der SD-Karte eine zu testende 3D-Modell-Gcode-Datei auswählen. Einzelheiten entnehmen Sie bitte den untenstehenden Dokumenten.   
+- [:book: Operation Guide Online Document](./2.Operation/Operation.md)
+- [:blue_book: Bedienungsanleitung im PDF-Format](./2.Operation/Operation.pdf)
+#### :page_with_curl: Weitere Funktionen
+Sie können auch die folgenden Dokumente lesen, um ein tieferes Verständnis des von Ihrem Gerät verwendeten Extruders (Hot-End und Druckkopf) sowie einiger erweiterter Funktionen des Geräts zu erlangen.  
+- [:book: Anleitung zur Verwendung der Farbmischungsfunktion][LINK_MIX_FEATURE]
+- [:Buch: M4V6 Hotend-Einführung][LINK_M4V6]
+- [:book: Drucken vom PC](./2.Operation/PrintFromPC/readme.md)
+- [:book: Gebrauchsanleitung für erweiterte Funktionen](./2.Operation/Advance_Features.md)
 
-## 3. Test G-code file
-**:pencil: What Is G-code In 3D Printing?**    
-G-code is information, or instructions that 3d printer requires in order to print a 3 dimensional object, it is the langurage of the 3d printer can understand. G-Code is generated by your slicing software, by translating a standard 3D modelling file such as STL, object, AMF file etc..  :page_with_curl: [**Reference 1**](https://beginner3dprinting.com/what-is-g-code-in-3d-printing/)  :page_with_curl: [**Reference 2**](https://www.reprap.org/wiki/G-code)    
-We stored some test gcode files in SD card, to help verify whether the machine was working properly or to demonstrate what printing functions this machine has. If you can't find the test gcode files in the SD card, please download from [:arrow_down: **here**](https://github.com/ZONESTAR3D/Z9/blob/main/Z9V5/Z9V5-MK6/3.TestGcode/Test_gcode.zip).
-- **xyz_cube.gcode**: A simple test gcode file used to verify if the machine was working well.  
-- **dog.gcode**: A classic printing quality test file. 
-- **Vase.gcode**: A test vase.      
-  - **GradientMix_Vase.gcode**: A vase as the same with vase.gcode but enabled "gradient mix" feature.
-  - **RandomMix_Vase.gcode**: A vase as the same with vase.gcode but enabled "random mix" feature.
-- **M4_4CTest.gcode**: A base 4 colors test file for 3d printer with a M4 hot end.
-- **M4_4C_BODY3D.gcode**: A biger 4 color test file.   
-- **16color_tower.gcode**: A base 16 color test file to show the result of mixed different color filaments. 
-- **level_test_310.gcode**: A test file used to verify the Hot bed flatness (without bed auto leveling). 
-- **level_test_310-G29.gcode**: A test file used to verify the Hot bed flatness (with bed auto leveling).     
-**[:arrow_down: Download more test gcode files](https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer/test_gcode/M4/readme.md).**
+## <a id="A3"> 3. G-Code-Datei testen </a>
+**:pencil: Was ist G-Code im 3D-Druck?**
+Bei G-Code handelt es sich um Informationen oder Anweisungen, die ein 3D-Drucker benötigt, um ein dreidimensionales Objekt zu drucken. Dabei handelt es sich um die Sprache, die der 3D-Drucker verstehen kann. G-Code wird von Ihrer Slicing-Software generiert, indem eine Standard-3D-Modellierungsdatei wie STL, Objekt, AMF-Datei usw. übersetzt wird. :page_with_curl: [**Referenz 1**][GCODE_REF1] :page_with_curl: [**Referenz 2 **][GCODE_REF2]
+Wir haben einige Test-Gcode-Dateien auf der SD-Karte gespeichert, um zu überprüfen, ob das Gerät ordnungsgemäß funktioniert, oder um zu demonstrieren, über welche Druckfunktionen dieses Gerät verfügt. Wenn Sie die Test-Gcode-Dateien nicht auf der SD-Karte finden können, laden Sie sie bitte von [:arrow_down: **hier**](./3.TestGcode/Test_gcode.zip) herunter.
+- **xyz_cube.gcode**: Eine einfache Test-Gcode-Datei, mit der überprüft wird, ob die Maschine ordnungsgemäß funktioniert.
+- **dog.gcode**: Eine klassische Druckqualitätstestdatei.
+- **Vase.gcode**: Eine Testvase.
+   - **GradientMix_Vase.gcode**: Eine Vase wie bei vase.gcode, aber mit aktivierter Funktion „Gradientenmix“.
+   - **RandomMix_Vase.gcode**: Eine Vase wie bei vase.gcode, aber mit aktivierter Funktion „Zufallsmischung“.
+- **M4_4CTest.gcode**: Eine Basis-4-Farben-Testdatei für 3D-Drucker mit einem M4-Hot-End.
+- **M4_4C_BODY3D.gcode**: Eine größere 4-Farben-Testdatei.
+- **16color_tower.gcode**: Eine Basis-16-Farbtestdatei, um das Ergebnis gemischter Filamente unterschiedlicher Farbe anzuzeigen.
+- **level_test_310.gcode**: Eine Testdatei zur Überprüfung der Ebenheit des Hot-Bettes (ohne automatische Bettnivellierung).
+- **level_test_310-G29.gcode**: Eine Testdatei zur Überprüfung der Ebenheit des Hot-Bettes (mit automatischer Bettnivellierung).
+**[:arrow_down: Weitere Test-Gcode-Dateien herunterladen][M4_TEST_GCODE].**
  
-## 4. Slicing
-**[:pencil: What is slicing In 3D Printing?](https://en.wikipedia.org/wiki/Slicer_(3D_printing))**             
-A slicer is toolpath generation software used in the majority of 3D printing processes for the conversion of a 3D object model to specific instructions for the printer. In particular, the conversion from a model in STL format to printer commands in g-code format in fused filament fabrication and other similar processes.   
-- [:book:Slicer User Guide Online Document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/4.Slicing/readme.md)    
-- [:blue_book: Slicer User Guide PDF File](./4.Slicing/Slicing.pdf)   
+## <a id="A4"> 4. Schneiden </a>
+**[:pencil: Was ist Schneiden im 3D-Druck?](https://en.wikipedia.org/wiki/Slicer_(3D_printing))**
+Ein Slicer ist eine Software zur Werkzeugweggenerierung, die in den meisten 3D-Druckverfahren zur Konvertierung eines 3D-Objektmodells in spezifische Anweisungen für den Drucker verwendet wird. Insbesondere die Konvertierung von einem Modell im STL-Format in Druckerbefehle im G-Code-Format bei der Herstellung von geschmolzenem Filament und anderen ähnlichen Prozessen.
+- [:book:Slicer User Guide Online Document](./4.Slicing/readme.md)
+- [:blue_book: Slicer-Benutzerhandbuch im PDF-Format](./4.Slicing/Slicing.pdf)
 
-## 5. Firmware
-**:pencil: What is firmware bin file and source code?**    
-Firmware bin file is the exact memory that is written to the embedded flash.        
-Firmware source code is the core part of the firmware. Our firmware source code is base on [**marlin**](https://www.marlinfw.org).  
-You can download firmware bin file or source code from the below link.  
-- [:arrow_down: Firmware bin file][LINK_Firmware]   
-- [:arrow_down: Firmware source code][LINK_SourceCode]     
+## <a id="A5"> 5. Firmware </a>
+**:pencil: Was ist Firmware-Bin-Datei und Quellcode?**
+Die Firmware-Bin-Datei ist der genaue Speicher, der in den eingebetteten Flash geschrieben wird.
+Der Firmware-Quellcode ist der Kernbestandteil der Firmware. Unser Firmware-Quellcode basiert auf [**marlin**](https://www.marlinfw.org).
+Sie können die Firmware-Bin-Datei oder den Quellcode über den folgenden Link herunterladen.
+- [:arrow_down: Firmware-Bin-Datei][LINK_FIRMWARE]
+- [:arrow_down: Firmware-Quellcode][LINK_SOURCECODE]
 
-## 6. Troubleshooting
-If you have any problems installing and using the printer, please try to find a solution from the [:book: Troubleshooting Online Document][LINK_Troubleshooting] first. If you cannot solve this problem, please contact us by email (:email: support@zonestar3d.com).      
+## <a id="A6"> 6. Fehlerbehebung </a>
+Wenn Sie Probleme bei der Installation und Verwendung des Druckers haben, versuchen Sie bitte zunächst, eine Lösung im [:book: Online-Dokument zur Fehlerbehebung][LINK_TROUBLESHOOTING] zu finden. Wenn Sie dieses Problem nicht lösen können, kontaktieren Sie uns bitte per E-Mail (:email: support@zonestar3d.com).
 
-## 7. Print Parts
-There are several components on the machine that are printed, and we have also prepared some upgrades for you. If you like, you can download and print them and then install them on your machine.
-
------
-## Optional features
-We have introduced some optional features for this machine, you can upgrade these features at any time according to your preferences. If you are interesting in this, please read Optional upgrade features guide to get more detailed information.
-- [:book:Optional upgrade features guide online document](https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/OptionalFeatures.md)
-- [:blue_book:Optional upgrade features guide pdf file](./OptionalFeatures.pdf)
+## <a id="A7"> 7. Teile drucken </a>
+Es gibt mehrere Komponenten der Maschine, die gedruckt werden, und wir haben auch einige Upgrades für Sie vorbereitet. Wenn Sie möchten, können Sie sie herunterladen, ausdrucken und dann auf Ihrem Computer installieren.
 
 -----
-[LINK_M4V6]: https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/HOTEND/M4%20%204-IN-1-OUT%20Mixing%20Color%20Hotend/M4_V6
-[LINK_Mix_Feature]: https://github.com/ZONESTAR3D/Document-and-User-Guide/tree/master/Mixing_Color
-[LINK_Firmware]: https://github.com/ZONESTAR3D/Firmware/tree/master/Z9/Z9V5/bin/Z9V5Pro-MK6
-[LINK_SourceCode]: https://github.com/ZONESTAR3D/source-code-for-3d-printer
-[LINK_Troubleshooting]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5_FAQ
+## <a id="A8">Optionale Funktionen </a>
+Wir haben einige optionale Funktionen für dieses Gerät eingeführt. Sie können diese Funktionen jederzeit nach Ihren Wünschen aktualisieren. Wenn Sie daran interessiert sind, lesen Sie bitte den Leitfaden zu optionalen Upgrade-Funktionen, um detailliertere Informationen zu erhalten.
+- [:book: Leitfaden für optionale Upgrade-Funktionen, Online-Dokument][Z9V5MK6_OPTION]
+- [:blue_book: Leitfaden für optionale Upgrade-Funktionen, PDF-Datei](./OptionalFeatures.pdf)
