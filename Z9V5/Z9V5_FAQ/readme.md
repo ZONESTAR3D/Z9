@@ -1,4 +1,5 @@
 # Z9V5 Troubleshooting
+
 -----
 ## Reference
 In order to find and solve the problem of the product, you may need to use the automatic test function, open the control box to check the wiring or tune the mortor drive current, use a "swap test" to check an electronic component, etc.. Here we list these guides, pictures and video tutorial for you reference.
@@ -10,8 +11,9 @@ The lower box has control board and AC power socket, and the connectors of X/Y/Z
 - **How to open the control box** [:art: Picture](./How_to_open_the_control_box.jpg) [:clapper: Video](https://github.com/ZONESTAR3D/Z9/assets/29502731/b1a81306-d17e-41e0-80e3-508cc2afe01d) 
 
 ### Electronics parts auto testing
-The Z9V5Pro machine has builted-in an electronics automatic testing program. You can use this program to determine where the problem comes from when any electronic component encounters a problem.    
-To start this program, you need to open the "**Info**" menu and rotate the knob to point to the "**Date: xx-xx-xx**" item, and then press the knob five times. For details, please refer to the [:clapper:**electronics parts auto testing video tutorial**](https://youtu.be/Mf92BlmKA0A).
+##### [:clapper:**Video Tutorial**](https://youtu.be/Mf92BlmKA0A).
+The Z9V5Pro machine has builted-in an automatic testing program. You can use this program to determine where the problem comes from when any electronic component encounters a problem.    
+To start this program, you need to open the "**Info**" menu and rotate the knob to point to the "**Date: xx-xx-xx**" item, and then press the knob five times. 
 
 ### About "swap test"
 When we find that there is a functional problem in the machine, and the cause of the problem has multiple possibilities (multiple parts may cause to the same problem), we have the opportunity to use the so-called "**swap test**" to locate the cause of the problem as soon as possible.    
@@ -28,14 +30,16 @@ The parts in the machine that can carry out the exchange test include:
 - [**Homing issue**](./Issue_of_Homing/readme.md)
 - [**Stepping motor(s) does not work properly**](./Issue_of_stepping_motor/readme.md)
 - [**Heating issue**](./Issue_heating/readme.md)
-- [**Logo Backlight issue**](./Issue_of_Backlight/readme.md)
 - [**Not read SD card issue**](./Issue_not_read_sdcard/readme.md)
-- [**Crash when connecting USB in Cura**](./issue_of_connect_USB_in_Cura/readme.md)
+- [**Bed auto leveling issue**](./Issue_bed_auto_leveling/readme.md)
 - [**Auto shut down when printing from SD card**](./Issue_auto_shut_down/readme.md)
 - [**Auto pause when printing from SD card**](./Issue_auto_pause/readme.md)
+- [**Mixing Color hotend is clogged**](./Issue_mix_color_hotend_clogged/readme.md)
+- [**LCD screen knob issue**](#lcd-screen-knob-issue)
+- [**Crash when connecting USB in Cura**](./issue_of_connect_USB_in_Cura/readme.md)
+<!-- - [**Logo Backlight issue**](./Issue_of_Backlight/readme.md) -->
 <!-- - [**Not extruding at the start of the print**](./Issue_not_extrusion_at_start/readme.md) -->
 <!-- - [**Prints not sticking to bed**](./Issue_not_sticking_to_bed/readme.md) -->
-- [**Bed auto leveling issue**](./Issue_bed_auto_leveling/readme.md)
 <!-- - [**Filament run out sensor issue**](./Issue_FROD/readme.md) -->
 <!-- - [**Filament clogged issue**](./Issue_M4hotend_clogged/readme.md) -->
 <!-- - [**Shifted layers when printing from SD card**]() -->
@@ -43,13 +47,12 @@ The parts in the machine that can carry out the exchange test include:
 <!-- - [**Warping or coner lifting**]() -->
 <!-- - [**Layer separation or warping within the part**]() -->
 <!-- - [**Blobs and/or pimples on exterior surface**]() -->
-- [**How to clean the cloged mixing Color hotend**](./Issue_mix_color_hotend_clogged/readme.md)
-- [**How to fix Extruder insufficient discharge issue**](./Issue_of_Extruder_insufficient_discharge/readme.md)
-- [**How to improve strings/drawing/oozing issue of the mixing color hotend**](./Issue_of_strings_drawing_m4/How_to_improve_Strings_or_Oozing_issue_of_mixing_color_hotend.pdf)
+<!-- - [**How to fix Extruder insufficient discharge issue**](./Issue_of_Extruder_insufficient_discharge/readme.md) -->
+<!-- - [**How to improve strings/drawing/oozing issue of the mixing color hotend**](./Issue_of_strings_drawing_m4/How_to_improve_Strings_or_Oozing_issue_of_mixing_color_hotend.pdf) -->
 <!-- - [**Scars on top surface**]() -->
 <!-- - [**Infill showing on exterior of print**]() -->
 <!-- - [**Weak infill**]() -->
-- [**LCD screen knob issue**](#lcd-screen-knob-issue)
+
 
 -----
 ## Other references
