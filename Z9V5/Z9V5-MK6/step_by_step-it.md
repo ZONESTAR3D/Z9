@@ -16,6 +16,8 @@
 ----
 ## Guida passo passo
 In una parola, dal momento in cui hai ricevuto la macchina al momento in cui puoi stampare il tuo file del modello 3D, sono necessari un totale di 5 passaggi: **Installazione - Livellamento del piano - Caricamento dei filamenti - Stampa del file gcode di prova - Affettatura e stampa il tuo file 3D**.
+###### 
+[![](https://img.youtube.com/vi/GrCOZ4ADHeA/0.jpg)](https://www.youtube.com/watch?v=GrCOZ4ADHeA)
 
 ### <a id ="a1">Passaggio 1. Installazione</a>
 - 1.1 **Installazione**. Fare riferimento a [:book: **guida all'installazione**](./1.Installation/Installation.md) e [:clapper: **video tutorial sull'installazione**](https://youtu.be/pdr8nLl3T3w) per completare l'installazione della macchina.

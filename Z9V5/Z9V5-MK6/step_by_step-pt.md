@@ -16,6 +16,8 @@
 ----
 ## Guia passo a passo
 Em uma palavra, desde o momento em que você recebeu a máquina até o momento em que você pode imprimir seu próprio arquivo de modelo 3D, são necessárias 5 etapas no total: **Instalação - Nivelamento da cama - Carregar filamentos - Imprimir arquivo gcode de teste - Fatiar e imprima seu próprio arquivo 3D**.
+###### 
+[![](https://img.youtube.com/vi/GrCOZ4ADHeA/0.jpg)](https://www.youtube.com/watch?v=GrCOZ4ADHeA)
 
 ### <a id ="a1">Etapa 1. Instalação</a>
 - 1.1 **Instalação**. Consulte o [:book: **guia de instalação**](./1.Installation/Installation.md) e [:clapper: **tutorial em vídeo de instalação**](https://youtu.be/pdr8nLl3T3w) para conclua a instalação da máquina.
