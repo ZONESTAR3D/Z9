@@ -59,7 +59,7 @@ If there is not enough filaments left in the filament roll to complete the curre
 1. If you're sure that the filament is enough, do not pass the filament through the **Filament Run Out Sensor**.         
 ![](./Advance_Features/FROD_NoFilament.png)     
 2. The printing pause may cause some obvious defects on the prints. 
-3. If you need to use the Filament run out detect function, you should insert fine wires on all 4 sensors. If you do not actually use 4 filaments when printing, you can cut a small segment of filaments and insert it into the shortage detection sensor. As shown in the following figure:     
+3. If you need to use the Filament run out detect function, you should insert filaments on all 4 sensors. If you do not actually use 4 filaments when printing, you can cut a small segment of filaments and insert it into the shortage detection sensor. As shown in the following figure:     
 ![](./Advance_Features/FROD_dummy.png)     
 
 -----
