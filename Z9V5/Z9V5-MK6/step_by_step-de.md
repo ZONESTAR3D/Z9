@@ -1,5 +1,6 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
+[VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -24,7 +25,7 @@ Kurz gesagt, von dem Moment an, an dem Sie das Gerät erhalten haben, bis zu dem
 ### <a id ="a1">Schritt 1. Installation</a>
 - 1.1 **Installation**. Weitere Informationen finden Sie im [:book: **Installationshandbuch**](./1.Installation/Installation.md) und im [:clapper: **Installationsvideo-Tutorial**](https://youtu.be/pdr8nLl3T3w). Schließen Sie die Installation der Maschine ab.
 - 1.2 **Verkabelung**. Bei der Verkabelung wird grundsätzlich der Stecker in die entsprechende Steckdose gesteckt. Sie müssen darauf achten, **sicherzustellen, dass die Anschlüsse richtig eingesteckt sind**, insbesondere bei den 2PIN-Docking-Buchsen. Darüber hinaus ist bei der Verkabelung des Druckkopfes (Hot End) zu beachten, dass es mehrere Buchsen gleicher, aber unterschiedlicher Farbe gibt, bitte achten Sie darauf, diese entsprechend der Farbe der Buchse zu stecken.
-- 1.3 **Einschalten**. Wenn die Verkabelung abgeschlossen ist, können Sie [:clapper: **Z9V5 einschalten**](https://youtu.be/xTlMHtxkGoY). Bitte beachten Sie insbesondere, dass der Z9V5 über 2 Netzschalter verfügt. Der eine ist der ***Wechselstromschalter*** (der rote Schalter auf der Rückseite der Maschine) und der andere ist der ***Gleichstromschalter*** (ein runder Druckknopfschalter aus Metall an der Vorderseite des Maschinensteuerkastens). Sie müssen zuerst den AC-Schalter einschalten und dann den DC-Schalter etwa 5 Sekunden lang **drücken und gedrückt halten**, um Z9V5 einzuschalten.
+- 1.3 **Einschalten**. Wenn die Verkabelung abgeschlossen ist, können Sie [:clapper: **Z9V5 einschalten**][VIDEO_POWERON]. Bitte beachten Sie insbesondere, dass der Z9V5 über 2 Netzschalter verfügt. Der eine ist der ***Wechselstromschalter*** (der rote Schalter auf der Rückseite der Maschine) und der andere ist der ***Gleichstromschalter*** (ein runder Druckknopfschalter aus Metall an der Vorderseite des Maschinensteuerkastens). Sie müssen zuerst den AC-Schalter einschalten und dann den DC-Schalter etwa 5 Sekunden lang **drücken und gedrückt halten**, um Z9V5 einzuschalten.
 - 1.4 **Einfach testen**. Nach dem Einschalten können Sie das Menü auf dem LCD-Bildschirm bedienen ([:book: **LCD-Menübeschreibung**](./2.Operation/LCDMENU_Description.md)), um zu überprüfen, ob das Gerät normal funktioniert. Normalerweise umfasst dies mehrere Schritte:
    - 1.4.1 **Vorbereiten>>Auto Home>>Home All**. Dieser Schritt dient dazu, den Druckkopf des Geräts zum Ursprung zurückzukehren.
    - 1.4.2 **Vorbereiten>>Temperatur>>PLA vorheizen**. In diesem Schritt wird das heiße Ende überprüft und das heiße Bett kann normal erhitzt werden. Wenn in diesem Schritt die Temperatur der Düse 60 Grad übersteigt, sollten Sie sehen, wie sich ein Lüfter auf der rechten Seite des Druckkopfs (heißes Ende) dreht , das ist der Hot-End-Lüfter.

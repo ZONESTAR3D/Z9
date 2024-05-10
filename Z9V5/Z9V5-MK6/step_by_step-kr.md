@@ -1,5 +1,6 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
+[VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -24,7 +25,7 @@
 ### <a id ="a1">1단계. 설치</a>
 - 1.1 **설치**. [:book: **설치 가이드**](./1.Installation/Installation.md) 및 [:clapper: **설치 비디오 튜토리얼**](https://youtu.be/pdr8nLl3T3w)을 참조하세요. 기계 설치를 완료합니다.
 - 1.2 **배선**. 배선 과정은 기본적으로 해당 소켓에 플러그를 삽입하는 것입니다. 주의해야 할 것은 **커넥터가 잘 꽂혀 있는지 확인**하는 것입니다. 특히 2PIN 도킹 소켓의 경우 더욱 그렇습니다. 또한, 프린트 헤드(핫 엔드)의 배선에는 동일하지만 색상이 다른 소켓이 여러 개 있으므로 소켓 색상에 따라 연결하도록 주의하십시오.
-- 1.3 **전원 켜기**. 배선이 완료되면 [:clapper: **Z9V5 켜기**](https://youtu.be/xTlMHtxkGoY)할 수 있습니다. 특히 Z9V5에는 2개의 전원 스위치가 있다는 점에 유의하세요. 하나는 ***AC 스위치***(기계 뒷면의 빨간색 스위치)이고 다른 하나는 ***DC 스위치***(기계 제어 상자 전면에 있는 둥근 금속 푸시 버튼 스위치)입니다. 먼저 AC 스위치를 켠 다음 DC 스위치를 약 5초 동안 **눌러서** Z9V5를 켜야 합니다.
+- 1.3 **전원 켜기**. 배선이 완료되면 [:clapper: **Z9V5 켜기**][VIDEO_POWERON]할 수 있습니다. 특히 Z9V5에는 2개의 전원 스위치가 있다는 점에 유의하세요. 하나는 ***AC 스위치***(기계 뒷면의 빨간색 스위치)이고 다른 하나는 ***DC 스위치***(기계 제어 상자 전면에 있는 둥근 금속 푸시 버튼 스위치)입니다. 먼저 AC 스위치를 켠 다음 DC 스위치를 약 5초 동안 **눌러서** Z9V5를 켜야 합니다.
 - 1.4 **단순한 테스트**. 전원을 켠 후 LCD 화면([:book: **LCD 메뉴 설명**](./2.Operation/LCDMENU_Description.md))에서 메뉴를 조작하여 기기가 정상적으로 작동하는지 확인할 수 있습니다. 일반적으로 여기에는 여러 단계가 포함됩니다.
    - 1.4.1 **준비>>자동 홈>>모두 홈**. 이 단계는 기계의 프린트 헤드를 원점으로 복귀시키는 단계입니다.
    - 1.4.2 **준비>>온도>>PLA 예열**. 이 단계는 핫엔드를 확인하는 단계이며 핫베드가 정상적으로 가열될 수 있습니다. 이 단계에서 노즐의 온도가 60도를 초과하면 프린트 헤드 오른쪽(핫엔드)의 팬이 회전하는 것을 볼 수 있습니다. , 이것은 핫 엔드 냉각 팬입니다.

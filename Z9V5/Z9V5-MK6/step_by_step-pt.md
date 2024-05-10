@@ -1,5 +1,6 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
+[VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -24,7 +25,7 @@ Em uma palavra, desde o momento em que você recebeu a máquina até o momento e
 ### <a id ="a1">Etapa 1. Instalação</a>
 - 1.1 **Instalação**. Consulte o [:book: **guia de instalação**](./1.Installation/Installation.md) e [:clapper: **tutorial em vídeo de instalação**](https://youtu.be/pdr8nLl3T3w) para conclua a instalação da máquina.
 - 1.2 **Fiação**. o processo de fiação consiste basicamente em inserir o plugue na tomada correspondente. O que você precisa prestar atenção é **certificar-se de que os conectores estão bem encaixados**, especialmente para os soquetes de acoplamento de 2 pinos. Além disso, para a fiação da cabeça de impressão (hot end), observe que existem vários soquetes da mesma cor, mas de cores diferentes, preste atenção para conectá-los de acordo com a cor do soquete.
-- 1.3 **LIGAR**. Quando a fiação estiver concluída, você pode [:clapper: **ligar o Z9V5**](https://youtu.be/xTlMHtxkGoY). Observe em particular que o Z9V5 possui 2 interruptores liga / desliga. um é o ***interruptor AC*** (o interruptor vermelho na parte traseira da máquina) e o outro é o ***interruptor DC*** (um botão redondo de metal na frente da caixa de controle da máquina), você precisa ligar o interruptor CA primeiro e depois **pressionar e segurar** o interruptor CC por cerca de 5 segundos para ligar o Z9V5.
+- 1.3 **LIGAR**. Quando a fiação estiver concluída, você pode [:clapper: **ligar o Z9V5**][VIDEO_POWERON]. Observe em particular que o Z9V5 possui 2 interruptores liga / desliga. um é o ***interruptor AC*** (o interruptor vermelho na parte traseira da máquina) e o outro é o ***interruptor DC*** (um botão redondo de metal na frente da caixa de controle da máquina), você precisa ligar o interruptor CA primeiro e depois **pressionar e segurar** o interruptor CC por cerca de 5 segundos para ligar o Z9V5.
 - 1.4 **Simplesmente teste**. Depois de ligar, você pode operar o menu na tela LCD ([:book: **LCD Menu description**](./2.Operation/LCDMENU_Description.md)) para verificar se a máquina pode funcionar normalmente. Geralmente isso envolve várias etapas:
    - 1.4.1 **Preparar>>Auto Home>>Home All**. Esta etapa serve para fazer com que o cabeçote de impressão da máquina retorne à origem.
    - 1.4.2 **Preparar>>Temperatura>>Pré-aquecer PLA**. Esta etapa é verificar se a extremidade quente e a cama quente podem ser aquecidas normalmente. Nesta etapa, quando a temperatura do bico exceder 60 graus, você deverá ver um ventilador no lado direito da cabeça de impressão (extremidade quente) girando. , este é o ventilador de resfriamento hot end.

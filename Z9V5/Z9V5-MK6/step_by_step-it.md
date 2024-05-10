@@ -1,5 +1,6 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
+[VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -24,7 +25,7 @@ In una parola, dal momento in cui hai ricevuto la macchina al momento in cui puo
 ### <a id ="a1">Passaggio 1. Installazione</a>
 - 1.1 **Installazione**. Fare riferimento a [:book: **guida all'installazione**](./1.Installation/Installation.md) e [:clapper: **video tutorial sull'installazione**](https://youtu.be/pdr8nLl3T3w) per completare l'installazione della macchina.
 - 1.2 **Cablaggio**. il processo di cablaggio consiste sostanzialmente nell'inserire la spina nella presa corrispondente. Ciò a cui devi prestare attenzione è **assicurarti che i connettori siano inseriti correttamente**, in particolare per le prese docking 2PIN. Inoltre, per il cablaggio della testina di stampa (hot end), tenere presente che esistono più prese uguali ma di colore diverso, prestare attenzione a collegarle in base al colore della presa.
-- 1.3 **Accensione**. Una volta completato il cablaggio, puoi [:clapper: **accendere Z9V5**](https://youtu.be/xTlMHtxkGoY). Si prega di notare in particolare che lo Z9V5 dispone di 2 interruttori di alimentazione. quello è ***interruttore CA***(l'interruttore rosso sul retro della macchina) e un altro è ***interruttore CC***(un interruttore a pulsante rotondo in metallo sulla parte anteriore della scatola di controllo della macchina), è necessario prima accendere l'interruttore CA, quindi **tenere premuto** l'interruttore CC per circa 5 secondi per accendere Z9V5.
+- 1.3 **Accensione**. Una volta completato il cablaggio, puoi [:clapper: **accendere Z9V5**][VIDEO_POWERON]. Si prega di notare in particolare che lo Z9V5 dispone di 2 interruttori di alimentazione. quello è ***interruttore CA***(l'interruttore rosso sul retro della macchina) e un altro è ***interruttore CC***(un interruttore a pulsante rotondo in metallo sulla parte anteriore della scatola di controllo della macchina), è necessario prima accendere l'interruttore CA, quindi **tenere premuto** l'interruttore CC per circa 5 secondi per accendere Z9V5.
 - 1.4 **Semplicemente prova**. Dopo l'accensione, è possibile utilizzare il menu sullo schermo LCD ([:book: **Descrizione menu LCD**](./2.Operation/LCDMENU_Description.md)) per verificare se la macchina può funzionare normalmente. Di solito questo comporta diversi passaggi:
    - 1.4.1 **Prepara>>Ritorno automatico>>Home tutto**. Questo passaggio serve a far ritornare la testina di stampa della macchina all'origine.
    - 1.4.2 **Prepara>>Temperatura>>Preriscalda PLA**. Questo passaggio serve per verificare che l'hot end e che il letto caldo possa essere riscaldato normalmente. In questo passaggio, quando la temperatura dell'ugello supera i 60 gradi, dovresti vedere una ventola sul lato destro della testina di stampa (hot end) che gira , questa è la ventola di raffreddamento dell'hotend.

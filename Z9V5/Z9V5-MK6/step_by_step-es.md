@@ -1,5 +1,6 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
+[VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -24,7 +25,7 @@ En una palabra, desde el momento en que recibe la máquina hasta el momento en q
 ### <a id ="a1">Paso 1. Instalación</a>
 - 1.1 **Instalación**. Consulte el [:book: **guía de instalación**](./1.Installation/Installation.md) y el [:clapper: **tutorial de instalación en vídeo**](https://youtu.be/pdr8nLl3T3w) para completar la instalación de la máquina.
 - 1.2 **Cableado**. El proceso de cableado consiste básicamente en introducir el enchufe en el enchufe correspondiente. Lo que debe prestar atención es **asegurarse de que los conectores estén bien enchufados**, especialmente para los enchufes de acoplamiento de 2 pines. Además, para el cableado del cabezal de impresión (extremo caliente), tenga en cuenta que hay varios enchufes del mismo pero de diferentes colores; preste atención para enchufarlos según el color del enchufe.
-- 1.3 **Encendido**. Cuando se complete el cableado, puede [:clapper: **encender Z9V5**](https://youtu.be/xTlMHtxkGoY). Tenga en cuenta en particular que el Z9V5 tiene 2 interruptores de alimentación. uno es ***interruptor de CA*** (el interruptor rojo en la parte posterior de la máquina) y otro es ***interruptor de CC*** (un interruptor de botón redondo de metal en la parte frontal de la caja de control de la máquina), primero debe encender el interruptor de CA y luego **mantener presionado** el interruptor de CC durante aproximadamente 5 segundos para encender Z9V5.
+- 1.3 **Encendido**. Cuando se complete el cableado, puede [:clapper: **encender Z9V5**][VIDEO_POWERON]. Tenga en cuenta en particular que el Z9V5 tiene 2 interruptores de alimentación. uno es ***interruptor de CA*** (el interruptor rojo en la parte posterior de la máquina) y otro es ***interruptor de CC*** (un interruptor de botón redondo de metal en la parte frontal de la caja de control de la máquina), primero debe encender el interruptor de CA y luego **mantener presionado** el interruptor de CC durante aproximadamente 5 segundos para encender Z9V5.
 - 1.4 **Simplemente prueba**. Después del encendido, puede operar el menú en la pantalla LCD ([:book: **LCD Menu description**](./2.Operation/LCDMENU_Description.md)) para verificar si la máquina puede funcionar normalmente. Normalmente esto implica varios pasos:
    - 1.4.1 **Preparar>>Inicio automático>>Inicio todo**. Este paso es para hacer que el cabezal de impresión de la máquina regrese al origen.
    - 1.4.2 **Preparar>>Temperatura>>Precalentar PLA**. Este paso es para verificar que el extremo caliente y la cama caliente se puedan calentar normalmente. En este paso, cuando la temperatura de la boquilla excede los 60 grados, debería ver un ventilador en el lado derecho del cabezal de impresión (extremo caliente) girar. , este es el ventilador de refrigeración del extremo caliente.

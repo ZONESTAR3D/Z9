@@ -1,5 +1,6 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
+[VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -24,7 +25,7 @@ In a word, from the moment you received the machine to the moment you can print 
 ### <a id ="a1">Step 1. Installation</a>
 - 1.1 **Installation**. Refer to the [:book: **installation guide**](./1.Installation/Installation.md) and [:clapper: **installation video tutorial**](https://youtu.be/pdr8nLl3T3w) to complete the installation of the machine.
 - 1.2 **Wiring**. the process of wiring is basically to insert the plug into the corresponding socket. What you need to pay attention is **to make sure the connectors are plug well**, especially for the 2PIN docking sockets. In addition, for the wiring of the print head (hot end), please note that there are several sockets of the same but different colors, please pay attention to plug them according to the color of the socket.
-- 1.3 **Power ON**. When wiring is complete, you can [:clapper: **turn on Z9V5**](https://youtu.be/xTlMHtxkGoY). Please note in particular that the Z9V5 has 2 power switches. the one is ***AC switch***(the red switch on the back of the machine) and another is ***DC switch***(a round metal push button switch on the front of the machine control box), you need to turn on the AC switch first and then **press and hold** the DC switch for about 5 seconds to turn on Z9V5.
+- 1.3 **Power ON**. When wiring is complete, you can [:clapper: **turn on Z9V5**][VIDEO_POWERON]. Please note in particular that the Z9V5 has 2 power switches. the one is ***AC switch***(the red switch on the back of the machine) and another is ***DC switch***(a round metal push button switch on the front of the machine control box), you need to turn on the AC switch first and then **press and hold** the DC switch for about 5 seconds to turn on Z9V5.
 - 1.4 **Simply Test**. After power on, you can operate the menu on the LCD screen ([:book: **LCD Menu description**](./2.Operation/LCDMENU_Description.md)) to verify whether the machine can work normally. Usually this involves several steps:
   - 1.4.1 **Prepare>>Auto Home>>Home All**. This step is to make the print head of the machine return to the origin.
   - 1.4.2 **Prepare>>Temperature>>Preheat PLA**. This step is to check the hot end and the hot bed can be heated normally.In this step, when the temperature of the nozzle exceeds 60 degrees, you should see a fan on the right side of the print head (hot end) spin up, this is the hot end cooling fan. 
