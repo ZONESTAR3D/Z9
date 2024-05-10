@@ -21,10 +21,12 @@
 ----
 ## Schritt für Schritt Anleitung
 Kurz gesagt, von dem Moment an, an dem Sie das Gerät erhalten haben, bis zu dem Moment, an dem Sie Ihre eigene 3D-Modelldatei drucken können, sind insgesamt 5 Schritte erforderlich: **Installation – Nivellieren des Bettes – Laden von Filamenten – Drucken der Test-Gcode-Datei – Schneiden und Drucken Sie Ihre eigene 3D-Datei**.
-#### Installation
+#### Installation (wie Z9V5-MK5)
 [![](https://img.youtube.com/vi/pdr8nLl3T3w/0.jpg)](https://www.youtube.com/watch?v=pdr8nLl3T3w)
-#### Basic Operations
+#### Grundoperationen
 [![](https://img.youtube.com/vi/GrCOZ4ADHeA/0.jpg)](https://www.youtube.com/watch?v=GrCOZ4ADHeA)
+#### Mehrfarbendruck
+[![](https://img.youtube.com/vi/iddKadfrdjw/0.jpg)](https://www.youtube.com/watch?v=iddKadfrdjw)
 
 ### <a id ="a1">Schritt 1. Installation</a>
 - 1.1 **Installation**. Weitere Informationen finden Sie im [:book: **Installationshandbuch**](./1.Installation/Installation.md) und im [:clapper: **Installationsvideo-Tutorial**](https://youtu.be/pdr8nLl3T3w). Schließen Sie die Installation der Maschine ab.

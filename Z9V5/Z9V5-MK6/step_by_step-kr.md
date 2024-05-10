@@ -21,10 +21,12 @@
 ----
 ## 단계별 가이드
 한마디로, 기계를 받은 순간부터 자신의 3D 모델 파일을 인쇄할 수 있는 순간까지 총 5단계가 필요합니다. **설치 - 베드 레벨링 - 필라멘트 로드 - 테스트 gcode 파일 인쇄 - 슬라이싱 및 자신만의 3D 파일을 인쇄하세요**.
-#### Installation
+#### 설치(Z9V5-MK5와 동일)
 [![](https://img.youtube.com/vi/pdr8nLl3T3w/0.jpg)](https://www.youtube.com/watch?v=pdr8nLl3T3w)
-#### Basic Operations
+#### 기본 작업
 [![](https://img.youtube.com/vi/GrCOZ4ADHeA/0.jpg)](https://www.youtube.com/watch?v=GrCOZ4ADHeA)
+#### 멀티 컬러 인쇄
+[![](https://img.youtube.com/vi/iddKadfrdjw/0.jpg)](https://www.youtube.com/watch?v=iddKadfrdjw)
 
 ### <a id ="a1">1단계. 설치</a>
 - 1.1 **설치**. [:book: **설치 가이드**](./1.Installation/Installation.md) 및 [:clapper: **설치 비디오 튜토리얼**](https://youtu.be/pdr8nLl3T3w)을 참조하세요. 기계 설치를 완료합니다.

@@ -21,10 +21,12 @@
 ----
 ## Guide étape par étape
 En un mot, à partir du moment où vous recevez la machine jusqu'au moment où vous pouvez imprimer votre propre fichier de modèle 3D, 5 étapes au total sont requises : **Installation - Mise à niveau du lit - Chargement des filaments - Impression du fichier gcode de test - Tranchage et imprimez votre propre fichier 3D**.
-#### Installation
+#### Installation (identique à Z9V5-MK5)
 [![](https://img.youtube.com/vi/pdr8nLl3T3w/0.jpg)](https://www.youtube.com/watch?v=pdr8nLl3T3w)
-#### Basic Operations
+#### Opérations de base
 [![](https://img.youtube.com/vi/GrCOZ4ADHeA/0.jpg)](https://www.youtube.com/watch?v=GrCOZ4ADHeA)
+#### Impression multicolore
+[![](https://img.youtube.com/vi/iddKadfrdjw/0.jpg)](https://www.youtube.com/watch?v=iddKadfrdjw)
 
 ### <a id ="a1">Étape 1. Installation</a>
 - 1.1 **Installation**. Reportez-vous au [:book: **guide d'installation**](./1.Installation/Installation.md) et au [:clapper: **tutoriel vidéo d'installation**](https://youtu.be/pdr8nLl3T3w) pour terminer l'installation de la machine.

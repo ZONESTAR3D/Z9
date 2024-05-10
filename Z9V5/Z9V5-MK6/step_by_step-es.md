@@ -21,10 +21,12 @@
 ----
 ## Guía paso por paso
 En una palabra, desde el momento en que recibe la máquina hasta el momento en que puede imprimir su propio archivo de modelo 3D, se requieren un total de 5 pasos: **Instalación - Nivelación de la cama - Cargar filamentos - Imprimir el archivo gcode de prueba - Cortar y Imprima su propio archivo 3D**.
-#### Installation
+#### Instalación (Igual que Z9V5-MK5)
 [![](https://img.youtube.com/vi/pdr8nLl3T3w/0.jpg)](https://www.youtube.com/watch?v=pdr8nLl3T3w)
-#### Basic Operations
+#### Operaciones básicas
 [![](https://img.youtube.com/vi/GrCOZ4ADHeA/0.jpg)](https://www.youtube.com/watch?v=GrCOZ4ADHeA)
+#### Impresión multicolor
+[![](https://img.youtube.com/vi/iddKadfrdjw/0.jpg)](https://www.youtube.com/watch?v=iddKadfrdjw)
 
 ### <a id ="a1">Paso 1. Instalación</a>
 - 1.1 **Instalación**. Consulte el [:book: **guía de instalación**](./1.Installation/Installation.md) y el [:clapper: **tutorial de instalación en vídeo**](https://youtu.be/pdr8nLl3T3w) para completar la instalación de la máquina.

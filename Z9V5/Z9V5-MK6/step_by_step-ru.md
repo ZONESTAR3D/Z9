@@ -21,10 +21,12 @@
 ----
 ## Пошаговое руководство
 Короче говоря, с момента получения машины до момента, когда вы сможете распечатать свой собственный файл 3D-модели, необходимо выполнить в общей сложности 5 шагов: **Установка - Выравнивание стола - Загрузка нитей - Печать тестового файла gcode - Нарезка и распечатайте свой собственный 3D-файл**.
-#### Installation
+#### Установка (аналогично Z9V5-MK5)
 [![](https://img.youtube.com/vi/pdr8nLl3T3w/0.jpg)](https://www.youtube.com/watch?v=pdr8nLl3T3w)
-#### Basic Operations
+#### Основные операции
 [![](https://img.youtube.com/vi/GrCOZ4ADHeA/0.jpg)](https://www.youtube.com/watch?v=GrCOZ4ADHeA)
+#### Многоцветная печать
+[![](https://img.youtube.com/vi/iddKadfrdjw/0.jpg)](https://www.youtube.com/watch?v=iddKadfrdjw)
 
 ### <a id ="a1">Шаг 1. Установка</a>
 - 1.1 **Установка**. Обратитесь к [:book: **руководству по установке**](./1.Installation/Installation.md) и [:clapper: **видеоруководству по установке**](https://youtu.be/pdr8nLl3T3w), чтобы завершить установку машины.
