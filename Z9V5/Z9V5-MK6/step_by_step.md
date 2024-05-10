@@ -3,6 +3,7 @@
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
+[VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -47,6 +48,7 @@ Refer to this [:clapper: video tutorial][VIDEO_LOADFILAMENT] to load all 4 filam
 FDM 3D printers can only recognize gcode files, you need to copy the gcode files to the SD card, insert the SD card into the SD card socket of the 3D printer, and then start to print.    
 Since Z9V5Pro is a 3D printer with 4 extruders, we suggest that you print a one color 3d model and a 4 colors 3d model to test whether the machine is working properly.
 #### Print one color 3d prints
+##### [:clapper: Video Tutorial][VIDEO_PRINT1C]
 - **Prepare gcode file**. Locate the **xyz_cube.gcode** file from your SD card or [:arrow_down: click here to download it](./3.TestGcode/Test_gcode.zip) and unzip it on your PC, and then copy the **xyz_cube.gcode** to SD card, plug the SD card to the machine's SD socket.
 - **Print from SD card**. Move cursor to **Print** item on LCD screen and click the knob and choose **xyz_cube** file, click knob to start printing.
 - **Fine tune nozzle height**. Wait the nozzle and hotbed heating, and when starting to print the first layer, double click the knob of LCD screen and fine tune the distance from the nozzle to the bed (nozzle is higher than sticker about 0.4mm), wait until the printing is finished.

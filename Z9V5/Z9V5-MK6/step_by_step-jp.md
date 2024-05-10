@@ -3,6 +3,7 @@
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
+[VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -48,6 +49,7 @@
 FDM 3D プリンタは gcode ファイルのみを認識できるため、gcode ファイルを SD カードにコピーし、SD カードを 3D プリンタの SD カード ソケットに挿入して、印刷を開始する必要があります。
 Z9V5Pro は 4 つの押出機を備えた 3D プリンターであるため、1 色の 3D モデルと 4 色の 3D モデルを印刷して、機械が適切に動作するかどうかをテストすることをお勧めします。
 #### 1 色の 3D プリントを印刷する
+##### [:clapper: ビデオ チュートリアル][VIDEO_PRINT1C]
 - **gcode ファイルを準備します**。 SD カードから **xyz_cube.gcode** ファイルを見つけるか、[:arrow_down: ここをクリックしてダウンロード](./3.Test_gcode/xyz_cube.zip) を PC 上で解凍し、**xyz_cube をコピーします。 .gcode** を SD カードにコピーするには、SD カードをマシンの SD ソケットに接続します。
 - **SD カードから印刷**。 LCD 画面上の **印刷** 項目にカーソルを移動し、ノブをクリックして **xyz_cube** ファイルを選択し、ノブをクリックして印刷を開始します。
 - **ノズルの高さを微調整します**。 ノズルとホットベッドの加熱を待ち、最初の層の印刷を開始するときに、LCD 画面のノブをダブルクリックしてノズルからベッドまでの距離を微調整し (ノズルはステッカーより約 0.4 mm 高くなります)、印刷が完了するまで待ちます。 終了した。

@@ -3,6 +3,7 @@
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
+[VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -32,13 +33,13 @@ Kurz gesagt, von dem Moment an, an dem Sie das Gerät erhalten haben, bis zu dem
    - 1.4.1 **Vorbereiten>>Auto Home>>Home All**. Dieser Schritt dient dazu, den Druckkopf des Geräts zum Ursprung zurückzukehren.
    - 1.4.2 **Vorbereiten>>Temperatur>>PLA vorheizen**. In diesem Schritt wird das heiße Ende überprüft und das heiße Bett kann normal erhitzt werden. Wenn in diesem Schritt die Temperatur der Düse 60 Grad übersteigt, sollten Sie sehen, wie sich ein Lüfter auf der rechten Seite des Druckkopfs (heißes Ende) dreht , das ist der Hot-End-Lüfter.
    - 1.4.3 **Vorbereiten>>Temperatur>>Lüftergeschwindigkeit:**. Nachdem Sie den Knopf gedrückt und die Lüftergeschwindigkeit eingestellt haben (auf 255 eingestellt), sollten Sie nun auch den Lüfter (auf der linken Seite für M4V6-Hotend) hochdrehen können.
-   Nachdem diese 3 Schritte grundsätzlich festgestellt wurden, dass die Maschine normal funktioniert, können Sie mit den folgenden Schritten fortfahren. Wenn Sie feststellen, dass ein Teil nicht ordnungsgemäß funktioniert, überprüfen Sie bitte die Verkabelung noch einmal oder lesen Sie [:clapper: **Video-Tutorial zum automatischen Testen von Maschinen**](https://youtu.be/Mf92BlmKA0A), um eine automatische Maschine zu testen testen.
+   Nachdem diese 3 Schritte grundsätzlich festgestellt wurden, dass die Maschine normal funktioniert, können Sie mit den folgenden Schritten fortfahren. Wenn Sie feststellen, dass ein Teil nicht ordnungsgemäß funktioniert, überprüfen Sie bitte die Verkabelung noch einmal oder lesen Sie [:clapper: **Videoanleitung zum automatischen Testen von Maschinen**](https://youtu.be/Mf92BlmKA0A), um eine automatische Maschine zu testen testen.
 
 ### <a id ="a2">Schritt 2. Das Bett nivellieren</a>
-Bevor Sie mit dem Drucken beginnen, müssen Sie eine einfache Bettnivellierung durchführen, um die Höhe zwischen der Düse und dem Bett (Druckplattform) einzustellen, damit das Filament gut auf dem Bett haften kann. Weitere Informationen finden Sie unter [:clapper: **Video-Tutorial zur Bettnivellierung**][VIDEO_BEDLEVEL].
+Bevor Sie mit dem Drucken beginnen, müssen Sie eine einfache Bettnivellierung durchführen, um die Höhe zwischen der Düse und dem Bett (Druckplattform) einzustellen, damit das Filament gut auf dem Bett haften kann. Weitere Informationen finden Sie unter [:clapper: **Videoanleitung zur Bettnivellierung**][VIDEO_BEDLEVEL].
 
 ### <a id ="a3">Schritt 3. Filamente laden</a>
-Sehen Sie sich dieses [:clapper: Video-Tutorial][VIDEO_LOADFILAMENT] an, um alle 4 Filamente in die Extruder und das heiße Ende zu laden.
+Sehen Sie sich dieses [:clapper: Videoanleitung][VIDEO_LOADFILAMENT] an, um alle 4 Filamente in die Extruder und das heiße Ende zu laden.
 #### :warning: ACHTUNG BITTE :warning:
 1. **Sie müssen alle 4 Filamente am heißen Ende laden, unabhängig davon, ob Sie ein- oder mehrfarbige 3D-Drucke drucken.**
 2. **Stellen Sie sicher, dass die Filamente bis zum unteren Ende des heißen Endes geladen wurden, andernfalls kann es zu einer Blockierung des heißen Endes kommen.**
@@ -47,6 +48,7 @@ Sehen Sie sich dieses [:clapper: Video-Tutorial][VIDEO_LOADFILAMENT] an, um alle
 FDM-3D-Drucker können nur Gcode-Dateien erkennen. Sie müssen die Gcode-Dateien auf die SD-Karte kopieren, die SD-Karte in den SD-Kartensteckplatz des 3D-Druckers einstecken und dann mit dem Drucken beginnen.
 Da es sich beim Z9V5Pro um einen 3D-Drucker mit 4 Extrudern handelt, empfehlen wir Ihnen, ein einfarbiges 3D-Modell und ein 4-Farben-3D-Modell zu drucken, um zu testen, ob die Maschine ordnungsgemäß funktioniert.
 #### Drucken Sie einfarbige 3D-Drucke
+##### [:clapper: Videoanleitung][VIDEO_PRINT1C]
 - **Gcode-Datei vorbereiten**. Suchen Sie die Datei **xyz_cube.gcode** auf Ihrer SD-Karte oder [:arrow_down: klicken Sie hier, um sie herunterzuladen](./3.Test_gcode/xyz_cube.zip), entpacken Sie sie auf Ihrem PC und kopieren Sie dann den **xyz_cube .gcode** auf die SD-Karte übertragen, stecken Sie die SD-Karte in den SD-Anschluss des Geräts.
 - **Drucken von SD-Karte**. Bewegen Sie den Cursor auf das Element **Drucken** auf dem LCD-Bildschirm, klicken Sie auf den Knopf und wählen Sie die Datei **xyz_cube** aus. Klicken Sie auf den Knopf, um den Druck zu starten.
 - **Düsenhöhe fein einstellen**. Warten Sie, bis sich die Düse und das Heizbett erwärmt haben. Wenn Sie mit dem Drucken der ersten Schicht beginnen, doppelklicken Sie auf den Knopf des LCD-Bildschirms und stellen Sie den Abstand von der Düse zum Bett fein ein (Düse ist etwa 0,4 mm höher als der Aufkleber). Warten Sie, bis der Druckvorgang abgeschlossen ist fertig.

@@ -3,6 +3,7 @@
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
+[VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -47,6 +48,7 @@ Consulte este [:clapper: vídeo tutorial][VIDEO_LOADFILAMENT] para carregar todo
 As impressoras 3D FDM só podem reconhecer arquivos gcode, você precisa copiar os arquivos gcode para o cartão SD, inserir o cartão SD no soquete do cartão SD da impressora 3D e então começar a imprimir.
 Como a Z9V5Pro é uma impressora 3D com 4 extrusoras, sugerimos que você imprima um modelo 3D de uma cor e um modelo 3D de 4 cores para testar se a máquina está funcionando corretamente.
 #### Imprima impressões 3D em uma cor
+##### [:clapper: vídeo tutorial][VIDEO_PRINT1C]
 - **Prepare o arquivo gcode**. Localize o arquivo **xyz_cube.gcode** em seu cartão SD ou [:arrow_down: clique aqui para baixá-lo](./3.Test_gcode/xyz_cube.zip) e descompacte-o em seu PC e copie o arquivo **xyz_cube .gcode** para cartão SD, conecte o cartão SD ao soquete SD da máquina.
 - **Imprimir do cartão SD**. Mova o cursor para o item **Imprimir** na tela LCD e clique no botão e escolha o arquivo **xyz_cube**, clique no botão para iniciar a impressão.
 - **Ajuste a altura do bico**. Aguarde o aquecimento do bico e do viveiro, e ao iniciar a impressão da primeira camada, clique duas vezes no botão da tela LCD e ajuste a distância do bico à base (o bico é superior ao adesivo cerca de 0,4 mm), aguarde até que a impressão seja finalizado.

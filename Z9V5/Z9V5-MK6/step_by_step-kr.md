@@ -3,6 +3,7 @@
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
+[VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -47,6 +48,7 @@
 FDM 3D 프린터는 gcode 파일만 인식할 수 있습니다. gcode 파일을 SD 카드에 복사하고 SD 카드를 3D 프린터의 SD 카드 소켓에 삽입한 다음 인쇄를 시작해야 합니다.
 Z9V5Pro는 4개의 압출기가 있는 3D 프린터이므로 단색 3D 모델과 4색 3D 모델을 인쇄하여 기계가 제대로 작동하는지 테스트하는 것이 좋습니다.
 #### 단색 3D 프린트 인쇄
+#####  [:clapper: 동영상 튜토리얼][VIDEO_PRINT1C]
 - **gcode 파일을 준비하세요**. SD 카드에서 **xyz_cube.gcode** 파일을 찾거나 [:arrow_down: 다운로드하려면 여기를 클릭](./3.Test_gcode/xyz_cube.zip)하여 PC에 압축을 푼 다음 **xyz_cube를 복사하세요. .gcode**를 SD 카드에 연결하려면 SD 카드를 기기의 SD 소켓에 연결하세요.
 - **SD 카드에서 인쇄**. LCD 화면의 **Print** 항목으로 커서를 이동한 후 손잡이를 클릭하고 **xyz_cube** 파일을 선택한 후 손잡이를 클릭하여 인쇄를 시작합니다.
 - **노즐 높이를 미세 조정하세요**. 노즐과 온상 가열을 기다린 후 첫 번째 레이어 인쇄를 시작할 때 LCD 화면의 손잡이를 두 번 클릭하고 노즐에서 베드까지의 거리를 미세 조정하고(노즐은 스티커보다 약 0.4mm 높음) 인쇄가 완료될 때까지 기다립니다. 완성된.

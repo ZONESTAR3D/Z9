@@ -3,6 +3,7 @@
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
+[VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -38,7 +39,7 @@ In una parola, dal momento in cui hai ricevuto la macchina al momento in cui puo
 Prima di iniziare a stampare, è necessario eseguire un semplice livellamento del letto per impostare l'altezza tra l'ugello e il letto (piattaforma di stampa), in modo che il filamento possa essere incollato bene sul letto. Fare riferimento a [:clapper: **Tutorial video sul livellamento del letto**][VIDEO_BEDLEVEL] per farlo.
 
 ### <a id ="a3">Passaggio 3. Carica i filamenti</a>
-Fai riferimento a questo [:clapper: video tutorial][VIDEO_LOADFILAMENT] per caricare tutti e 4 i filamenti negli estrusori e nell'hot end.
+Fai riferimento a questo [:clapper: Esercitazione video][VIDEO_LOADFILAMENT] per caricare tutti e 4 i filamenti negli estrusori e nell'hot end.
 #### :warning: ATTENZIONE PER FAVORE :warning:
 1. **È necessario caricare tutti e 4 i filamenti sull'hot-end qualunque sia la stampa 3D monocolore o multicolore.**
 2. **Assicurarsi che i filamenti siano stati caricati sul fondo dell'hot end, altrimenti potrebbe causare il blocco dell'hot end.**
@@ -47,6 +48,7 @@ Fai riferimento a questo [:clapper: video tutorial][VIDEO_LOADFILAMENT] per cari
 Le stampanti 3D FDM possono riconoscere solo file gcode, è necessario copiare i file gcode sulla scheda SD, inserire la scheda SD nella presa per scheda SD della stampante 3D e quindi iniziare a stampare.
 Poiché Z9V5Pro è una stampante 3D con 4 estrusori, ti suggeriamo di stampare un modello 3D a un colore e un modello 3D a 4 colori per verificare se la macchina funziona correttamente.
 #### Stampa stampe 3D a un colore
+##### [:clapper: Esercitazione video][VIDEO_PRINT1C]
 - **Prepara il file gcode**. Individua il file **xyz_cube.gcode** dalla tua scheda SD o [:arrow_down: fai clic qui per scaricarlo](./3.Test_gcode/xyz_cube.zip) e decomprimilo sul tuo PC, quindi copia il **xyz_cube .gcode** su scheda SD, collegare la scheda SD alla presa SD della macchina.
 - **Stampa da scheda SD**. Spostare il cursore sulla voce **Stampa** sullo schermo LCD, fare clic sulla manopola e scegliere il file **xyz_cube**, fare clic sulla manopola per avviare la stampa.
 - **Regolazione fine dell'altezza dell'ugello**. Attendere il riscaldamento dell'ugello e del piano caldo e, quando si inizia a stampare il primo strato, fare doppio clic sulla manopola dello schermo LCD e regolare con precisione la distanza dall'ugello al letto (l'ugello è più alto dell'adesivo di circa 0,4 mm), attendere fino al completamento della stampa. finito.

@@ -3,6 +3,7 @@
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
+[VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -32,13 +33,13 @@ En una palabra, desde el momento en que recibe la máquina hasta el momento en q
    - 1.4.1 **Preparar>>Inicio automático>>Inicio todo**. Este paso es para hacer que el cabezal de impresión de la máquina regrese al origen.
    - 1.4.2 **Preparar>>Temperatura>>Precalentar PLA**. Este paso es para verificar que el extremo caliente y la cama caliente se puedan calentar normalmente. En este paso, cuando la temperatura de la boquilla excede los 60 grados, debería ver un ventilador en el lado derecho del cabezal de impresión (extremo caliente) girar. , este es el ventilador de refrigeración del extremo caliente.
    - 1.4.3 **Preparar>>Temperatura>>Velocidad del VENTILADOR:**. Después de presionar la perilla y configurar la velocidad del ventilador (establecida en 255), ahora también debería poder subir el ventilador (en el lado izquierdo para el hotend M4V6).
-   Después de estos 3 pasos, básicamente se determina que la máquina está funcionando normalmente, puede continuar con los siguientes pasos. Si descubre que alguna pieza no funciona correctamente, verifique nuevamente el cableado o consulte [:clapper: **video tutorial de prueba automática de la máquina**](https://youtu.be/Mf92BlmKA0A) para realizar una máquina automática. pruebas.
+   Después de estos 3 pasos, básicamente se determina que la máquina está funcionando normalmente, puede continuar con los siguientes pasos. Si descubre que alguna pieza no funciona correctamente, verifique nuevamente el cableado o consulte [:clapper: **vídeotutorial de prueba automática de la máquina**](https://youtu.be/Mf92BlmKA0A) para realizar una máquina automática. pruebas.
 
 ### <a id ="a2">Paso 2. Nivelar la cama</a>
 Antes de comenzar a imprimir, debe realizar una simple nivelación de la cama para establecer la altura entre la boquilla y la cama (plataforma de impresión), de modo que el filamento se pueda pegar bien en la cama. Consulte [:clapper: **Videotutorial de nivelación de la cama**][VIDEO_BEDLEVEL] para hacerlo.
 
 ### <a id ="a3">Paso 3. Cargar filamentos</a>
-Consulte este [:clapper: video tutorial][VIDEO_LOADFILAMENT] para cargar los 4 filamentos en las extrusoras y el extremo caliente.
+Consulte este [:clapper: vídeo tutorial][VIDEO_LOADFILAMENT] para cargar los 4 filamentos en las extrusoras y el extremo caliente.
 #### :warning: ATENCIÓN POR FAVOR :warning:
 1. **Necesita cargar los 4 filamentos en el extremo caliente, independientemente de lo que imprima en un color o en impresiones 3D de varios colores.**
 2. **Asegúrese de que los filamentos se hayan cargado hasta la parte inferior del extremo caliente; de lo contrario, podría bloquear el extremo caliente.**
@@ -47,6 +48,7 @@ Consulte este [:clapper: video tutorial][VIDEO_LOADFILAMENT] para cargar los 4 f
 Las impresoras 3D FDM solo pueden reconocer archivos gcode; debe copiar los archivos gcode a la tarjeta SD, insertar la tarjeta SD en el zócalo para tarjetas SD de la impresora 3D y luego comenzar a imprimir.
 Dado que Z9V5Pro es una impresora 3D con 4 extrusoras, le sugerimos que imprima un modelo 3D de un color y un modelo 3D de 4 colores para probar si la máquina funciona correctamente.
 #### Imprimir impresiones 3D de un color
+##### [:clapper: vídeo tutorial][VIDEO_PRINT1C]
 - **Preparar archivo gcode**. Localice el archivo **xyz_cube.gcode** de su tarjeta SD o [:arrow_down: haga clic aquí para descargarlo](./3.Test_gcode/xyz_cube.zip) y descomprímalo en su PC, y luego copie el archivo **xyz_cube .gcode** a la tarjeta SD, conecte la tarjeta SD al conector SD de la máquina.
 - **Imprimir desde tarjeta SD**. Mueva el cursor al elemento **Imprimir** en la pantalla LCD y haga clic en la perilla y elija el archivo **xyz_cube**, haga clic en la perilla para comenzar a imprimir.
 - **Ajuste la altura de la boquilla**. Espere a que se calienten la boquilla y la cama, y cuando comience a imprimir la primera capa, haga doble clic en la perilla de la pantalla LCD y ajuste la distancia desde la boquilla hasta la cama (la boquilla es más alta que la etiqueta adhesiva aproximadamente 0,4 mm), espere hasta que finalice la impresión. finalizado.
