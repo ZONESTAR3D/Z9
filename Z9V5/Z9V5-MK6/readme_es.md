@@ -38,17 +38,17 @@
 
 ------
 ## :book: Contenido
-- [**Guía de instalación**](#A1)
-- [**Guía de operación**](#A2)
-- [**Probar archivos gcode**](#A3)
-- [**Software de corte**](#A4)
-- [**Firmware**](#A5)
-- [**Solución de problemas**](#A6)
-- [**Imprimir archivos stl de piezas**](#A7)
-- [**Funciones de actualización opcionales**](#A8)
+- [**Guía de instalación**](#a1)
+- [**Guía de operación**](#a2)
+- [**Probar archivos gcode**](#a3)
+- [**Software de corte**](#a4)
+- [**Firmware**](#a5)
+- [**Solución de problemas**](#a6)
+- [**Imprimir archivos stl de piezas**](#a7)
+- [**Funciones de actualización opcionales**](#a8)
 
 -----
-## <a id="A1"> 1. Guía de instalación </a>
+## <a id="a1"> 1. Guía de instalación </a>
 Primero, consulte los siguientes documentos y vídeos para completar la instalación y el cableado de la máquina.
 ### Instalación
 - [:book: Documento en línea de la guía de instalación](./1.Installation/Installation.md)
@@ -60,7 +60,7 @@ Primero, consulte los siguientes documentos y vídeos para completar la instalac
 - [:art: Diagrama de cableado](./1.Installation/Z9V5Pro_Wiring_Diagram.jpg)
 - [:clapper: Videotutorial de cableado](https://youtu.be/tQQNLDOpdQU)
 
-## <a id="A2"> 2. Guía de operación </a>
+## <a id="a2"> 2. Guía de operación </a>
 ### **Introducción al panel de control LCD**
 Después de completar la instalación y el cableado, consulte la siguiente guía para saber cómo utilizar el panel de control (pantalla LCD) y comprender las funciones del menú LCD en general.
 - [:book: Documento en línea del menú LCD](./2.Operation/LCDMENU_Description.md)
@@ -76,7 +76,7 @@ También puede leer los siguientes documentos para obtener una comprensión más
 - [:book: Imprimir desde PC](./2.Operation/PrintFromPC/readme.md)
 - [:book: Guía de uso de funciones avanzadas](./2.Operation/Advance_Features.md)
 
-## <a id="A3"> 3. Pruebe el archivo de código G </a>
+## <a id="a3"> 3. Pruebe el archivo de código G </a>
 **:pencil: ¿Qué es el código G en la impresión 3D?**
 El código G es información o instrucciones que la impresora 3D requiere para imprimir un objeto tridimensional, es el lenguaje que la impresora 3D puede entender. Su software de corte genera G-Code, traduciendo un archivo de modelado 3D estándar como STL, objeto, archivo AMF, etc. :page_with_curl: [**Referencia 1**][GCODE_REF1] :page_with_curl: [**Referencia 2**][GCODE_REF2]     
 Almacenamos algunos archivos gcode de prueba en la tarjeta SD, para ayudar a verificar si la máquina estaba funcionando correctamente o para demostrar qué funciones de impresión tiene esta máquina. Si no puede encontrar los archivos gcode de prueba en la tarjeta SD, descárguelos desde [:arrow_down: **aquí**](./3.TestGcode/Test_gcode.zip).
@@ -92,13 +92,13 @@ Almacenamos algunos archivos gcode de prueba en la tarjeta SD, para ayudar a ver
 - **level_test_310-G29.gcode**: un archivo de prueba utilizado para verificar la planitud de la cama caliente (con nivelación automática de la cama).
 **[:arrow_down: descargar más archivos gcode de prueba][M4_TEST_GCODE].**
  
-## <a id="A4"> 4. Cortar </a>
+## <a id="a4"> 4. Cortar </a>
 **[:pencil: ¿Qué es el corte en impresión 3D?](https://en.wikipedia.org/wiki/Slicer_(3D_printing))**
 Una cortadora es un software de generación de trayectorias de herramientas que se utiliza en la mayoría de los procesos de impresión 3D para la conversión de un modelo de objeto 3D en instrucciones específicas para la impresora. En particular, la conversión de un modelo en formato STL a comandos de impresora en formato de código g en la fabricación de filamentos fundidos y otros procesos similares.
 - [:book:Documento en línea de la Guía del usuario de Slicer](./4.Slicing/readme.md)
 - [:blue_book: Archivo PDF de la guía del usuario de Slicer](./4.Slicing/Slicing.pdf)
 
-## <a id="A5"> 5. Firmware </a>
+## <a id="a5"> 5. Firmware </a>
 **:pencil: ¿Qué es el archivo bin del firmware y el código fuente?**
 El archivo bin de firmware es la memoria exacta que se escribe en la memoria flash integrada.
 El código fuente del firmware es la parte central del firmware. Nuestro código fuente de firmware se basa en [**marlin**](https://www.marlinfw.org).     
@@ -106,14 +106,14 @@ Puede descargar el archivo bin del firmware o el código fuente desde el siguien
 - [:arrow_down: archivo contenedor de firmware][LINK_FIRMWARE]
 - [:arrow_down: código fuente del firmware][LINK_SOURCECODE]
 
-## <a id="A6"> 6. Solución de problemas </a>
+## <a id="a6"> 6. Solución de problemas </a>
 Si tiene algún problema al instalar y utilizar la impresora, primero intente encontrar una solución en el [:book: Documento en línea de solución de problemas][LINK_TROUBLESHOOTING]. Si no puede resolver este problema, contáctenos por correo electrónico (:email: support@zonestar3d.com).
 
-## <a id="A7"> 7. Imprimir piezas </a>
+## <a id="a7"> 7. Imprimir piezas </a>
 Hay varios componentes de la máquina que están impresos y también hemos preparado algunas actualizaciones para usted. Si lo desea, puede descargarlos e imprimirlos y luego instalarlos en su máquina.
 
 -----
-## <a id="A8"> Funciones opcionales </a>
+## <a id="a8"> Funciones opcionales </a>
 Hemos introducido algunas funciones opcionales para esta máquina; puede actualizar estas funciones en cualquier momento según sus preferencias. Si está interesado en esto, lea la guía de funciones de actualización opcionales para obtener información más detallada.
 - [:book: Documento en línea de la guía de funciones de actualización opcional][Z9V5MK6_OPTION]
 - [:blue_book: archivo pdf de la guía de funciones de actualización opcionales](./OptionalFeatures.pdf)

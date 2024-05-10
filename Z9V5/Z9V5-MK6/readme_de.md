@@ -37,17 +37,17 @@
 
 ------
 ## :book: Inhalt
-- [**Installationsanleitung**](#A1)
-- [**Bedienungsanleitung**](#A2)
-- [**Gcode-Dateien testen**](#A3)
-- [**Slicing-Software**](#A4)
-- [**Firmware**](#A5)
-- [**Fehlerbehebung**](#A6)
-- [**Teile-STL-Dateien drucken**](#A7)
-- [**Optionale Upgrade-Funktionen**](#A8)
+- [**Installationsanleitung**](#a1)
+- [**Bedienungsanleitung**](#a2)
+- [**Gcode-Dateien testen**](#a3)
+- [**Slicing-Software**](#a4)
+- [**Firmware**](#a5)
+- [**Fehlerbehebung**](#a6)
+- [**Teile-STL-Dateien drucken**](#a7)
+- [**Optionale Upgrade-Funktionen**](#a8)
 
 -----
-## <a id="A1"> 1. Installationsanleitung </a>
+## <a id="a1"> 1. Installationsanleitung </a>
 Bitte beachten Sie zunächst die folgenden Dokumente und Videos, um die Installation und Verkabelung der Maschine abzuschließen.
 ### Installation
 - [:book: Installationshandbuch Online-Dokument](./1.Installation/Installation.md)
@@ -59,7 +59,7 @@ Bitte beachten Sie zunächst die folgenden Dokumente und Videos, um die Installa
 - [:art: Schaltplan](./1.Installation/Z9V5Pro_Wiring_Diagram.jpg)
 - [:clapper: Video-Tutorial zur Verkabelung](https://youtu.be/tQQNLDOpdQU)
 
-## <a id="A2"> 2. Bedienungsanleitung </a>
+## <a id="a2"> 2. Bedienungsanleitung </a>
 ### **Einführung in das LCD-Bedienfeld**
 Nachdem Sie die Installation und Verkabelung abgeschlossen haben, sehen Sie sich bitte die folgende Anleitung an, um zu erfahren, wie Sie das Bedienfeld (LCD-Bildschirm) verwenden und die Funktionen des LCD-Menüs im Allgemeinen verstehen.
 - [:book: LCD Menu Online Document](./2.Operation/LCDMENU_Description.md)
@@ -75,7 +75,7 @@ Sie können auch die folgenden Dokumente lesen, um ein tieferes Verständnis des
 - [:book: Drucken vom PC](./2.Operation/PrintFromPC/readme.md)
 - [:book: Gebrauchsanleitung für erweiterte Funktionen](./2.Operation/Advance_Features.md)
 
-## <a id="A3"> 3. G-Code-Datei testen </a>
+## <a id="a3"> 3. G-Code-Datei testen </a>
 **:pencil: Was ist G-Code im 3D-Druck?**
 Bei G-Code handelt es sich um Informationen oder Anweisungen, die ein 3D-Drucker benötigt, um ein dreidimensionales Objekt zu drucken. Dabei handelt es sich um die Sprache, die der 3D-Drucker verstehen kann. G-Code wird von Ihrer Slicing-Software generiert, indem eine Standard-3D-Modellierungsdatei wie STL, Objekt, AMF-Datei usw. übersetzt wird. :page_with_curl: [**Referenz 1**][GCODE_REF1] :page_with_curl: [**Referenz 2 **][GCODE_REF2]
 Wir haben einige Test-Gcode-Dateien auf der SD-Karte gespeichert, um zu überprüfen, ob das Gerät ordnungsgemäß funktioniert, oder um zu demonstrieren, über welche Druckfunktionen dieses Gerät verfügt. Wenn Sie die Test-Gcode-Dateien nicht auf der SD-Karte finden können, laden Sie sie bitte von [:arrow_down: **hier**](./3.TestGcode/Test_gcode.zip) herunter.
@@ -91,13 +91,13 @@ Wir haben einige Test-Gcode-Dateien auf der SD-Karte gespeichert, um zu überpr�
 - **level_test_310-G29.gcode**: Eine Testdatei zur Überprüfung der Ebenheit des Hot-Bettes (mit automatischer Bettnivellierung).
 **[:arrow_down: Weitere Test-Gcode-Dateien herunterladen][M4_TEST_GCODE].**
  
-## <a id="A4"> 4. Schneiden </a>
+## <a id="a4"> 4. Schneiden </a>
 **[:pencil: Was ist Schneiden im 3D-Druck?](https://en.wikipedia.org/wiki/Slicer_(3D_printing))**
 Ein Slicer ist eine Software zur Werkzeugweggenerierung, die in den meisten 3D-Druckverfahren zur Konvertierung eines 3D-Objektmodells in spezifische Anweisungen für den Drucker verwendet wird. Insbesondere die Konvertierung von einem Modell im STL-Format in Druckerbefehle im G-Code-Format bei der Herstellung von geschmolzenem Filament und anderen ähnlichen Prozessen.
 - [:book:Slicer User Guide Online Document](./4.Slicing/readme.md)
 - [:blue_book: Slicer-Benutzerhandbuch im PDF-Format](./4.Slicing/Slicing.pdf)
 
-## <a id="A5"> 5. Firmware </a>
+## <a id="a5"> 5. Firmware </a>
 **:pencil: Was ist Firmware-Bin-Datei und Quellcode?**
 Die Firmware-Bin-Datei ist der genaue Speicher, der in den eingebetteten Flash geschrieben wird.
 Der Firmware-Quellcode ist der Kernbestandteil der Firmware. Unser Firmware-Quellcode basiert auf [**marlin**](https://www.marlinfw.org).
@@ -105,14 +105,14 @@ Sie können die Firmware-Bin-Datei oder den Quellcode über den folgenden Link h
 - [:arrow_down: Firmware-Bin-Datei][LINK_FIRMWARE]
 - [:arrow_down: Firmware-Quellcode][LINK_SOURCECODE]
 
-## <a id="A6"> 6. Fehlerbehebung </a>
+## <a id="a6"> 6. Fehlerbehebung </a>
 Wenn Sie Probleme bei der Installation und Verwendung des Druckers haben, versuchen Sie bitte zunächst, eine Lösung im [:book: Online-Dokument zur Fehlerbehebung][LINK_TROUBLESHOOTING] zu finden. Wenn Sie dieses Problem nicht lösen können, kontaktieren Sie uns bitte per E-Mail (:email: support@zonestar3d.com).
 
-## <a id="A7"> 7. Teile drucken </a>
+## <a id="a7"> 7. Teile drucken </a>
 Es gibt mehrere Komponenten der Maschine, die gedruckt werden, und wir haben auch einige Upgrades für Sie vorbereitet. Wenn Sie möchten, können Sie sie herunterladen, ausdrucken und dann auf Ihrem Computer installieren.
 
 -----
-## <a id="A8">Optionale Funktionen </a>
+## <a id="a8">Optionale Funktionen </a>
 Wir haben einige optionale Funktionen für dieses Gerät eingeführt. Sie können diese Funktionen jederzeit nach Ihren Wünschen aktualisieren. Wenn Sie daran interessiert sind, lesen Sie bitte den Leitfaden zu optionalen Upgrade-Funktionen, um detailliertere Informationen zu erhalten.
 - [:book: Leitfaden für optionale Upgrade-Funktionen, Online-Dokument][Z9V5MK6_OPTION]
 - [:blue_book: Leitfaden für optionale Upgrade-Funktionen, PDF-Datei](./OptionalFeatures.pdf)

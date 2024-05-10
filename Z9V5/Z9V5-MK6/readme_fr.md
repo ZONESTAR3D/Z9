@@ -38,17 +38,17 @@
 
 ------
 ## :book: Contenu
-- [**Guide d'installation**](#A1)
-- [**Guide d'utilisation**](#A2)
-- [**Tester les fichiers gcode**](#A3)
-- [**Logiciel de découpage**](#A4)
-- [**Micrologiciel**](#A5)
-- [**Dépannage**](#A6)
-- [**Imprimer les fichiers stl des pièces**](#A7)
-- [**Fonctionnalités de mise à niveau facultatives**](#A8)
+- [**Guide d'installation**](#a1)
+- [**Guide d'utilisation**](#a2)
+- [**Tester les fichiers gcode**](#a3)
+- [**Logiciel de découpage**](#a4)
+- [**Micrologiciel**](#a5)
+- [**Dépannage**](#a6)
+- [**Imprimer les fichiers stl des pièces**](#a7)
+- [**Fonctionnalités de mise à niveau facultatives**](#a8)
 
 -----
-## <a id="A1"> 1. Guide d'installation </a>
+## <a id="a1"> 1. Guide d'installation </a>
 Tout d'abord, veuillez vous référer aux documents et vidéos suivants pour terminer l'installation et le câblage de la machine.
 ### Installation
 - [:book: Document en ligne du guide d'installation](./1.Installation/Installation.md)
@@ -60,7 +60,7 @@ Tout d'abord, veuillez vous référer aux documents et vidéos suivants pour ter
 - [:art: Schéma de câblage](./1.Installation/Z9V5Pro_Wiring_Diagram.jpg)
 - [:clapper: Tutoriel vidéo sur le câblage](https://youtu.be/tQQNLDOpdQU)
 
-## <a id="A2"> 2. Guide d'utilisation </a>
+## <a id="a2"> 2. Guide d'utilisation </a>
 ### **Présentation du panneau de commande LCD**
 Après avoir terminé l'installation et le câblage, veuillez consulter le guide ci-dessous pour savoir comment utiliser le panneau de commande (écran LCD) et comprendre les fonctions du menu LCD en général.
 - [:book: Document en ligne du menu LCD](./2.Operation/LCDMENU_Description.md)
@@ -76,7 +76,7 @@ Vous pouvez également lire les documents suivants pour mieux comprendre l'extru
 - [:book: Imprimer depuis un PC](./2.Operation/PrintFromPC/readme.md)
 - [:book: Guide d'utilisation des fonctionnalités avancées](./2.Operation/Advance_Features.md)
 
-## <a id="A3"> 3. Testez le fichier G-code </a>
+## <a id="a3"> 3. Testez le fichier G-code </a>
 **:crayon: Qu'est-ce que le G-code dans l'impression 3D ?**
 Le G-code est une information ou des instructions dont l'imprimante 3D a besoin pour imprimer un objet en 3 dimensions, c'est le langage que l'imprimante 3D peut comprendre. Le G-Code est généré par votre logiciel de découpage, en traduisant un fichier de modélisation 3D standard tel qu'un STL, un objet, un fichier AMF, etc. :page_with_curl: [**Referencia 1**][GCODE_REF1] :page_with_curl: [**Referencia 2**][GCODE_REF2]    
 Nous avons stocké des fichiers gcode de test sur la carte SD, pour aider à vérifier si la machine fonctionnait correctement ou pour démontrer les fonctions d'impression dont dispose cette machine. Si vous ne trouvez pas les fichiers gcode de test sur la carte SD, veuillez les télécharger depuis [:arrow_down: **ici**](./3.TestGcode/Test_gcode.zip).   
@@ -92,13 +92,13 @@ Nous avons stocké des fichiers gcode de test sur la carte SD, pour aider à vé
 - **level_test_310-G29.gcode**: Un fichier de test utilisé pour vérifier la planéité du lit chaud (avec nivellement automatique du lit).
 **[:arrow_down: Téléchargez plus de fichiers gcode de test][M4_TEST_GCODE].**
  
-## <a id="A4"> 4. Découpage </a>
+## <a id="a4"> 4. Découpage </a>
 **[:pencil: Qu'est-ce que le découpage en tranches dans l'impression 3D ?](https://en.wikipedia.org/wiki/Slicer_(3D_printing))**   
 Un slicer est un logiciel de génération de parcours d'outil utilisé dans la majorité des processus d'impression 3D pour la conversion d'un modèle d'objet 3D en instructions spécifiques pour l'imprimante. En particulier, la conversion d'un modèle au format STL en commandes d'imprimante au format g-code dans la fabrication de filaments fondus et d'autres processus similaires.   
 - [:book: Document en ligne du Guide de l'utilisateur de Slicer](./4.Slicing/readme.md)
 - [:blue_book: Fichier PDF du guide de l'utilisateur du Slicer](./4.Slicing/Slicing.pdf)
 
-## <a id="A5"> 5. Micrologiciel </a>
+## <a id="a5"> 5. Micrologiciel </a>
 **:pencil: Qu'est-ce que le fichier bin du micrologiciel et le code source ?**   
 Le fichier bin du micrologiciel est la mémoire exacte écrite sur la mémoire flash intégrée.    
 Le code source du micrologiciel constitue la partie essentielle du micrologiciel. Le code source de notre firmware est basé sur [**marlin**](https://www.marlinfw.org).   
@@ -106,14 +106,14 @@ Vous pouvez télécharger le fichier bin du micrologiciel ou le code source à p
 - [:arrow_down: fichier bin du micrologiciel][LINK_FIRMWARE]
 - [:arrow_down: Code source du micrologiciel][LINK_SOURCECODE]
 
-## <a id="A6"> 6. Dépannage </a>
+## <a id="a6"> 6. Dépannage </a>
 Si vous rencontrez des problèmes lors de l'installation et de l'utilisation de l'imprimante, essayez d'abord de trouver une solution dans le [:book: Dépannage du document en ligne][LINK_TROUBLESHOOTING] d'abord. Si vous ne parvenez pas à résoudre ce problème, veuillez nous contacter par email (:email: support@zonestar3d.com).
 
-## <a id="A7"> 7. Imprimer les pièces </a>
+## <a id="a7"> 7. Imprimer les pièces </a>
 Plusieurs composants de la machine sont imprimés et nous avons également préparé quelques mises à niveau pour vous. Si vous le souhaitez, vous pouvez les télécharger et les imprimer, puis les installer sur votre machine.
 
 -----
-## <a id="A8"> Fonctionnalités facultatives </a>
+## <a id="a8"> Fonctionnalités facultatives </a>
 Nous avons introduit quelques fonctionnalités optionnelles pour cette machine, vous pouvez mettre à niveau ces fonctionnalités à tout moment selon vos préférences. Si cela vous intéresse, veuillez lire le guide des fonctionnalités de mise à niveau facultatives pour obtenir des informations plus détaillées.   
 - [:book: Document en ligne du guide des fonctionnalités de mise à niveau facultatives][Z9V5MK6_OPTION]
 - [:blue_book: fichier pdf du guide des fonctionnalités de mise à niveau facultatives](./OptionalFeatures.pdf)

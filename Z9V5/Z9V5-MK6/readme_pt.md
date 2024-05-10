@@ -38,17 +38,17 @@
 
 ------
 ## :book: Conteúdo
-- [**Guia de instalação**](#A1)
-- [**Guia de operação**](#A2)
-- [**Teste arquivos gcode**](#A3)
-- [**Software de fatiamento**](#A4)
-- [**Firmware**](#A5)
-- [**Soluções de problemas**](#A6)
-- [**Imprimir arquivos stl de peças**](#A7)
-- [**Recursos opcionais de atualização**](#A8)
+- [**Guia de instalação**](#a1)
+- [**Guia de operação**](#a2)
+- [**Teste arquivos gcode**](#a3)
+- [**Software de fatiamento**](#a4)
+- [**Firmware**](#a5)
+- [**Soluções de problemas**](#a6)
+- [**Imprimir arquivos stl de peças**](#a7)
+- [**Recursos opcionais de atualização**](#a8)
 
 -----
-## <a id="A1"> 1. Guia de instalação </a>
+## <a id="a1"> 1. Guia de instalação </a>
 Primeiro, consulte os seguintes documentos e vídeos para concluir a instalação e fiação da máquina.
 ### Instalação
 - [:book: Documento on-line do guia de instalação](./1.Installation/Installation.md)
@@ -60,7 +60,7 @@ Primeiro, consulte os seguintes documentos e vídeos para concluir a instalaçã
 - [:art: Diagrama de fiação](./1.Installation/Z9V5Pro_Wiring_Diagram.jpg)
 - [:clapper: Tutorial em vídeo de fiação](https://youtu.be/tQQNLDOpdQU)
 
-## <a id="A2"> 2. Guia de operação </a>
+## <a id="a2"> 2. Guia de operação </a>
 ### **Introdução ao painel de controle LCD**
 Depois de concluir a instalação e a fiação, consulte o guia abaixo para saber como usar o painel de controle (tela LCD) e entender as funções do menu LCD em geral.
 - [:book: Documento on-line do menu LCD](./2.Operation/LCDMENU_Description.md)
@@ -76,7 +76,7 @@ Você também pode ler os documentos a seguir para obter uma compreensão mais p
 - [:book: Imprimir do PC](./2.Operation/PrintFromPC/readme.md)
 - [:book: Guia de uso de recursos avançados](./2.Operation/Advance_Features.md)
 
-## <a id="A3"> 3. Teste o arquivo de código G </a>
+## <a id="a3"> 3. Teste o arquivo de código G </a>
 **:lápis: O que é código G na impressão 3D?**
 Código G são informações ou instruções que a impressora 3D requer para imprimir um objeto tridimensional, é a linguagem que a impressora 3D pode entender. O G-Code é gerado pelo seu software de fatiamento, traduzindo um arquivo de modelagem 3D padrão, como STL, objeto, arquivo AMF etc. **][GCODE_REF2]    
 Armazenamos alguns arquivos gcode de teste no cartão SD, para ajudar a verificar se a máquina estava funcionando corretamente ou para demonstrar quais funções de impressão esta máquina possui. Se você não conseguir encontrar os arquivos gcode de teste no cartão SD, faça download em [:arrow_down: **aqui**](./3.TestGcode/Test_gcode.zip).    
@@ -92,13 +92,13 @@ Armazenamos alguns arquivos gcode de teste no cartão SD, para ajudar a verifica
 - **level_test_310-G29.gcode**: Um arquivo de teste usado para verificar o nivelamento da cama quente (com nivelamento automático da cama).
 **[:arrow_down: Baixe mais arquivos gcode de teste][M4_TEST_GCODE].**
  
-## <a id="A4"> 4. Fatiar </a>
+## <a id="a4"> 4. Fatiar </a>
 **[:pencil: O que é fatiar na impressão 3D?](https://en.wikipedia.org/wiki/Slicer_(3D_printing))**
 Um fatiador é um software de geração de percurso usado na maioria dos processos de impressão 3D para a conversão de um modelo de objeto 3D em instruções específicas para a impressora. Em particular, a conversão de um modelo em formato STL para comandos de impressora em formato de código G na fabricação de filamentos fundidos e outros processos semelhantes.   
 - [:book:Documento on-line do guia do usuário do Slicer](./4.Slicing/readme.md)
 - [:blue_book: Arquivo PDF do guia do usuário do Slicer](./4.Slicing/Slicing.pdf)
 
-## <a id="A5"> 5. Firmware </a>
+## <a id="a5"> 5. Firmware </a>
 **:pencil: O que é o arquivo bin do firmware e o código-fonte?**
 O arquivo bin do firmware é a memória exata gravada no flash incorporado.   
 O código-fonte do firmware é a parte central do firmware. Nosso código-fonte de firmware é baseado em [**marlin**](https://www.marlinfw.org).
@@ -106,14 +106,14 @@ Você pode baixar o arquivo bin do firmware ou o código-fonte no link abaixo.
 - [:arrow_down: Arquivo bin de firmware][LINK_FIRMWARE]
 - [:arrow_down: Código-fonte do firmware][LINK_SOURCECODE]
 
-## <a id="A6"> 6. Solução de problemas </a>
+## <a id="a6"> 6. Solução de problemas </a>
 Se você tiver algum problema ao instalar e usar a impressora, tente primeiro encontrar uma solução no [:book: Documento on-line de solução de problemas][LINK_TROUBLESHOOTING]. Se você não conseguir resolver este problema, entre em contato conosco por email (:email: support@zonestar3d.com).   
 
-## <a id="A7"> 7. Imprimir peças </a>
+## <a id="a7"> 7. Imprimir peças </a>
 Existem vários componentes na máquina que são impressos e também preparamos algumas atualizações para você. Se desejar, você pode baixá-los e imprimi-los e depois instalá-los em sua máquina.
 
 -----
-## <a id="A8"> Recursos opcionais </a>
+## <a id="a8"> Recursos opcionais </a>
 Introduzimos alguns recursos opcionais para esta máquina. Você pode atualizar esses recursos a qualquer momento de acordo com suas preferências. Se você estiver interessado nisso, leia o guia de recursos de atualização opcionais para obter informações mais detalhadas.
 - [:book: Documento on-line do guia de recursos de atualização opcionais][Z9V5MK6_OPTION]
 - [:blue_book: arquivo pdf do guia de recursos de atualização opcional](./OptionalFeatures.pdf)
