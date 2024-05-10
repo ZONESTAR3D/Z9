@@ -4,6 +4,7 @@
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 [VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
+[VIDEO_PRINT4C]: https://youtu.be/iddKadfrdjw
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -53,6 +54,7 @@ Da es sich beim Z9V5Pro um einen 3D-Drucker mit 4 Extrudern handelt, empfehlen w
 - **Drucken von SD-Karte**. Bewegen Sie den Cursor auf das Element **Drucken** auf dem LCD-Bildschirm, klicken Sie auf den Knopf und wählen Sie die Datei **xyz_cube** aus. Klicken Sie auf den Knopf, um den Druck zu starten.
 - **Düsenhöhe fein einstellen**. Warten Sie, bis sich die Düse und das Heizbett erwärmt haben. Wenn Sie mit dem Drucken der ersten Schicht beginnen, doppelklicken Sie auf den Knopf des LCD-Bildschirms und stellen Sie den Abstand von der Düse zum Bett fein ein (Düse ist etwa 0,4 mm höher als der Aufkleber). Warten Sie, bis der Druckvorgang abgeschlossen ist fertig.
 #### Drucken Sie 4-farbige 3D-Drucke
+##### [:clapper: Videoanleitung][VIDEO_PRINT4C]
 - **Gcode-Datei vorbereiten**. Suchen Sie die Datei **M4_4CTest.gcode** auf Ihrer SD-Karte oder [:arrow_down: klicken Sie hier, um sie herunterzuladen](./3.Test_gcode/M4_4CTest.zip), entpacken Sie sie auf Ihrem PC und kopieren Sie dann die Datei **M4_4CTest .gcode** auf die SD-Karte übertragen, stecken Sie die SD-Karte in den SD-Anschluss des Geräts.
 - **Drucken von SD-Karte**. Bewegen Sie den Cursor auf das Element **Drucken** auf dem LCD-Bildschirm, klicken Sie auf den Knopf und wählen Sie die Datei **M4_4CTest**. Klicken Sie auf den Knopf, um den Druck zu starten.
 - **Düsenhöhe fein einstellen**. Warten Sie, bis sich die Düse und das Heizbett erwärmt haben. Wenn Sie mit dem Drucken der ersten Schicht beginnen, doppelklicken Sie auf den Knopf des LCD-Bildschirms und stellen Sie den Abstand von der Düse zum Bett fein ein (Düse ist etwa 0,4 mm höher als der Aufkleber). Warten Sie, bis der Druckvorgang abgeschlossen ist fertig.

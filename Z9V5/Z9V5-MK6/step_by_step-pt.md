@@ -4,6 +4,7 @@
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 [VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
+[VIDEO_PRINT4C]: https://youtu.be/iddKadfrdjw
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -53,6 +54,7 @@ Como a Z9V5Pro é uma impressora 3D com 4 extrusoras, sugerimos que você imprim
 - **Imprimir do cartão SD**. Mova o cursor para o item **Imprimir** na tela LCD e clique no botão e escolha o arquivo **xyz_cube**, clique no botão para iniciar a impressão.
 - **Ajuste a altura do bico**. Aguarde o aquecimento do bico e do viveiro, e ao iniciar a impressão da primeira camada, clique duas vezes no botão da tela LCD e ajuste a distância do bico à base (o bico é superior ao adesivo cerca de 0,4 mm), aguarde até que a impressão seja finalizado.
 #### Imprimir impressões 3D em 4 cores
+##### [:clapper: vídeo tutorial][VIDEO_PRINT4C]
 - **Prepare o arquivo gcode**. Localize o arquivo **M4_4CTest.gcode** em seu cartão SD ou [:arrow_down: clique aqui para baixá-lo](./3.Test_gcode/M4_4CTest.zip) e descompacte-o em seu PC e copie o **M4_4CTest.zip .gcode** para cartão SD, conecte o cartão SD ao soquete SD da máquina.
 - **Imprimir do cartão SD**. Mova o cursor para o item **Imprimir** na tela LCD e clique no botão e escolha o arquivo **M4_4CTest**, clique no botão para iniciar a impressão.
 - **Ajuste a altura do bico**. Aguarde o aquecimento do bico e do viveiro, e ao iniciar a impressão da primeira camada, clique duas vezes no botão da tela LCD e ajuste a distância do bico à base (o bico é superior ao adesivo cerca de 0,4 mm), aguarde até que a impressão seja finalizado.

@@ -4,6 +4,7 @@
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 [VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
+[VIDEO_PRINT4C]: https://youtu.be/iddKadfrdjw
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -53,6 +54,7 @@ Dado que Z9V5Pro es una impresora 3D con 4 extrusoras, le sugerimos que imprima 
 - **Imprimir desde tarjeta SD**. Mueva el cursor al elemento **Imprimir** en la pantalla LCD y haga clic en la perilla y elija el archivo **xyz_cube**, haga clic en la perilla para comenzar a imprimir.
 - **Ajuste la altura de la boquilla**. Espere a que se calienten la boquilla y la cama, y cuando comience a imprimir la primera capa, haga doble clic en la perilla de la pantalla LCD y ajuste la distancia desde la boquilla hasta la cama (la boquilla es más alta que la etiqueta adhesiva aproximadamente 0,4 mm), espere hasta que finalice la impresión. finalizado.
 #### Imprimir impresiones 3D en 4 colores
+##### [:clapper: vídeo tutorial][VIDEO_PRINT4C]
 - **Preparar archivo gcode**. Localice el archivo **M4_4CTest.gcode** de su tarjeta SD o [:arrow_down: haga clic aquí para descargarlo](./3.Test_gcode/M4_4CTest.zip) y descomprímalo en su PC, y luego copie el archivo **M4_4CTest .gcode** a la tarjeta SD, conecte la tarjeta SD al conector SD de la máquina.
 - **Imprimir desde tarjeta SD**. Mueva el cursor al elemento **Imprimir** en la pantalla LCD, haga clic en la perilla y elija el archivo **M4_4CTest**, haga clic en la perilla para comenzar a imprimir.
 - **Ajuste la altura de la boquilla**. Espere a que se calienten la boquilla y la cama, y cuando comience a imprimir la primera capa, haga doble clic en la perilla de la pantalla LCD y ajuste la distancia desde la boquilla hasta la cama (la boquilla es más alta que la etiqueta adhesiva aproximadamente 0,4 mm), espere hasta que finalice la impresión. finalizado.

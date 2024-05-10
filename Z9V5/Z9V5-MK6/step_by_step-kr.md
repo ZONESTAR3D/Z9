@@ -4,6 +4,7 @@
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 [VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
+[VIDEO_PRINT4C]: https://youtu.be/iddKadfrdjw
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -53,6 +54,7 @@ Z9V5Pro는 4개의 압출기가 있는 3D 프린터이므로 단색 3D 모델과
 - **SD 카드에서 인쇄**. LCD 화면의 **Print** 항목으로 커서를 이동한 후 손잡이를 클릭하고 **xyz_cube** 파일을 선택한 후 손잡이를 클릭하여 인쇄를 시작합니다.
 - **노즐 높이를 미세 조정하세요**. 노즐과 온상 가열을 기다린 후 첫 번째 레이어 인쇄를 시작할 때 LCD 화면의 손잡이를 두 번 클릭하고 노즐에서 베드까지의 거리를 미세 조정하고(노즐은 스티커보다 약 0.4mm 높음) 인쇄가 완료될 때까지 기다립니다. 완성된.
 #### 4색 3D 프린트 인쇄
+#####  [:clapper: 동영상 튜토리얼][VIDEO_PRINT4C]
 - **gcode 파일을 준비하세요**. SD 카드에서 **M4_4CTest.gcode** 파일을 찾거나 [:arrow_down: 다운로드하려면 여기를 클릭](./3.Test_gcode/M4_4CTest.zip)하고 PC에 압축을 푼 다음 **M4_4CTest를 복사하세요. .gcode**를 SD 카드에 연결하려면 SD 카드를 기기의 SD 소켓에 연결하세요.
 - **SD 카드에서 인쇄**. LCD 화면의 **Print** 항목으로 커서를 이동한 후 손잡이를 클릭하고 **M4_4CTest** 파일을 선택한 후 손잡이를 클릭하여 인쇄를 시작합니다.
 - **노즐 높이를 미세 조정하세요**. 노즐과 온상 가열을 기다린 후 첫 번째 레이어 인쇄를 시작할 때 LCD 화면의 손잡이를 두 번 클릭하고 노즐에서 베드까지의 거리를 미세 조정하고(노즐은 스티커보다 약 0.4mm 높음) 인쇄가 완료될 때까지 기다립니다. 완성된.

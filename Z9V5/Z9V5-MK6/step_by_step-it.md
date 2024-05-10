@@ -4,6 +4,7 @@
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 [VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
+[VIDEO_PRINT4C]: https://youtu.be/iddKadfrdjw
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -53,6 +54,7 @@ Poiché Z9V5Pro è una stampante 3D con 4 estrusori, ti suggeriamo di stampare u
 - **Stampa da scheda SD**. Spostare il cursore sulla voce **Stampa** sullo schermo LCD, fare clic sulla manopola e scegliere il file **xyz_cube**, fare clic sulla manopola per avviare la stampa.
 - **Regolazione fine dell'altezza dell'ugello**. Attendere il riscaldamento dell'ugello e del piano caldo e, quando si inizia a stampare il primo strato, fare doppio clic sulla manopola dello schermo LCD e regolare con precisione la distanza dall'ugello al letto (l'ugello è più alto dell'adesivo di circa 0,4 mm), attendere fino al completamento della stampa. finito.
 #### Stampa stampe 3D a 4 colori
+##### [:clapper: Esercitazione video][VIDEO_PRINT4C]
 - **Prepara il file gcode**. Individua il file **M4_4CTest.gcode** dalla tua scheda SD o [:arrow_down: fai clic qui per scaricarlo](./3.Test_gcode/M4_4CTest.zip) e decomprimilo sul tuo PC, quindi copia **M4_4CTest .gcode** su scheda SD, collegare la scheda SD alla presa SD della macchina.
 - **Stampa da scheda SD**. Spostare il cursore sulla voce **Stampa** sullo schermo LCD, fare clic sulla manopola e scegliere il file **M4_4CTest**, fare clic sulla manopola per avviare la stampa.
 - **Regolazione fine dell'altezza dell'ugello**. Attendere il riscaldamento dell'ugello e del piano caldo e, quando si inizia a stampare il primo strato, fare doppio clic sulla manopola dello schermo LCD e regolare con precisione la distanza dall'ugello al letto (l'ugello è più alto dell'adesivo di circa 0,4 mm), attendere fino al completamento della stampa. finito.

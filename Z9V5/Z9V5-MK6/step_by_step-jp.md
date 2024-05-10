@@ -4,6 +4,7 @@
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 [VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
+[VIDEO_PRINT4C]: https://youtu.be/iddKadfrdjw
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -54,6 +55,7 @@ Z9V5Pro は 4 つの押出機を備えた 3D プリンターであるため、1 
 - **SD カードから印刷**。 LCD 画面上の **印刷** 項目にカーソルを移動し、ノブをクリックして **xyz_cube** ファイルを選択し、ノブをクリックして印刷を開始します。
 - **ノズルの高さを微調整します**。 ノズルとホットベッドの加熱を待ち、最初の層の印刷を開始するときに、LCD 画面のノブをダブルクリックしてノズルからベッドまでの距離を微調整し (ノズルはステッカーより約 0.4 mm 高くなります)、印刷が完了するまで待ちます。 終了した。
 #### 4 色の 3D プリントを印刷する
+##### [:clapper: ビデオ チュートリアル][VIDEO_PRINT4C]
 - **gcode ファイルを準備します**。 SD カードから **M4_4CTest.gcode** ファイルを見つけるか、[:arrow_down: ここをクリックしてダウンロード](./3.Test_gcode/M4_4CTest.zip) を PC 上で解凍し、**M4_4CTest をコピーします。 .gcode** を SD カードにコピーするには、SD カードをマシンの SD ソケットに接続します。
 - **SD カードから印刷**。 LCD 画面上の **印刷** 項目にカーソルを移動し、ノブをクリックして **M4_4CTest** ファイルを選択し、ノブをクリックして印刷を開始します。
 - **ノズルの高さを微調整します**。 ノズルとホットベッドの加熱を待ち、最初の層の印刷を開始するときに、LCD 画面のノブをダブルクリックしてノズルからベッドまでの距離を微調整し (ノズルはステッカーより約 0.4 mm 高くなります)、印刷が完了するまで待ちます。 終了した。

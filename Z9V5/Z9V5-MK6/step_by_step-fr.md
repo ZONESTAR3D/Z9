@@ -4,6 +4,7 @@
 [VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
 [VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 [VIDEO_PRINT1C]: https://youtu.be/NbVy8NjKt_s
+[VIDEO_PRINT4C]: https://youtu.be/iddKadfrdjw
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -53,6 +54,7 @@ La Z9V5Pro étant une imprimante 3D dotée de 4 extrudeuses, nous vous suggéron
 - **Imprimer depuis la carte SD**. Déplacez le curseur sur l'élément **Imprimer** sur l'écran LCD, cliquez sur le bouton et choisissez le fichier **xyz_cube**, cliquez sur le bouton pour lancer l'impression.
 - **Régler finement la hauteur de la buse**. Attendez le chauffage de la buse et du lit chaud, et lorsque vous commencez à imprimer la première couche, double-cliquez sur le bouton de l'écran LCD et ajustez la distance entre la buse et le lit (la buse est plus haute que l'autocollant d'environ 0,4 mm), attendez que l'impression soit terminée. fini.
 #### Imprimer des impressions 3D en 4 couleurs
+##### [:clapper: tutoriel vidéo][VIDEO_PRINT4C]
 - **Préparer le fichier gcode**. Localisez le fichier **M4_4CTest.gcode** sur votre carte SD ou [:arrow_down: cliquez ici pour le télécharger](./3.Test_gcode/M4_4CTest.zip) et décompressez-le sur votre PC, puis copiez le **M4_4CTest. .gcode** sur la carte SD, branchez la carte SD sur la prise SD de la machine.
 - **Imprimer depuis la carte SD**. Déplacez le curseur sur l'élément **Imprimer** sur l'écran LCD, cliquez sur le bouton et choisissez le fichier **M4_4CTest**, cliquez sur le bouton pour lancer l'impression.
 - **Régler finement la hauteur de la buse**. Attendez le chauffage de la buse et du lit chaud, et lorsque vous commencez à imprimer la première couche, double-cliquez sur le bouton de l'écran LCD et ajustez la distance entre la buse et le lit (la buse est plus haute que l'autocollant d'environ 0,4 mm), attendez que l'impression soit terminée. fini.
