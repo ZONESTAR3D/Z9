@@ -1,6 +1,8 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
+[VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
+[VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -33,10 +35,10 @@
    これら 3 つのステップの後、基本的にマシンが正常に動作していると判断され、次のステップに進むことができます。 部品が正常に動作していない場合は、配線を再確認するか、[:clapper: **機械自動テスト ビデオ チュートリアル**](https://youtu.be/Mf92BlmKA0A) を参照して自動機械テストを行ってください。 テスト中。
 
 ### <a id ="a2">ステップ 2. ベッドを水平にする</a>
-印刷を開始する前に、フィラメントをベッドにうまく貼り付けることができるように、ノズルとベッド (印刷プラットフォーム) の間の高さを設定する簡単なベッド レベリングを行う必要があります。 これを行うには、[:clapper: **ベッド レベリング ビデオ チュートリアル**](https://youtu.be/nxzB7ho1kNo) を参照してください。
+印刷を開始する前に、フィラメントをベッドにうまく貼り付けることができるように、ノズルとベッド (印刷プラットフォーム) の間の高さを設定する簡単なベッド レベリングを行う必要があります。 これを行うには、[:clapper: **ベッド レベリング ビデオ チュートリアル**][VIDEO_BEDLEVEL] を参照してください。
 
 ### <a id ="a3">ステップ 3. フィラメントをロードする</a>
-4 本のフィラメントすべてを押出機とホットエンドにロードするには、この [:clapper: ビデオ チュートリアル](https://youtu.be/KZQdL7Rgy1s) を参照してください。
+4 本のフィラメントすべてを押出機とホットエンドにロードするには、この [:clapper: ビデオ チュートリアル][VIDEO_LOADFILAMENT] を参照してください。
 #### :warning: 注意してください :warning:
 1. **単色または多色の 3D プリントを印刷する場合は、4 本のフィラメントすべてをホットエンドにロードする必要があります。**
 2. **フィラメントがホットエンドの底部まで装着されていることを確認してください。そうしないと、ホットエンドが詰まる可能性があります。**

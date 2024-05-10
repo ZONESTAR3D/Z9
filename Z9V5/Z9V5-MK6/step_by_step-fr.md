@@ -1,6 +1,8 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
+[VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
+[VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -33,10 +35,10 @@ En un mot, à partir du moment où vous recevez la machine jusqu'au moment où v
    Après ces 3 étapes, il est essentiellement déterminé que la machine fonctionne normalement, vous pouvez passer aux étapes suivantes. Si vous constatez qu'une pièce ne fonctionne pas correctement, veuillez vérifier le câblage ou vous référer à[:clapper: **Tutoriel vidéo de test automatique de la machine**](https://youtu.be/Mf92BlmKA0A) pour faire une machine automatique essai.
 
 ### <a id ="a2">Étape 2. Mise à niveau du lit</a>
-Avant de commencer l'impression, vous devez effectuer un simple nivellement du lit pour régler la hauteur entre la buse et le lit (plate-forme d'impression), afin que le filament puisse bien être collé sur le lit. Veuillez vous référer à [:clapper: **Tutoriel vidéo sur la mise à niveau du lit**](https://youtu.be/nxzB7ho1kNo) pour le faire.
+Avant de commencer l'impression, vous devez effectuer un simple nivellement du lit pour régler la hauteur entre la buse et le lit (plate-forme d'impression), afin que le filament puisse bien être collé sur le lit. Veuillez vous référer à [:clapper: **Tutoriel vidéo sur la mise à niveau du lit**][VIDEO_BEDLEVEL] pour le faire.
 
 ### <a id ="a3">Étape 3. Charger les filaments</a>
-Référez-vous à ce [:clapper: tutoriel vidéo](https://youtu.be/KZQdL7Rgy1s) pour charger les 4 filaments dans les extrudeuses et la hot end.
+Référez-vous à ce [:clapper: tutoriel vidéo][VIDEO_LOADFILAMENT] pour charger les 4 filaments dans les extrudeuses et la hot end.
 #### :warning: ATTENTION S'IL VOUS PLAÎT :warning:
 1. **Vous devez charger les 4 filaments jusqu'à l'extrémité chaude, que vous imprimiez une couleur ou des impressions 3D multicolores.**
 2. **Assurez-vous que les filaments ont été chargés jusqu'au bas de l'extrémité chaude, sinon cela pourrait bloquer l'extrémité chaude.**

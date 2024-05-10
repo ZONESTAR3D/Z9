@@ -1,6 +1,8 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
+[VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
+[VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -33,10 +35,10 @@
    이 3단계를 거쳐 기본적으로 기기가 정상적으로 작동하는 것으로 판단되면 다음 단계를 진행할 수 있습니다. 일부 부품이 제대로 작동하지 않는 경우 배선을 다시 확인하거나 [:clapper: **기계 자동 테스트 비디오 튜토리얼**](https://youtu.be/Mf92BlmKA0A)을 참조하여 자동 기계를 수행하십시오. 테스트.
 
 ### <a id ="a2">2단계. 침대 수평 맞추기</a>
-프린팅을 시작하기 전에 필라멘트가 베드에 잘 붙을 수 있도록 간단한 베드 레벨링을 하여 노즐과 베드(프린팅 플랫폼) 사이의 높이를 설정해야 합니다. [:clapper: **베드 레벨링 비디오 튜토리얼**](https://youtu.be/nxzB7ho1kNo)을 참조하여 수행하세요.
+프린팅을 시작하기 전에 필라멘트가 베드에 잘 붙을 수 있도록 간단한 베드 레벨링을 하여 노즐과 베드(프린팅 플랫폼) 사이의 높이를 설정해야 합니다. [:clapper: **베드 레벨링 비디오 튜토리얼**][VIDEO_BEDLEVEL]을 참조하여 수행하세요.
 
 ### <a id ="a3">3단계. 필라멘트 장착</a>
-압출기 및 핫엔드에 필라멘트 4개를 모두 로드하려면 이 [:clapper: 동영상 튜토리얼](https://youtu.be/KZQdL7Rgy1s)을 참조하세요.
+압출기 및 핫엔드에 필라멘트 4개를 모두 로드하려면 이 [:clapper: 동영상 튜토리얼][VIDEO_LOADFILAMENT]을 참조하세요.
 #### :warning: 주의하세요 :warning:
 1. **단색 또는 다중 색상 3D 인쇄를 인쇄하려면 4개의 필라멘트를 모두 핫엔드에 로드해야 합니다.**
 2. **필라멘트가 핫 엔드 하단에 로드되었는지 확인하세요. 그렇지 않으면 핫 엔드가 막힐 수 있습니다.**

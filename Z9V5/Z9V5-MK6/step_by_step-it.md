@@ -1,6 +1,8 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
+[VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
+[VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -33,10 +35,10 @@ In una parola, dal momento in cui hai ricevuto la macchina al momento in cui puo
    Dopo questi 3 passaggi, una volta stabilito che la macchina funziona normalmente, è possibile procedere ai passaggi successivi. Se trovi che qualche parte non funziona correttamente, ricontrolla il cablaggio o fai riferimento a[:clapper: **tutorial video sul test automatico della macchina**](https://youtu.be/Mf92BlmKA0A) per eseguire una macchina automatica test.
 
 ### <a id ="a2">Passaggio 2. Livellare il letto</a>
-Prima di iniziare a stampare, è necessario eseguire un semplice livellamento del letto per impostare l'altezza tra l'ugello e il letto (piattaforma di stampa), in modo che il filamento possa essere incollato bene sul letto. Fare riferimento a [:clapper: **Tutorial video sul livellamento del letto**](https://youtu.be/nxzB7ho1kNo) per farlo.
+Prima di iniziare a stampare, è necessario eseguire un semplice livellamento del letto per impostare l'altezza tra l'ugello e il letto (piattaforma di stampa), in modo che il filamento possa essere incollato bene sul letto. Fare riferimento a [:clapper: **Tutorial video sul livellamento del letto**][VIDEO_BEDLEVEL] per farlo.
 
 ### <a id ="a3">Passaggio 3. Carica i filamenti</a>
-Fai riferimento a questo [:clapper: video tutorial](https://youtu.be/KZQdL7Rgy1s) per caricare tutti e 4 i filamenti negli estrusori e nell'hot end.
+Fai riferimento a questo [:clapper: video tutorial][VIDEO_LOADFILAMENT] per caricare tutti e 4 i filamenti negli estrusori e nell'hot end.
 #### :warning: ATTENZIONE PER FAVORE :warning:
 1. **È necessario caricare tutti e 4 i filamenti sull'hot-end qualunque sia la stampa 3D monocolore o multicolore.**
 2. **Assicurarsi che i filamenti siano stati caricati sul fondo dell'hot end, altrimenti potrebbe causare il blocco dell'hot end.**

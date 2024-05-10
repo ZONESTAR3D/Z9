@@ -1,6 +1,8 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
+[VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
+[VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -33,10 +35,10 @@ Em uma palavra, desde o momento em que você recebeu a máquina até o momento e
    Após essas 3 etapas, é basicamente determinado que a máquina está funcionando normalmente, você pode prosseguir para as etapas seguintes. Se você achar que alguma peça não está funcionando corretamente, verifique novamente a fiação ou consulte [:clapper: **tutorial em vídeo de teste automático de máquina**](https://youtu.be/Mf92BlmKA0A) para fazer uma máquina automática testando.
 
 ### <a id ="a2">Etapa 2. Nivelamento da cama</a>
-Antes de iniciar a impressão, é necessário fazer um simples nivelamento da cama para definir a altura entre o bico e a mesa (plataforma de impressão), para que o filamento possa ficar bem colado na mesa. Consulte [:clapper: **Tutorial em vídeo sobre nivelamento da cama**](https://youtu.be/nxzB7ho1kNo) para fazer isso.
+Antes de iniciar a impressão, é necessário fazer um simples nivelamento da cama para definir a altura entre o bico e a mesa (plataforma de impressão), para que o filamento possa ficar bem colado na mesa. Consulte [:clapper: **Tutorial em vídeo sobre nivelamento da cama**][VIDEO_BEDLEVEL] para fazer isso.
 
 ### <a id ="a3">Etapa 3. Carregar filamentos</a>
-Consulte este [:clapper: vídeo tutorial](https://youtu.be/KZQdL7Rgy1s) para carregar todos os 4 filamentos nas extrusoras e no hot end.
+Consulte este [:clapper: vídeo tutorial][VIDEO_LOADFILAMENT] para carregar todos os 4 filamentos nas extrusoras e no hot end.
 #### :warning: ATENÇÃO POR FAVOR :warning:
 1. **Você precisa carregar todos os 4 filamentos no hot end, independentemente de imprimir em uma cor ou em impressões 3D multicoloridas.**
 2. **Certifique-se de que os filamentos foram carregados na parte inferior da extremidade quente, caso contrário, isso pode causar o bloqueio da extremidade quente.**

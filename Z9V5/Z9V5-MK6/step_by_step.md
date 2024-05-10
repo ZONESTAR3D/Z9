@@ -1,6 +1,8 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
+[VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
+[VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -33,10 +35,10 @@ In a word, from the moment you received the machine to the moment you can print 
   After these 3 steps, it is basically determined that the machine are working normally, you can proceed to the following steps. If you find that any part is not working properly, please double check the wiring, or refer to[:clapper: **machine auto testing video tutorial**](https://youtu.be/Mf92BlmKA0A) to do a auto machine testing.
 
 ### <a id ="a2">Step 2. Leveling the bed</a>
-Before start printing, you need to do a simple bed leveling to set the height between the nozzle and the bed (printing platform), so that the filament can be pasted on the bed well. Please refer to [:clapper: **Bed leveling video tutorial**](https://youtu.be/nxzB7ho1kNo) to do it.
+Before start printing, you need to do a simple bed leveling to set the height between the nozzle and the bed (printing platform), so that the filament can be pasted on the bed well. Please refer to [:clapper: **Bed leveling video tutorial**][VIDEO_BEDLEVEL] to do it.
 
 ### <a id ="a3">Step 3. Load filaments</a>
-Refer to this [:clapper: video tutorial](https://youtu.be/KZQdL7Rgy1s) to load all 4 filaments to the extruders and hot end.     
+Refer to this [:clapper: video tutorial][VIDEO_LOADFILAMENT] to load all 4 filaments to the extruders and hot end.     
 #### :warning: ATTENTION PLEASE :warning: 
 1. **You need load all 4 filaments to the hot end whatever you print one color or multi color 3d prints.**
 2. **Ensure the filaments has been loaded to the bottom of the hot end, otherwise it may cause blockage the hot end.**

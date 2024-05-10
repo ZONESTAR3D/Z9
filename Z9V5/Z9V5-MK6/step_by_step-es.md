@@ -1,6 +1,8 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
+[VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
+[VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -33,10 +35,10 @@ En una palabra, desde el momento en que recibe la máquina hasta el momento en q
    Después de estos 3 pasos, básicamente se determina que la máquina está funcionando normalmente, puede continuar con los siguientes pasos. Si descubre que alguna pieza no funciona correctamente, verifique nuevamente el cableado o consulte [:clapper: **video tutorial de prueba automática de la máquina**](https://youtu.be/Mf92BlmKA0A) para realizar una máquina automática. pruebas.
 
 ### <a id ="a2">Paso 2. Nivelar la cama</a>
-Antes de comenzar a imprimir, debe realizar una simple nivelación de la cama para establecer la altura entre la boquilla y la cama (plataforma de impresión), de modo que el filamento se pueda pegar bien en la cama. Consulte [:clapper: **Videotutorial de nivelación de la cama**](https://youtu.be/nxzB7ho1kNo) para hacerlo.
+Antes de comenzar a imprimir, debe realizar una simple nivelación de la cama para establecer la altura entre la boquilla y la cama (plataforma de impresión), de modo que el filamento se pueda pegar bien en la cama. Consulte [:clapper: **Videotutorial de nivelación de la cama**][VIDEO_BEDLEVEL] para hacerlo.
 
 ### <a id ="a3">Paso 3. Cargar filamentos</a>
-Consulte este [:clapper: video tutorial](https://youtu.be/KZQdL7Rgy1s) para cargar los 4 filamentos en las extrusoras y el extremo caliente.
+Consulte este [:clapper: video tutorial][VIDEO_LOADFILAMENT] para cargar los 4 filamentos en las extrusoras y el extremo caliente.
 #### :warning: ATENCIÓN POR FAVOR :warning:
 1. **Necesita cargar los 4 filamentos en el extremo caliente, independientemente de lo que imprima en un color o en impresiones 3D de varios colores.**
 2. **Asegúrese de que los filamentos se hayan cargado hasta la parte inferior del extremo caliente; de lo contrario, podría bloquear el extremo caliente.**

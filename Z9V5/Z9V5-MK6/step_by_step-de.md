@@ -1,6 +1,8 @@
 [LCD_MENU]: https://github.com/ZONESTAR3D/Z9/tree/main/Z9V5/Z9V5-MK6/LCDMENU_Description.md
 [PRUSA_SLICER]: https://github.com/ZONESTAR3D/Slicing-Guide/tree/master/PrusaSlicer
 [VIDEO_POWERON]: https://github.com/ZONESTAR3D/Z9/assets/29502731/02fa8e57-a292-4aa5-bb7b-eaa703e3fc1b
+[VIDEO_BEDLEVEL]: https://youtu.be/jNf98S0u2VQ
+[VIDEO_LOADFILAMENT]: https://youtu.be/1rr4dXRxKc4
 
 ----
 ## <a id="choose-language">:globe_with_meridians: Choose language </a>
@@ -33,10 +35,10 @@ Kurz gesagt, von dem Moment an, an dem Sie das Gerät erhalten haben, bis zu dem
    Nachdem diese 3 Schritte grundsätzlich festgestellt wurden, dass die Maschine normal funktioniert, können Sie mit den folgenden Schritten fortfahren. Wenn Sie feststellen, dass ein Teil nicht ordnungsgemäß funktioniert, überprüfen Sie bitte die Verkabelung noch einmal oder lesen Sie [:clapper: **Video-Tutorial zum automatischen Testen von Maschinen**](https://youtu.be/Mf92BlmKA0A), um eine automatische Maschine zu testen testen.
 
 ### <a id ="a2">Schritt 2. Das Bett nivellieren</a>
-Bevor Sie mit dem Drucken beginnen, müssen Sie eine einfache Bettnivellierung durchführen, um die Höhe zwischen der Düse und dem Bett (Druckplattform) einzustellen, damit das Filament gut auf dem Bett haften kann. Weitere Informationen finden Sie unter [:clapper: **Video-Tutorial zur Bettnivellierung**](https://youtu.be/nxzB7ho1kNo).
+Bevor Sie mit dem Drucken beginnen, müssen Sie eine einfache Bettnivellierung durchführen, um die Höhe zwischen der Düse und dem Bett (Druckplattform) einzustellen, damit das Filament gut auf dem Bett haften kann. Weitere Informationen finden Sie unter [:clapper: **Video-Tutorial zur Bettnivellierung**][VIDEO_BEDLEVEL].
 
 ### <a id ="a3">Schritt 3. Filamente laden</a>
-Sehen Sie sich dieses [:clapper: Video-Tutorial](https://youtu.be/KZQdL7Rgy1s) an, um alle 4 Filamente in die Extruder und das heiße Ende zu laden.
+Sehen Sie sich dieses [:clapper: Video-Tutorial][VIDEO_LOADFILAMENT] an, um alle 4 Filamente in die Extruder und das heiße Ende zu laden.
 #### :warning: ACHTUNG BITTE :warning:
 1. **Sie müssen alle 4 Filamente am heißen Ende laden, unabhängig davon, ob Sie ein- oder mehrfarbige 3D-Drucke drucken.**
 2. **Stellen Sie sicher, dass die Filamente bis zum unteren Ende des heißen Endes geladen wurden, andernfalls kann es zu einer Blockierung des heißen Endes kommen.**
