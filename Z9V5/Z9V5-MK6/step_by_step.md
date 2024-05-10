@@ -16,7 +16,9 @@
 ----
 ## Step by Step Guide
 In a word, from the moment you received the machine to the moment you can print your own 3D model file, there are a total of 5 steps required: **Installation - Leveling the bed - Load filaments - Printing test gcode file - Slicing and print your own 3d file**.      
-###### 
+#### Installation
+[![](https://img.youtube.com/vi/pdr8nLl3T3w/0.jpg)](https://www.youtube.com/watch?v=pdr8nLl3T3w)
+#### Basic Operations
 [![](https://img.youtube.com/vi/GrCOZ4ADHeA/0.jpg)](https://www.youtube.com/watch?v=GrCOZ4ADHeA)
 
 ### <a id ="a1">Step 1. Installation</a>

@@ -16,7 +16,9 @@
 ----
 ## ステップバイステップガイド
 つまり、マシンを受け取った瞬間から独自の 3D モデル ファイルを印刷できるようになるまで、合計 5 つのステップが必要です: **設置 - ベッドの水平調整 - フィラメントのロード - テスト gcode ファイルの印刷 - スライスと 独自の 3D ファイルを印刷します**。
-###### 
+#### Installation
+[![](https://img.youtube.com/vi/pdr8nLl3T3w/0.jpg)](https://www.youtube.com/watch?v=pdr8nLl3T3w)
+#### Basic Operations
 [![](https://img.youtube.com/vi/GrCOZ4ADHeA/0.jpg)](https://www.youtube.com/watch?v=GrCOZ4ADHeA)
 
 ### <a id ="a1">ステップ 1. インストール</a>

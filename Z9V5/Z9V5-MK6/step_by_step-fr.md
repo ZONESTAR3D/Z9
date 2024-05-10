@@ -16,7 +16,9 @@
 ----
 ## Guide étape par étape
 En un mot, à partir du moment où vous recevez la machine jusqu'au moment où vous pouvez imprimer votre propre fichier de modèle 3D, 5 étapes au total sont requises : **Installation - Mise à niveau du lit - Chargement des filaments - Impression du fichier gcode de test - Tranchage et imprimez votre propre fichier 3D**.
-###### 
+#### Installation
+[![](https://img.youtube.com/vi/pdr8nLl3T3w/0.jpg)](https://www.youtube.com/watch?v=pdr8nLl3T3w)
+#### Basic Operations
 [![](https://img.youtube.com/vi/GrCOZ4ADHeA/0.jpg)](https://www.youtube.com/watch?v=GrCOZ4ADHeA)
 
 ### <a id ="a1">Étape 1. Installation</a>

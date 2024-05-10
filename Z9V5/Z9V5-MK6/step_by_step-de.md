@@ -16,7 +16,9 @@
 ----
 ## Schritt für Schritt Anleitung
 Kurz gesagt, von dem Moment an, an dem Sie das Gerät erhalten haben, bis zu dem Moment, an dem Sie Ihre eigene 3D-Modelldatei drucken können, sind insgesamt 5 Schritte erforderlich: **Installation – Nivellieren des Bettes – Laden von Filamenten – Drucken der Test-Gcode-Datei – Schneiden und Drucken Sie Ihre eigene 3D-Datei**.
-###### 
+#### Installation
+[![](https://img.youtube.com/vi/pdr8nLl3T3w/0.jpg)](https://www.youtube.com/watch?v=pdr8nLl3T3w)
+#### Basic Operations
 [![](https://img.youtube.com/vi/GrCOZ4ADHeA/0.jpg)](https://www.youtube.com/watch?v=GrCOZ4ADHeA)
 
 ### <a id ="a1">Schritt 1. Installation</a>
