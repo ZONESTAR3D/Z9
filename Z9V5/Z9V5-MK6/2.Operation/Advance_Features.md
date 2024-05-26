@@ -1,13 +1,14 @@
 ## Advance features
 ### Contents
-- [**Bed auto leveling Feature**](#bed-auto-leveling)
-- [**Power Auto Shutdown Feature**](#power-auto-shutdownwn)
-- [**Filament Run Out Detect Feature**](#filament-run-out-detect)
-- [**Power Loss Recovery Feature**](#power-loss-recovery)
-- [**Auto retract**](#auto-retract)
+- [**Bed auto leveling Feature**](#a1)
+- [**Power Auto Shutdown Feature**](#a2)
+- [**Auto Mixing Feature**](#a3)
+- [**Filament Run Out Detect Feature**](#a4)
+- [**Power Loss Recovery Feature**](#a5)
+- [**Auto retract**](#a6)
 
------
-### Bed Auto Leveling
+----
+### <a id="a1">Bed Auto Leveling</a>
 #### [:clapper: Video tutorial](https://youtu.be/Zoyl6PybsUk)  
 :book: Most beds appear quite flat and even, but even when the bed is flat, there may be irregularities due to tape or other matter on the surface. Bed Automatic Leveling helps improve the quality of printing and bed adhesion by taking several measurements of the bed surface and then adjusting all movement to follow the tilt or contours of the bed.   
 #### Steps of turn on bed auto leveling feature:
@@ -27,8 +28,8 @@
 :pushpin: For a more detailed user manual about bed automatic leveling, please refer to:
 https://github.com/ZONESTAR3D/Upgrade-kit-guide/blob/main/Bed_Leveling_Sensor/PL-08N/ABL_LCDDWIN.md
 
------
-### Power auto shutdown
+----
+### <a id="a2">Power auto shutdown</a>
 #### [:clapper:Video tutorial](https://youtu.be/SJLpmJL-tG4).
 #### Turn on the auto shutdown feature on LCD screen 
 You can turn on the auto shut down feature on LCD sceen, after turned on it, the machine will shut down automatically:
@@ -39,8 +40,15 @@ You can turn on the auto shut down feature on LCD sceen, after turned on it, the
 You can also add a "M81" gcode command in the "End G-code" of the slicing software, it will turn off the printer after finished to print the gcode file.      
 ![](./Advance_Features/M81.jpg)
 
------
-### Filament Run Out Detect
+----
+### <a id="a3">Auto Mixing Feature</a>
+The color mixing feature is a function to mix multi different color filaments and extruded from one nozzle to get a new color filament. By adjusting the extrude ratio of each extruder, it can get different color filament. For example, mix Magenta and Yellow filament as a ratio 5:1 to get Red filament, and mix Magenta and Yellow filament as a ratio 1:1 to get Orange filament, etc..    
+For details about the Color Mixing Feature, please refer to https://github.com/ZONESTAR3D/Document-and-User-Guide/blob/master/Mixing_Color/Auto_Mixing.md.     
+![](mix1.jpg) ![](mix2.jpg) ![](mix3.jpg) 
+
+
+----
+### <a id="a4">Filament Run Out Detect</a>
 #### Introduction of Filament Run Out Sensor
 ![](./Advance_Features/FROD1.jpg)
 - **LED:** Filament detection indicator light, it will light up when the filament is inserted.
@@ -62,16 +70,16 @@ If there is not enough filaments left in the filament roll to complete the curre
 3. If you need to use the Filament run out detect function, you should insert filaments on all 4 sensors. If you do not actually use 4 filaments when printing, you can cut a small segment of filaments and insert it into the shortage detection sensor. As shown in the following figure:     
 ![](./Advance_Features/FROD_dummy.png)     
 
------
-### Power Loss Recovery
+----
+### <a id="a5">Power Loss Recovery</a>
 #### [:clapper: **Video tutorial**](https://youtu.be/f-PpasByiiE)   
 If your power supply network has frequent power outages, you can enable the automatic power losss recovery function before start printing. When the power goes out and it resumed, you can press the DC switch to turn on the power of the machine, and then the machine will automatically detect the printing breakpoint and provide you with whether you need to continue printing.    
 #### :warning: Notice 
 1. Breakpoints data and gcode files will be stored on the SD, must keep the SD card in socket before turn on the machine.       
 2. The printing pause may cause some obvious defects on the prints.    
 
------
-### Auto retract
+----
+### <a id="a6">Auto retract</a>
 The retraction setting is very effective in solving string issues. If you are not satisfied with the retraction parameters you set during slicing, you can enable "Auto Retract" function on the LCD menu. Once Auto Retract is enabled, the retraction parameters of the gcode file in the SD card will be replaced by the parameters in the LCD menu during the printing process, which will help you find the retraction settings suitable for your machine and filamanets.
 ### 1. Enter Auto Retract Menu Open the Configure Menu and click Auto Retract to enable 
 ![](./Advance_Features/retract1.png)
