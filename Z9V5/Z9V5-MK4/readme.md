@@ -88,7 +88,7 @@ Please download the slicing software and install to your PC, and then read the g
 -----
 ## Advanced features
 ### Bed auto leveling 
-Bending of the 3D printer's hotbed is unavoidable. When you are printing a print with a large bottom, you need to use the hotbed auto-leveling feature to correct the curvature of the hotbed. For how to use, please refer to [:book: **Detail User Guide**](./1.Installation_and_User_Guide/Advance_Features/Bed_Auto_Leveling).
+Bending of the 3D printer's hotbed is unavoidable. When you are printing a print with a large bottom, you need to use the hotbed auto-leveling feature to correct the curvature of the hotbed. For how to use, please refer to [:book: **Detail User Guide**](./1.Installation_and_User_Guide/Advance_Features.md).
 ### Power auto shutdown after print finished  
 Usually 3D printing takes a long time, you can enable this feature to let the machine turn off automatically after the printing is finished to save energy.
 [:book: **Detail User Guide**](./1.Installation_and_User_Guide/Advance_Features.md).
